@@ -1,5 +1,5 @@
 ---
-title: "Jenevieve's website"
+title: "Jenevieve's website🎀"
 ---
 
 This is a Quarto website.
