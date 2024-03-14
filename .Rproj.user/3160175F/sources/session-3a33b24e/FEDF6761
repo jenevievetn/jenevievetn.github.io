@@ -3,7 +3,7 @@
     "path": "~/SKOOO/Y1 S2 Modules 2024/NM2207/Project/jenevievetn.github.io/about.qmd",
     "project_path": "about.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2642113973",
     "contents": "",
     "dirty": false,
     "created": 1710388513734.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "357:128.88890075683594",
+        "rmdVisualModeLocation": "333:51.111114501953125",
         "cursorPosition": "0,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1710393807,
+    "lastKnownWriteTime": 1710406788,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1710393807900,
+    "last_content_update": 1710406788652,
     "read_only": false,
     "read_only_alternatives": []
 }
