@@ -4,13 +4,20 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Welcome to the website!\n\n1 + 1\n\n[1] 2\n\n\n\nData Visualisation"
+    "text": "Hello and welcome to my webpage! My name is Jenevieve and I’m delighted to have you here.\nI am a Year 1 Communications and New Media major with a minor in Interactive Media Development. This webpage serves as a platform for me to share my journey, insights and projects with you.\nThank you for visiting!👋\n\nTelling Data Stories"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Jenevieve’s website🎀",
+    "title": "Jenevieve’s website🧸🍓️",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi there! I’m Jenevieve, the curator of this cozy little nook in the digital universe.\n\nWhat You’ll Discover Here\nHere, you’ll find a mishmash of my digital doodles, tech tinkering, and musings about life, the universe, and everything in between."
+  },
+  {
+    "objectID": "index.html#what-youll-discover-here",
+    "href": "index.html#what-youll-discover-here",
+    "title": "Jenevieve’s website🎀",
+    "section": "What You’ll Discover Here",
+    "text": "What You’ll Discover Here\nHere, you’ll find a mishmash of my digital doodles, tech tinkering, and musings about life, the universe, and everything in between."
   }
 ]

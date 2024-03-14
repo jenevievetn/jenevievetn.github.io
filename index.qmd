@@ -1,11 +1,9 @@
 ---
-title: "Jenevieve's website🎀"
+title: "Jenevieve's website🧸🍓️"
 ---
 
-This is a Quarto website.
+Hi there! I'm Jenevieve, the curator of this cozy little nook in the digital universe.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### What You'll Discover Here
 
-```{r}
-1 + 1
-```
+Here, you'll find a mishmash of my digital doodles, tech tinkering, and musings about life, the universe, and everything in between.
