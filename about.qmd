@@ -6,6 +6,8 @@ Hello and welcome to my webpage! My name is **Jenevieve** and I'm delighted to h
 
 I am a Year 1 *Communications and New Media* major with a minor in Interactive Media Development. This webpage serves as a platform for me to share my journey, insights and projects with you.
 
-Thank you for visiting\!💟
+Thank you for visiting!💟
 
-# Telling Data Stories
+# Rediscover Harry Potter Through Data
+
+Traverse the magical landscape of J.K. Rowling's beloved series, reimagined through data⚡. Through immersive data visualisations and insightful analysis, this project aims to unveil the hidden depths and captivating characters that define Rowling's masterpiece, offering fresh perspectives and newfound appreciation for the wizarding world of Harry Potter.
