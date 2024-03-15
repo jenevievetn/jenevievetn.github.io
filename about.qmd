@@ -11,3 +11,13 @@ Thank you for visiting!💟
 # Rediscover Harry Potter Through Data
 
 Traverse the magical landscape of J.K. Rowling's beloved series, reimagined through data⚡. Through immersive data visualisations and insightful analysis, this project aims to unveil the hidden depths and captivating characters that define Rowling's masterpiece, offering fresh perspectives and newfound appreciation for the wizarding world of Harry Potter.
+
+## Identified Datasets
+
+-   [Harry Potter movie dataset](https://www.kaggle.com/datasets/maricinnamon/harry-potter-movies-dataset)
+
+-   [Harry Potter character dataset](https://www.kaggle.com/datasets/zez000/characters-in-harry-potter-books)
+
+-   [Harry Potter books (all) dataset](https://www.kaggle.com/datasets/moxxis/harry-potter-lstm/data)
+
+-   [Harry Potter character network](https://github.com/efekarakus/potter-network)
