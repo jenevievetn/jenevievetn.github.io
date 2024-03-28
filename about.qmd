@@ -21,7 +21,3 @@ Traverse the magical landscape of J.K. Rowling's beloved series, reimagined thro
 -   [Harry Potter books (all) dataset](https://www.kaggle.com/datasets/moxxis/harry-potter-lstm/data)
 
 -   [Harry Potter character network](https://github.com/efekarakus/potter-network)
-
-```{=html}
-<iframe height="400" width="100%" frameborder="no" src="https://jenevievetn.shinyapps.io/personal_app/"> </iframe>
-```
