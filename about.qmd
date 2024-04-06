@@ -25,4 +25,3 @@ Traverse the magical landscape of J.K. Rowling's beloved series, reimagined thro
 ```{=html}
 <iframe height="400" width="100%" frameborder="no" src="https://jenevievetn.shinyapps.io/sample_app/"> </iframe>
 ```
-

@@ -9,9 +9,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Jenevieve’s website🧸🍓️",
+    "title": "Jenevieve’s Website 🧸🍓",
     "section": "",
-    "text": "Hi there! I’m Jenevieve, the curator of this cozy little nook in the digital universe.\n\nWhat You’ll Discover Here\nHere, you’ll find a mishmash of my digital doodles, tech tinkering, and musings about life, the universe, and everything in between."
+    "text": "Hi there! I’m Jenevieve, the curator of this cozy little nook in the digital universe.\nI fancy myself a bit of a storyteller, adept at spinning yarns with words and visuals alike. But here’s the twist: I’m now wading waist-deep into the vast sea of data for the first time. So, brace yourself for this maiden voyage into the realm of numbers and statistics. Will we navigate these uncharted waters successfully? I sure hope so!\n\nWhat emotions do key events in the Harry Potter series evoke, and how do they evolve throughout the series?\nHere, you’ll find a mishmash of my digital doodles, tech tinkering, and musings about life, the universe, and everything in between."
   },
   {
     "objectID": "index.html#what-youll-discover-here",
@@ -26,5 +26,40 @@
     "title": "About",
     "section": "Identified Datasets",
     "text": "Identified Datasets\n\nHarry Potter movie dataset\nHarry Potter character dataset\nHarry Potter books (all) dataset\nHarry Potter character network"
+  },
+  {
+    "objectID": "about - Copy.html",
+    "href": "about - Copy.html",
+    "title": "test",
+    "section": "",
+    "text": "Hello and welcome to my webpage! My name is Jenevieve and I’m delighted to have you here.\nI am a Year 1 Communications and New Media major with a minor in Interactive Media Development. This webpage serves as a platform for me to share my journey, insights and projects with you.\nThank you for visiting!💟"
+  },
+  {
+    "objectID": "about - Copy.html#identified-datasets",
+    "href": "about - Copy.html#identified-datasets",
+    "title": "test",
+    "section": "Identified Datasets",
+    "text": "Identified Datasets\n\nHarry Potter movie dataset\nHarry Potter character dataset\nHarry Potter books (all) dataset\nHarry Potter character network"
+  },
+  {
+    "objectID": "dataset.html",
+    "href": "dataset.html",
+    "title": "Dataset",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "dataset.html#quarto",
+    "href": "dataset.html#quarto",
+    "title": "Dataset",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "dataset.html#running-code",
+    "href": "dataset.html#running-code",
+    "title": "Dataset",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
   }
 ]
