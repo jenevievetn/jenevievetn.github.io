@@ -1,1 +1,16 @@
 /* css styles */
+/* Define a unique and descriptive class name */
+.playfair-display {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400; /* Adjust the font weight as needed */
+  font-style: normal;
+}
+
+.custom-header {
+    font-family: "Playfair Display", sans-serif;
+    /* Add more font properties as needed */
+}
+
+
+

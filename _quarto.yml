@@ -8,7 +8,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - dataset.qmd
       - about.qmd
 
 format:

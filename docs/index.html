@@ -105,7 +105,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#what-emotions-do-key-events-in-the-harry-potter-series-evoke-and-how-do-they-evolve-throughout-the-series" id="toc-what-emotions-do-key-events-in-the-harry-potter-series-evoke-and-how-do-they-evolve-throughout-the-series" class="nav-link active" data-scroll-target="#what-emotions-do-key-events-in-the-harry-potter-series-evoke-and-how-do-they-evolve-throughout-the-series">What emotions do key events in the Harry Potter series evoke, and how do they evolve throughout the series?</a></li>
+  <li><a href="#what-emotions-do-key-events-in-the-harry-potter-series-evoke-and-how-do-they-evolve-over-the-course-of-events" id="toc-what-emotions-do-key-events-in-the-harry-potter-series-evoke-and-how-do-they-evolve-over-the-course-of-events" class="nav-link active" data-scroll-target="#what-emotions-do-key-events-in-the-harry-potter-series-evoke-and-how-do-they-evolve-over-the-course-of-events">What emotions do key events in the Harry Potter series evoke, and how do they evolve over the course of events?</a></li>
   </ul>
 </nav>
     </div>
@@ -131,12 +131,96 @@ ul.task-list li input[type="checkbox"] {
 
 <p>Hi there! I’m Jenevieve, the curator of this cozy little nook in the digital universe.</p>
 <p>I fancy myself a bit of a storyteller, adept at spinning yarns with words and visuals alike. But here’s the twist: I’m now wading waist-deep into the vast sea of data for the first time. So, brace yourself for this maiden voyage into the realm of numbers and statistics. Will we navigate these uncharted waters successfully? I sure hope so!</p>
-<section id="what-emotions-do-key-events-in-the-harry-potter-series-evoke-and-how-do-they-evolve-throughout-the-series" class="level1">
-<h1>What emotions do key events in the Harry Potter series evoke, and how do they evolve throughout the series?</h1>
-<p>Here, you’ll find a mishmash of my digital doodles, tech tinkering, and musings about life, the universe, and everything in between.</p>
+<section id="what-emotions-do-key-events-in-the-harry-potter-series-evoke-and-how-do-they-evolve-over-the-course-of-events" class="level1">
+<h1>What emotions do key events in the Harry Potter series evoke, and how do they evolve over the course of events?</h1>
+<p>for NM2207.</p>
+<figure style="display: block; margin: 0 auto" class="figure">
+  <img src="1.jpg" alt="Our first look at Harry." style="width: 384px; height: 160px; display: block; margin: 0 auto;" class="figure-img">
+  <figcaption style="text-align: center;" class="figure-caption">Our first look at Harry.</figcaption>
+
+<h2 style="text-align: center;" class="anchored" data-anchor-id="what-emotions-do-key-events-in-the-harry-potter-series-evoke-and-how-do-they-evolve-over-the-course-of-events">This all started with a particularly <span style="background-color: #BDD5F4;">interesting question</span>. </h2>
+<p><strong>Picture this</strong>: It’s a rainy afternoon and you’re diving back into the magical world of Harry Potter, when suddenly, a curious question strikes you like a bolt of lightning⚡ - <em>what if we could quantify the emotional impact of each chapter</em>, dissecting the highs and lows with the precision of a potion master?</p>
+<p>As I embarked on my journey through the pages of J.K. Rowling’s beloved series once more, this question lingered in the back of my mind like a persistent spell. Could the joy, the sorrow, the excitement, and the fear evoked by these timeless tales be quantified and analysed?</p>
+<h2 style="text-align: center;" class="anchored">To do this, I retrieved a proprocessed dataset which contained all Harry Potter books in txt file format, and ran them through an <span style="background-color: #BDD5F4;">emotion sentiment analyser</span> , a powerful tool promising to unveil the hidden emotional nuances nestled within the text. </h2>
+
+<p>The difference between how readers interpret a passage's emotion sentiment and how an emotion sentiment analyser interprets the passage lies in the <u>subjective nature</u> of human emotions and the <u>objective algorithms</u> used by sentiment analysis tools.</p>
+<ul>
+<li><p><strong>Readers’ Interpretation</strong>: Readers’ interpretation of emotion sentiment is subjective and influenced by individual experiences, perspectives, and cultural backgrounds. They may perceive emotions differently based on personal context, preferences, and emotional sensitivity.</p></li>
+<li><p><strong>Emotion Sentiment Analyzer’s Interpretation</strong>: Emotion sentiment analysis relies on objective algorithms to analyse text and quantify emotional content. These algorithms are trained on large datasets and use predefined rules or machine learning models to identify and categorise emotional cues in text.</p></li>
+</ul>
+<p>Before we get into the results of the data analysis, let’s play a game to see how you would identify and categorise emotional cues in text.</p>
+<p>Here are several excerpts from the actual Harry Potter books. For each one, select which emotion you think is the most prevalent. Don’t think too hard about it—just react!</p>
+<p><em>due to problems encountered with the game, it has not been included in the website yet.</em></p>
+<p>As you read the Harry Potter excerpts, you likely gravitated towards specific emotions, reflecting your individual perspective and emotional awareness. This subjective interpretation is a hallmark of human cognition, shaped by our individual experiences, biases, and cultural backgrounds.</p>
+<p>In contrast, emotion sentiment analysers rely on objective algorithms to analyze text and measure emotional content. While these algorithms provide insights and efficiency in processing large volumes of data, they lack the nuanced understanding and context of human emotion interpretation.</p>
+<p>Now, let’s see how the emotion sentiment analyser interprets the Harry Potter series using the data gathered.</p>
+<br>
+<figure style="display: block; margin: 0 auto" class="figure">
+  <img src="4.jpg" alt="Platform nine and three-quarters." style="width: 384px; height: 160px; display: block; margin: 0 auto;" class="figure-img">
+  <figcaption style="text-align: center;" class="figure-caption">Platform nine and three-quarters.</figcaption>
+
+<br>  
+<p style="text-align: center;"> ⚡️⚯ 🧹 </p>
+
+<h2 class="anchored">Sentimentr Package </h2>
+<p>The sentimentr package by Tyler Rinker in R is designed to accurately calculate text polarity sentiment at both the sentence and token levels. It offers enhanced precision in sentiment scoring by considering valence shifters like negators, amplifiers, de-amplifiers, and adversative conjunctions.</p>
+<br>  
+<p style="text-align: center;"> 🏰🔮✨ </p>
+<h2 class="anchored">Two Sentiments: Positive and Negative </h2>
+
+<br>
+<figure style="display: block; margin: 0 auto" class="figure">
+  <img src="sentiment_chart.png" alt="Positive and negative sentiments throughout the series." style="width: 585px; height: 390px; display: block; margin: 0 auto;" class="figure-img">
+  <figcaption style="text-align: center;" class="figure-caption">Positive and negative sentiments throughout the series.</figcaption>
+<br>
+<p>By plotting at the sentiment score for each chapter of each book, we can clearly mark events in the books. The three greatest spikes in that chart above are Cedric Diggory’s death at about chapter 88, Sirius Black’s death at about chapter 129, and Dumbledore’s death at about chapter 160.</p>
+<br>  
+<p style="text-align: center;"> 🦁🐍🦅🦡</p>
+<h2 class="anchored">Eight Basic Emotions: Anger, Disgust, Fear, Joy, Sadness, Surprise, Trust, and Anticipation </h2>
+
+<br>
+<figure style="display: block; margin: 0 auto" class="figure">
+  <img src="anger_chart.png" alt="Anger sentiments throughout the series." style="width: 585px; height: 390px; display: block; margin: 0 auto;" class="figure-img">
+  <figcaption style="text-align: center;" class="figure-caption">Anger sentiments throughout the series.</figcaption>
+<br>
+
+<figure style="display: block; margin: 0 auto" class="figure">
+  <img src="anticipation_chart.png" alt="Anticipation sentiments throughout the series." style="width: 585px; height: 390px; display: block; margin: 0 auto;" class="figure-img">
+  <figcaption style="text-align: center;" class="figure-caption">Anticipation sentiments throughout the series.</figcaption>
+<br>
+
+<figure style="display: block; margin: 0 auto" class="figure">
+  <img src="disgust_chart.png" alt="Disgust sentiments throughout the series." style="width: 585px; height: 390px; display: block; margin: 0 auto;" class="figure-img">
+  <figcaption style="text-align: center;" class="figure-caption">Disgust sentiments throughout the series.</figcaption>
+<br>
+
+<figure style="display: block; margin: 0 auto" class="figure">
+  <img src="fear" alt="Fear sentiments throughout the series." style="width: 585px; height: 390px; display: block; margin: 0 auto;" class="figure-img">
+  <figcaption style="text-align: center;" class="figure-caption">Fear sentiments throughout the series.</figcaption>
+<br>
+
+<figure style="display: block; margin: 0 auto" class="figure">
+  <img src="joy_chart.png" alt="Joy sentiments throughout the series." style="width: 585px; height: 390px; display: block; margin: 0 auto;" class="figure-img">
+  <figcaption style="text-align: center;" class="figure-caption">Joy sentiments throughout the series.</figcaption>
+<br>
+
+<figure style="display: block; margin: 0 auto" class="figure">
+  <img src="sadness_chart.png" alt="Sadness sentiments throughout the series." style="width: 585px; height: 390px; display: block; margin: 0 auto;" class="figure-img">
+  <figcaption style="text-align: center;" class="figure-caption">Sadness sentiments throughout the series.</figcaption>
+<br>
+
+<figure style="display: block; margin: 0 auto" class="figure">
+  <img src="surprise_chart.png" alt="Surprise sentiments throughout the series." style="width: 585px; height: 390px; display: block; margin: 0 auto;" class="figure-img">
+  <figcaption style="text-align: center;" class="figure-caption">Surprise sentiments throughout the series.</figcaption>
+<br>
+
+<figure style="display: block; margin: 0 auto" class="figure">
+  <img src="trust_chart.png" alt="Trust sentiments throughout the series." style="width: 585px; height: 390px; display: block; margin: 0 auto;" class="figure-img">
+  <figcaption style="text-align: center;" class="figure-caption">Trust sentiments throughout the series.</figcaption>
+<br>
 
 
-</section>
+</figure></figure></figure></figure></figure></figure></figure></figure></figure></figure></figure></section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

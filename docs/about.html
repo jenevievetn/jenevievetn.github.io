@@ -105,10 +105,7 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#rediscover-harry-potter-through-data" id="toc-rediscover-harry-potter-through-data" class="nav-link active" data-scroll-target="#rediscover-harry-potter-through-data">Rediscover Harry Potter Through Data</a>
-  <ul class="collapse">
-  <li><a href="#identified-datasets" id="toc-identified-datasets" class="nav-link" data-scroll-target="#identified-datasets">Identified Datasets</a></li>
-  </ul></li>
+  <li><a href="#how-i-made-this" id="toc-how-i-made-this" class="nav-link active" data-scroll-target="#how-i-made-this">How I made this</a></li>
   </ul>
 </nav>
     </div>
@@ -132,24 +129,16 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Hello and welcome to my webpage! My name is <strong>Jenevieve</strong> and I’m delighted to have you here.</p>
-<p>I am a Year 1 <em>Communications and New Media</em> major with a minor in Interactive Media Development. This webpage serves as a platform for me to share my journey, insights and projects with you.</p>
+<p>Hello and welcome to my webpage! My name is <strong>Jenevieve</strong> and this is my first time attempting to create a data story.</p>
+<p>I am a Year 1 <em>Communications and New Media</em> major with a minor in Interactive Media Development. This webpage serves as a platform for me to share my journey, insights and project with you.</p>
 <p>Thank you for visiting!💟</p>
-<section id="rediscover-harry-potter-through-data" class="level1">
-<h1>Rediscover Harry Potter Through Data</h1>
-<p>Traverse the magical landscape of J.K. Rowling’s beloved series, reimagined through data⚡. Through immersive data visualisations and insightful analysis, this project aims to unveil the hidden depths and captivating characters that define Rowling’s masterpiece, offering fresh perspectives and newfound appreciation for the wizarding world of Harry Potter.</p>
-<section id="identified-datasets" class="level2">
-<h2 class="anchored" data-anchor-id="identified-datasets">Identified Datasets</h2>
-<ul>
-<li><p><a href="https://www.kaggle.com/datasets/maricinnamon/harry-potter-movies-dataset">Harry Potter movie dataset</a></p></li>
-<li><p><a href="https://www.kaggle.com/datasets/zez000/characters-in-harry-potter-books">Harry Potter character dataset</a></p></li>
-<li><p><a href="https://www.kaggle.com/datasets/moxxis/harry-potter-lstm/data">Harry Potter books (all) dataset</a></p></li>
-<li><p><a href="https://github.com/efekarakus/potter-network">Harry Potter character network</a></p></li>
-</ul>
+<section id="how-i-made-this" class="level2">
+<h2 class="anchored" data-anchor-id="how-i-made-this">How I made this</h2>
+<p>To conduct this analysis, I utilised a <a href="https://www.kaggle.com/datasets/moxxis/harry-potter-lstm?select=Harry_Potter_all_books_preprocessed.txt">data set</a> comprising all seven Harry Potter books in TXT format, which had been preprocessed by Mateusz Kudla and made available on Kaggle.</p>
+<p>Additional preprocessing was performed using the tidytext and textdata packages in R. Each book’s text was segmented into chapters, allowing for a more granular analysis. The chapter-wise text was then compiled into a tibble, facilitating streamlined data handling and analysis.</p>
 <iframe height="400" width="100%" frameborder="no" src="https://jenevievetn.shinyapps.io/sample_app/"> </iframe>
 
 
-</section>
 </section>
 
 </main> <!-- /main -->

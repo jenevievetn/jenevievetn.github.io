@@ -2,25 +2,17 @@
 title: "About"
 ---
 
-Hello and welcome to my webpage! My name is **Jenevieve** and I'm delighted to have you here.
+Hello and welcome to my webpage! My name is **Jenevieve** and this is my first time attempting to create a data story.
 
-I am a Year 1 *Communications and New Media* major with a minor in Interactive Media Development. This webpage serves as a platform for me to share my journey, insights and projects with you.
+I am a Year 1 *Communications and New Media* major with a minor in Interactive Media Development. This webpage serves as a platform for me to share my journey, insights and project with you.
 
 Thank you for visiting!💟
 
-# Rediscover Harry Potter Through Data
+## How I made this
 
-Traverse the magical landscape of J.K. Rowling's beloved series, reimagined through data⚡. Through immersive data visualisations and insightful analysis, this project aims to unveil the hidden depths and captivating characters that define Rowling's masterpiece, offering fresh perspectives and newfound appreciation for the wizarding world of Harry Potter.
+To conduct this analysis, I utilised a [data set](https://www.kaggle.com/datasets/moxxis/harry-potter-lstm?select=Harry_Potter_all_books_preprocessed.txt) comprising all seven Harry Potter books in TXT format, which had been preprocessed by Mateusz Kudla and made available on Kaggle.
 
-## Identified Datasets
-
--   [Harry Potter movie dataset](https://www.kaggle.com/datasets/maricinnamon/harry-potter-movies-dataset)
-
--   [Harry Potter character dataset](https://www.kaggle.com/datasets/zez000/characters-in-harry-potter-books)
-
--   [Harry Potter books (all) dataset](https://www.kaggle.com/datasets/moxxis/harry-potter-lstm/data)
-
--   [Harry Potter character network](https://github.com/efekarakus/potter-network)
+Additional preprocessing was performed using the tidytext and textdata packages in R. Each book's text was segmented into chapters, allowing for a more granular analysis. The chapter-wise text was then compiled into a tibble, facilitating streamlined data handling and analysis.
 
 ```{=html}
 <iframe height="400" width="100%" frameborder="no" src="https://jenevievetn.shinyapps.io/sample_app/"> </iframe>
