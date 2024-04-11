@@ -14,9 +14,10 @@ ui <- fluidPage(
   titlePanel(
     div(
       style = "font-size: 23px;",  # Adjust font size here
-      "Combined Emotional Sentiments of the Harry Potter Series"
+      "Combined Emotional Sentiment of the Harry Potter Series"
     )
-    ),
+  ),
+  
   # Sidebar layout with input and output definitions
   sidebarLayout(
     # Sidebar panel for inputs
@@ -45,7 +46,7 @@ server <- function(input, output, session) {
     # Plot sentiment chart for the selected emotions
     ggplot(filtered_sentiment, aes(x = chapter, y = sentiment, color = emotion)) +
       geom_line(linewidth = 1) +
-      labs(title = paste0(emotion, " Sentiment Analysis"),
+      labs(title = " Sentiment Analysis",
            x = "Chapter",
            y = "Average Sentiment",
            colour = NULL) +
