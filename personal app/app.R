@@ -5,11 +5,13 @@ library(tidyverse)
 # Load the data
 avg_emotion_per_chapter <- read.csv("avg_emotion_per_chapter.csv")
 
+# Convert book_title to factor with desired order
+avg_emotion_per_chapter$book_title <- factor(avg_emotion_per_chapter$book_title, levels = unique(avg_emotion_per_chapter$book_title))
 
 # Define custom emotion names
 custom_emotion_names <- c("Anger", "Anticipation", "Disgust", "Fear", "Joy", "Sadness", "Surprise", "Trust")
 
-# Define custom hex colors for each emotion
+# Define custom hex colors for each book title
 custom_colors <- c("#EB022E", "#008FD5", "#F9BC44", "#933289", "#FB924B", "#6A8E4B", "#8B8B8B", "#024B8F")
 
 # Define UI for application
@@ -18,8 +20,8 @@ ui <- fluidPage(
   # Application title
   titlePanel(
     div(
-      style = "font-size: 24px;",  # Adjust font size here
-      "Emotional Sentiment of the Harry Potter Series"
+      style = "font-size: 23px;",  # Adjust font size here
+      "Individual Emotional Sentiment of the Harry Potter Series"
     )
   ),
   
@@ -68,8 +70,8 @@ server <- function(input, output, session) {
                                         colour = "grey95"),
         
         panel.grid.major = element_line(colour = "grey"),  # Make the major grid lines shaded grey
-        legend.position = "bottom",  # Move legend to the bottom
-        legend.text = element_text(size = 5), # Change the font size of legend text
+        legend.position = "right",  # Move legend to the bottom
+        legend.text = element_text(size = 7), # Change the font size of legend text
         legend.title = element_text(size = 7), # Change the font size of legend title
         legend.spacing.y = unit(0.1, "cm")      # Adjust legend item spacing
       ) +
