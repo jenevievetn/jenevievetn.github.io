@@ -2,11 +2,13 @@
 title: "Jenevieve's Website 🧸🍓"
 ---
 
-Hi there! I'm Jenevieve, the curator of this cozy little nook in the digital universe.
+Hello and welcome to my webpage! My name is Jenevieve and this is my first time attempting to create a data story.
 
-I fancy myself a bit of a storyteller, adept at spinning yarns with words and visuals alike. But here's the twist: I'm now wading waist-deep into the vast sea of data for the first time. So, brace yourself for this maiden voyage into the realm of numbers and statistics. Will we navigate these uncharted waters successfully? I sure hope so!
+I am a Year 1 Communications and New Media major with a minor in Interactive Media Development. This webpage serves as a platform for me to share my journey, insights and project with you.
 
-# What emotions do key events in the Harry Potter series evoke, and how do they evolve over the course of events?
+Thank you for visiting!💟
+
+# What emotions are evoked in the Harry Potter series, and how do they evolve over time?
 
 for NM2207.
 
@@ -15,14 +17,14 @@ for NM2207.
   <img src="1.jpg" alt="Our first look at Harry." style="width: 384px; height: 160px; display: block; margin: 0 auto;">
   <figcaption style="text-align: center;">Our first look at Harry.</figcaption>
 
-<h2 style="text-align: center;">This all started with a particularly <span style="background-color: #BDD5F4;">interesting question</span>. </h2>
+<h2 style="text-align: center;">This all started with a particularly <span style="background-color: #FFCCDC;">interesting question</span>. </h2>
 ```
 **Picture this**: It's a rainy afternoon and you're diving back into the magical world of Harry Potter, when suddenly, a curious question strikes you like a bolt of lightning⚡ - *what if we could quantify the emotional impact of each chapter*, dissecting the highs and lows with the precision of a potion master?
 
 As I embarked on my journey through the pages of J.K. Rowling's beloved series once more, this question lingered in the back of my mind like a persistent spell. Could the joy, the sorrow, the excitement, and the fear evoked by these timeless tales be quantified and analysed?
 
 ```{=html}
-<h2 style="text-align: center;">To do this, I retrieved a proprocessed dataset which contained all Harry Potter books in txt file format, and ran them through an <span style="background-color: #BDD5F4;">emotion sentiment analyser</span> , a powerful tool promising to unveil the hidden emotional nuances nestled within the text. </h2>
+<h2 style="text-align: center;">To do this, I retrieved a proprocessed dataset which contained all Harry Potter books in txt file format, and ran them through an <span style="background-color: #FFCCDC;">emotion sentiment analyser</span> , a powerful tool promising to unveil the hidden emotional nuances nestled within the text. </h2>
 
 <p>The difference between how readers interpret a passage's emotion sentiment and how an emotion sentiment analyser interprets the passage lies in the <u>subjective nature</u> of human emotions and the <u>objective algorithms</u> used by sentiment analysis tools.</p>
 ```
@@ -116,4 +118,9 @@ By plotting at the sentiment score for each chapter of each book, we can clearly
   <img src="trust_chart.png" alt="Trust sentiments throughout the series." style="width: 585px; height: 390px; display: block; margin: 0 auto;">
   <figcaption style="text-align: center;">Trust sentiments throughout the series.</figcaption>
 <br>
+```
+
+
+```{=html}
+<iframe height="400" width="100%" frameborder="no" src="https://jenevievetn.shinyapps.io/sample_app/"> </iframe>
 ```

@@ -2,12 +2,6 @@
 title: "About"
 ---
 
-Hello and welcome to my webpage! My name is **Jenevieve** and this is my first time attempting to create a data story.
-
-I am a Year 1 *Communications and New Media* major with a minor in Interactive Media Development. This webpage serves as a platform for me to share my journey, insights and project with you.
-
-Thank you for visiting!💟
-
 ## How I made this
 
 To conduct this analysis, I utilised a [data set](https://www.kaggle.com/datasets/moxxis/harry-potter-lstm?select=Harry_Potter_all_books_preprocessed.txt) comprising all seven Harry Potter books in TXT format, which had been preprocessed by Mateusz Kudla and made available on Kaggle.
