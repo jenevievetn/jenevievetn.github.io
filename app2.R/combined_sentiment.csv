@@ -1,0 +1,1585 @@
+book_title,chapter,emotion,sentiment
+Harry Potter and the Philosopher's Stone,1,Anger,7.899324471562432e-4
+Harry Potter and the Philosopher's Stone,1,Anticipation,0.0010078448463717586
+Harry Potter and the Philosopher's Stone,1,Disgust,5.039224231858793e-4
+Harry Potter and the Philosopher's Stone,1,Fear,7.49073872303334e-4
+Harry Potter and the Philosopher's Stone,1,Joy,8.03551972107213e-4
+Harry Potter and the Philosopher's Stone,1,Sadness,9.3974722161691e-4
+Harry Potter and the Philosopher's Stone,1,Surprise,6.401176726955764e-4
+Harry Potter and the Philosopher's Stone,1,Trust,0.0014300501198518196
+Harry Potter and the Philosopher's Stone,2,Anger,0.0021257267441860466
+Harry Potter and the Philosopher's Stone,2,Anticipation,0.0013444767441860466
+Harry Potter and the Philosopher's Stone,2,Disgust,0.0010719476744186047
+Harry Potter and the Philosopher's Stone,2,Fear,0.001308139534883721
+Harry Potter and the Philosopher's Stone,2,Joy,0.0010719476744186047
+Harry Potter and the Philosopher's Stone,2,Sadness,0.0023982558139534886
+Harry Potter and the Philosopher's Stone,2,Surprise,8.357558139534884e-4
+Harry Potter and the Philosopher's Stone,2,Trust,0.001653343023255814
+Harry Potter and the Philosopher's Stone,3,Anger,0.0018663983380940016
+Harry Potter and the Philosopher's Stone,3,Anticipation,0.001428200467411062
+Harry Potter and the Philosopher's Stone,3,Disgust,7.465593352376006e-4
+Harry Potter and the Philosopher's Stone,3,Fear,7.465593352376006e-4
+Harry Potter and the Philosopher's Stone,3,Joy,5.518047260451831e-4
+Harry Potter and the Philosopher's Stone,3,Sadness,0.0018177096857958973
+Harry Potter and the Philosopher's Stone,3,Surprise,3.083614645546611e-4
+Harry Potter and the Philosopher's Stone,3,Trust,0.0012496754089846795
+Harry Potter and the Philosopher's Stone,4,Anger,0.001816268332428028
+Harry Potter and the Philosopher's Stone,4,Anticipation,0.001324008690928843
+Harry Potter and the Philosopher's Stone,4,Disgust,0.001001493753394894
+Harry Potter and the Philosopher's Stone,4,Fear,0.0016804725692558392
+Harry Potter and the Philosopher's Stone,4,Joy,8.317490494296577e-4
+Harry Potter and the Philosopher's Stone,4,Sadness,0.002070885388375883
+Harry Potter and the Philosopher's Stone,4,Surprise,9.16621401412276e-4
+Harry Potter and the Philosopher's Stone,4,Trust,0.0013070342205323193
+Harry Potter and the Philosopher's Stone,5,Anger,0.0019875989044430917
+Harry Potter and the Philosopher's Stone,5,Anticipation,0.0012553256238587948
+Harry Potter and the Philosopher's Stone,5,Disgust,8.7492391965916e-4
+Harry Potter and the Philosopher's Stone,5,Fear,9.224741326841144e-4
+Harry Potter and the Philosopher's Stone,5,Joy,8.08353621424224e-4
+Harry Potter and the Philosopher's Stone,5,Sadness,0.002044659160073037
+Harry Potter and the Philosopher's Stone,5,Surprise,7.037431527693245e-4
+Harry Potter and the Philosopher's Stone,5,Trust,0.001407486305538649
+Harry Potter and the Philosopher's Stone,6,Anger,0.0016614931550461636
+Harry Potter and the Philosopher's Stone,6,Anticipation,0.0012535816618911174
+Harry Potter and the Philosopher's Stone,6,Disgust,9.352117160140083e-4
+Harry Potter and the Philosopher's Stone,6,Fear,7.859758038841133e-4
+Harry Potter and the Philosopher's Stone,6,Joy,8.556192295447309e-4
+Harry Potter and the Philosopher's Stone,6,Sadness,0.001969914040114613
+Harry Potter and the Philosopher's Stone,6,Surprise,6.46688952562878e-4
+Harry Potter and the Philosopher's Stone,6,Trust,0.0010645495065265838
+Harry Potter and the Philosopher's Stone,7,Anger,0.0014391906997540801
+Harry Potter and the Philosopher's Stone,7,Anticipation,0.0010200089425441538
+Harry Potter and the Philosopher's Stone,7,Disgust,7.824726134585289e-4
+Harry Potter and the Philosopher's Stone,7,Fear,0.001103845293986139
+Harry Potter and the Philosopher's Stone,7,Joy,0.0010339816677844846
+Harry Potter and the Philosopher's Stone,7,Sadness,0.0018164542812430136
+Harry Potter and the Philosopher's Stone,7,Surprise,8.104180639391907e-4
+Harry Potter and the Philosopher's Stone,7,Trust,0.0015090543259557343
+Harry Potter and the Philosopher's Stone,8,Anger,0.0016941541476159373
+Harry Potter and the Philosopher's Stone,8,Anticipation,0.0011838667537557154
+Harry Potter and the Philosopher's Stone,8,Disgust,7.756368386675376e-4
+Harry Potter and the Philosopher's Stone,8,Fear,0.0012042782495101242
+Harry Potter and the Philosopher's Stone,8,Joy,7.552253429131287e-4
+Harry Potter and the Philosopher's Stone,8,Sadness,0.0015716851730894841
+Harry Potter and the Philosopher's Stone,8,Surprise,8.77694317439582e-4
+Harry Potter and the Philosopher's Stone,8,Trust,0.0013267472240365773
+Harry Potter and the Philosopher's Stone,9,Anger,0.0015685574372577024
+Harry Potter and the Philosopher's Stone,9,Anticipation,0.0010584574576617016
+Harry Potter and the Philosopher's Stone,9,Disgust,6.37624974495001e-4
+Harry Potter and the Philosopher's Stone,9,Fear,9.946949602122016e-4
+Harry Potter and the Philosopher's Stone,9,Joy,7.141399714344012e-4
+Harry Potter and the Philosopher's Stone,9,Sadness,0.0017343399306264029
+Harry Potter and the Philosopher's Stone,9,Surprise,7.523974699041012e-4
+Harry Potter and the Philosopher's Stone,9,Trust,0.0014537849418486024
+Harry Potter and the Philosopher's Stone,10,Anger,0.0021008403361344537
+Harry Potter and the Philosopher's Stone,10,Anticipation,0.001196311858076564
+Harry Potter and the Philosopher's Stone,10,Disgust,6.273342670401493e-4
+Harry Potter and the Philosopher's Stone,10,Fear,0.0010650093370681607
+Harry Potter and the Philosopher's Stone,10,Joy,7.586367880485528e-4
+Harry Potter and the Philosopher's Stone,10,Sadness,0.0016923436041083098
+Harry Potter and the Philosopher's Stone,10,Surprise,7.002801120448179e-4
+Harry Potter and the Philosopher's Stone,10,Trust,0.0011233660130718956
+Harry Potter and the Philosopher's Stone,11,Anger,0.002194627851140456
+Harry Potter and the Philosopher's Stone,11,Anticipation,6.565126050420168e-4
+Harry Potter and the Philosopher's Stone,11,Disgust,4.8769507803121247e-4
+Harry Potter and the Philosopher's Stone,11,Fear,0.0011817226890756302
+Harry Potter and the Philosopher's Stone,11,Joy,5.439675870348139e-4
+Harry Potter and the Philosopher's Stone,11,Sadness,0.001838235294117647
+Harry Potter and the Philosopher's Stone,11,Surprise,6.940276110444177e-4
+Harry Potter and the Philosopher's Stone,11,Trust,0.001012905162064826
+Harry Potter and the Philosopher's Stone,12,Anger,0.0017215432323969353
+Harry Potter and the Philosopher's Stone,12,Anticipation,0.0011286939073330902
+Harry Potter and the Philosopher's Stone,12,Disgust,6.156512221816855e-4
+Harry Potter and the Philosopher's Stone,12,Fear,6.840569135352061e-4
+Harry Potter and the Philosopher's Stone,12,Joy,8.89273987595768e-4
+Harry Potter and the Philosopher's Stone,12,Sadness,0.0018241517694272164
+Harry Potter and the Philosopher's Stone,12,Surprise,6.612550164173659e-4
+Harry Potter and the Philosopher's Stone,12,Trust,0.0012769062385990515
+Harry Potter and the Philosopher's Stone,13,Anger,0.0023744113029827312
+Harry Potter and the Philosopher's Stone,13,Anticipation,0.0012558869701726845
+Harry Potter and the Philosopher's Stone,13,Disgust,6.279434850863422e-4
+Harry Potter and the Philosopher's Stone,13,Fear,9.222919937205651e-4
+Harry Potter and the Philosopher's Stone,13,Joy,9.419152276295133e-4
+Harry Potter and the Philosopher's Stone,13,Sadness,0.002197802197802198
+Harry Potter and the Philosopher's Stone,13,Surprise,7.260596546310832e-4
+Harry Potter and the Philosopher's Stone,13,Trust,0.0012951334379905808
+Harry Potter and the Philosopher's Stone,14,Anger,0.0014971139971139973
+Harry Potter and the Philosopher's Stone,14,Anticipation,0.0010281385281385282
+Harry Potter and the Philosopher's Stone,14,Disgust,3.427128427128427e-4
+Harry Potter and the Philosopher's Stone,14,Fear,0.0013888888888888887
+Harry Potter and the Philosopher's Stone,14,Joy,7.936507936507937e-4
+Harry Potter and the Philosopher's Stone,14,Sadness,0.0017676767676767678
+Harry Potter and the Philosopher's Stone,14,Surprise,4.5093795093795094e-4
+Harry Potter and the Philosopher's Stone,14,Trust,0.0010461760461760463
+Harry Potter and the Philosopher's Stone,15,Anger,0.0022123893805309734
+Harry Potter and the Philosopher's Stone,15,Anticipation,0.0010939036381514258
+Harry Potter and the Philosopher's Stone,15,Disgust,8.480825958702065e-4
+Harry Potter and the Philosopher's Stone,15,Fear,0.0016715830875122912
+Harry Potter and the Philosopher's Stone,15,Joy,6.145526057030481e-4
+Harry Potter and the Philosopher's Stone,15,Sadness,0.0025073746312684365
+Harry Potter and the Philosopher's Stone,15,Surprise,5.776794493608652e-4
+Harry Potter and the Philosopher's Stone,15,Trust,0.0011922320550639136
+Harry Potter and the Philosopher's Stone,16,Anger,0.002113526570048309
+Harry Potter and the Philosopher's Stone,16,Anticipation,0.0010518934081346423
+Harry Potter and the Philosopher's Stone,16,Disgust,6.330839956365903e-4
+Harry Potter and the Philosopher's Stone,16,Fear,0.001168770453482936
+Harry Potter and the Philosopher's Stone,16,Joy,7.207417796478105e-4
+Harry Potter and the Philosopher's Stone,16,Sadness,0.002210924107838554
+Harry Potter and the Philosopher's Stone,16,Surprise,6.915225183107372e-4
+Harry Potter and the Philosopher's Stone,16,Trust,0.0011103319308087892
+Harry Potter and the Philosopher's Stone,17,Anger,0.0022872827081427266
+Harry Potter and the Philosopher's Stone,17,Anticipation,0.001338060384263495
+Harry Potter and the Philosopher's Stone,17,Disgust,8.691674290942361e-4
+Harry Potter and the Philosopher's Stone,17,Fear,0.001555352241537054
+Harry Potter and the Philosopher's Stone,17,Joy,0.0012008234217749313
+Harry Potter and the Philosopher's Stone,17,Sadness,0.002367337602927722
+Harry Potter and the Philosopher's Stone,17,Surprise,8.806038426349496e-4
+Harry Potter and the Philosopher's Stone,17,Trust,0.0016125343092406221
+Harry Potter and the Chamber of Secrets,18,Anger,0.0025515163297045104
+Harry Potter and the Chamber of Secrets,18,Anticipation,0.0016524105754276827
+Harry Potter and the Chamber of Secrets,18,Disgust,9.963063763608086e-4
+Harry Potter and the Chamber of Secrets,18,Fear,0.001385108864696734
+Harry Potter and the Chamber of Secrets,18,Joy,0.0011664074650077762
+Harry Potter and the Chamber of Secrets,18,Sadness,0.002818818040435459
+Harry Potter and the Chamber of Secrets,18,Surprise,0.001020606531881804
+Harry Potter and the Chamber of Secrets,18,Trust,0.001603810264385692
+Harry Potter and the Chamber of Secrets,19,Anger,0.002975148757437872
+Harry Potter and the Chamber of Secrets,19,Anticipation,0.001290689534476724
+Harry Potter and the Chamber of Secrets,19,Disgust,0.0011594329716485825
+Harry Potter and the Chamber of Secrets,19,Fear,0.0016407070353517677
+Harry Potter and the Chamber of Secrets,19,Joy,8.969198459922996e-4
+Harry Potter and the Chamber of Secrets,19,Sadness,0.003172033601680084
+Harry Potter and the Chamber of Secrets,19,Surprise,0.0010500525026251313
+Harry Potter and the Chamber of Secrets,19,Trust,0.0019032201610080504
+Harry Potter and the Chamber of Secrets,20,Anger,0.0017268270944741533
+Harry Potter and the Chamber of Secrets,20,Anticipation,9.748217468805705e-4
+Harry Potter and the Chamber of Secrets,20,Disgust,6.823752228163993e-4
+Harry Potter and the Chamber of Secrets,20,Fear,0.001002673796791444
+Harry Potter and the Chamber of Secrets,20,Joy,7.102272727272726e-4
+Harry Potter and the Chamber of Secrets,20,Sadness,0.0018660873440285205
+Harry Potter and the Chamber of Secrets,20,Surprise,5.709670231729056e-4
+Harry Potter and the Chamber of Secrets,20,Trust,0.0010165998217468806
+Harry Potter and the Chamber of Secrets,21,Anger,0.0016812738632419298
+Harry Potter and the Chamber of Secrets,21,Anticipation,0.0011931620964942729
+Harry Potter and the Chamber of Secrets,21,Disgust,6.72509545296772e-4
+Harry Potter and the Chamber of Secrets,21,Fear,9.762235334953141e-4
+Harry Potter and the Chamber of Secrets,21,Joy,9.328358208955224e-4
+Harry Potter and the Chamber of Secrets,21,Sadness,0.001811437001041305
+Harry Potter and the Chamber of Secrets,21,Surprise,8.135196112460951e-4
+Harry Potter and the Chamber of Secrets,21,Trust,0.0013992537313432837
+Harry Potter and the Chamber of Secrets,22,Anger,0.0020493701370878103
+Harry Potter and the Chamber of Secrets,22,Anticipation,0.0011115227862171174
+Harry Potter and the Chamber of Secrets,22,Disgust,7.989070025935532e-4
+Harry Potter and the Chamber of Secrets,22,Fear,0.0011462578732864025
+Harry Potter and the Chamber of Secrets,22,Joy,7.17858466098555e-4
+Harry Potter and the Chamber of Secrets,22,Sadness,0.002037791774731382
+Harry Potter and the Chamber of Secrets,22,Surprise,6.715450166728419e-4
+Harry Potter and the Chamber of Secrets,22,Trust,0.0012620414968506854
+Harry Potter and the Chamber of Secrets,23,Anger,0.0017817982456140352
+Harry Potter and the Chamber of Secrets,23,Anticipation,0.0011650219298245613
+Harry Potter and the Chamber of Secrets,23,Disgust,6.990131578947368e-4
+Harry Potter and the Chamber of Secrets,23,Fear,0.0010553728070175439
+Harry Potter and the Chamber of Secrets,23,Joy,9.046052631578947e-4
+Harry Potter and the Chamber of Secrets,23,Sadness,0.001987390350877193
+Harry Potter and the Chamber of Secrets,23,Surprise,7.538377192982457e-4
+Harry Potter and the Chamber of Secrets,23,Trust,0.0012061403508771928
+Harry Potter and the Chamber of Secrets,24,Anger,0.0020902090209020904
+Harry Potter and the Chamber of Secrets,24,Anticipation,0.0010863586358635863
+Harry Potter and the Chamber of Secrets,24,Disgust,7.563256325632563e-4
+Harry Potter and the Chamber of Secrets,24,Fear,8.938393839383939e-4
+Harry Potter and the Chamber of Secrets,24,Joy,8.663366336633663e-4
+Harry Potter and the Chamber of Secrets,24,Sadness,0.0019801980198019802
+Harry Potter and the Chamber of Secrets,24,Surprise,6.738173817381739e-4
+Harry Potter and the Chamber of Secrets,24,Trust,0.0015264026402640263
+Harry Potter and the Chamber of Secrets,25,Anger,0.002131650750341064
+Harry Potter and the Chamber of Secrets,25,Anticipation,0.0011226693951796273
+Harry Potter and the Chamber of Secrets,25,Disgust,9.805593451568894e-4
+Harry Potter and the Chamber of Secrets,25,Fear,0.00132162346521146
+Harry Potter and the Chamber of Secrets,25,Joy,9.237153251477944e-4
+Harry Potter and the Chamber of Secrets,25,Sadness,0.002444292860391087
+Harry Potter and the Chamber of Secrets,25,Surprise,6.679172351068668e-4
+Harry Potter and the Chamber of Secrets,25,Trust,0.0011510914051841745
+Harry Potter and the Chamber of Secrets,26,Anger,0.0016418563922942207
+Harry Potter and the Chamber of Secrets,26,Anticipation,8.026853473438412e-4
+Harry Potter and the Chamber of Secrets,26,Disgust,7.540377505351236e-4
+Harry Potter and the Chamber of Secrets,26,Fear,0.0010094376337808912
+Harry Potter and the Chamber of Secrets,26,Joy,5.59447363300253e-4
+Harry Potter and the Chamber of Secrets,26,Sadness,0.0016661801906985795
+Harry Potter and the Chamber of Secrets,26,Surprise,5.716092625024324e-4
+Harry Potter and the Chamber of Secrets,26,Trust,0.0014107803074528118
+Harry Potter and the Chamber of Secrets,27,Anger,0.0022456505295007563
+Harry Potter and the Chamber of Secrets,27,Anticipation,0.0010637291981845688
+Harry Potter and the Chamber of Secrets,27,Disgust,7.091527987897125e-4
+Harry Potter and the Chamber of Secrets,27,Fear,0.0014892208774583964
+Harry Potter and the Chamber of Secrets,27,Joy,6.145990922844175e-4
+Harry Potter and the Chamber of Secrets,27,Sadness,0.00245839636913767
+Harry Potter and the Chamber of Secrets,27,Surprise,7.800680786686838e-4
+Harry Potter and the Chamber of Secrets,27,Trust,0.0014064863842662633
+Harry Potter and the Chamber of Secrets,28,Anger,0.002032266133066533
+Harry Potter and the Chamber of Secrets,28,Anticipation,8.441720860430215e-4
+Harry Potter and the Chamber of Secrets,28,Disgust,8.858595964648991e-4
+Harry Potter and the Chamber of Secrets,28,Fear,0.0014486409871602467
+Harry Potter and the Chamber of Secrets,28,Joy,6.044689011172253e-4
+Harry Potter and the Chamber of Secrets,28,Sadness,0.002073953643488411
+Harry Potter and the Chamber of Secrets,28,Surprise,6.670001667500417e-4
+Harry Potter and the Chamber of Secrets,28,Trust,0.0011255627813906953
+Harry Potter and the Chamber of Secrets,29,Anger,0.0019058399556459065
+Harry Potter and the Chamber of Secrets,29,Anticipation,0.0014091665126593975
+Harry Potter and the Chamber of Secrets,29,Disgust,7.738865274440953e-4
+Harry Potter and the Chamber of Secrets,29,Fear,0.0011897061541304749
+Harry Potter and the Chamber of Secrets,29,Joy,7.392348918868971e-4
+Harry Potter and the Chamber of Secrets,29,Sadness,0.0021137497689890966
+Harry Potter and the Chamber of Secrets,29,Surprise,6.814821659582332e-4
+Harry Potter and the Chamber of Secrets,29,Trust,0.0011088523378303455
+Harry Potter and the Chamber of Secrets,30,Anger,0.0018068181818181818
+Harry Potter and the Chamber of Secrets,30,Anticipation,0.0012386363636363636
+Harry Potter and the Chamber of Secrets,30,Disgust,7.840909090909091e-4
+Harry Potter and the Chamber of Secrets,30,Fear,8.863636363636364e-4
+Harry Potter and the Chamber of Secrets,30,Joy,0.0010568181818181818
+Harry Potter and the Chamber of Secrets,30,Sadness,0.002056818181818182
+Harry Potter and the Chamber of Secrets,30,Surprise,0.0012613636363636364
+Harry Potter and the Chamber of Secrets,30,Trust,0.0015113636363636364
+Harry Potter and the Chamber of Secrets,31,Anger,0.0015449796126401631
+Harry Potter and the Chamber of Secrets,31,Anticipation,0.001194571865443425
+Harry Potter and the Chamber of Secrets,31,Disgust,5.57466870540265e-4
+Harry Potter and the Chamber of Secrets,31,Fear,0.001449413863404689
+Harry Potter and the Chamber of Secrets,31,Joy,7.48598369011213e-4
+Harry Potter and the Chamber of Secrets,31,Sadness,0.0016724006116207951
+Harry Potter and the Chamber of Secrets,31,Surprise,7.804536187563711e-4
+Harry Potter and the Chamber of Secrets,31,Trust,0.0015449796126401631
+Harry Potter and the Chamber of Secrets,32,Anger,0.0021588714868054065
+Harry Potter and the Chamber of Secrets,32,Anticipation,9.118214975327183e-4
+Harry Potter and the Chamber of Secrets,32,Disgust,6.570478438103412e-4
+Harry Potter and the Chamber of Secrets,32,Fear,0.0014347779446470714
+Harry Potter and the Chamber of Secrets,32,Joy,7.509118214975327e-4
+Harry Potter and the Chamber of Secrets,32,Sadness,0.002292962883501395
+Harry Potter and the Chamber of Secrets,32,Surprise,6.972752628191375e-4
+Harry Potter and the Chamber of Secrets,32,Trust,0.0013006865479510835
+Harry Potter and the Chamber of Secrets,33,Anger,0.0018314210061782877
+Harry Potter and the Chamber of Secrets,33,Anticipation,9.819064430714917e-4
+Harry Potter and the Chamber of Secrets,33,Disgust,6.950573698146514e-4
+Harry Potter and the Chamber of Secrets,33,Fear,0.0012797881729920565
+Harry Potter and the Chamber of Secrets,33,Joy,5.406001765225067e-4
+Harry Potter and the Chamber of Secrets,33,Sadness,0.002063106796116505
+Harry Potter and the Chamber of Secrets,33,Surprise,6.509267431597528e-4
+Harry Potter and the Chamber of Secrets,33,Trust,0.0012135922330097086
+Harry Potter and the Chamber of Secrets,34,Anger,0.00255219881744272
+Harry Potter and the Chamber of Secrets,34,Anticipation,0.0014320029563932002
+Harry Potter and the Chamber of Secrets,34,Disgust,9.238728750923873e-4
+Harry Potter and the Chamber of Secrets,34,Fear,0.0014204545454545455
+Harry Potter and the Chamber of Secrets,34,Joy,0.0011317442719881745
+Harry Potter and the Chamber of Secrets,34,Sadness,0.0027254249815225427
+Harry Potter and the Chamber of Secrets,34,Surprise,0.001304970436067997
+Harry Potter and the Chamber of Secrets,34,Trust,0.0013280672579453067
+Harry Potter and the Chamber of Secrets,35,Anger,0.0021344717182497333
+Harry Potter and the Chamber of Secrets,35,Anticipation,0.0011339381003201707
+Harry Potter and the Chamber of Secrets,35,Disgust,0.0010005336179295624
+Harry Potter and the Chamber of Secrets,35,Fear,0.0013840715048025613
+Harry Potter and the Chamber of Secrets,35,Joy,0.0012173159018143008
+Harry Potter and the Chamber of Secrets,35,Sadness,0.0022512006403415156
+Harry Potter and the Chamber of Secrets,35,Surprise,8.004268943436499e-4
+Harry Potter and the Chamber of Secrets,35,Trust,0.0022345250800426893
+Harry Potter and the Prisoner of Azkaban,36,Anger,0.0019784902597402595
+Harry Potter and the Prisoner of Azkaban,36,Anticipation,0.001775568181818182
+Harry Potter and the Prisoner of Azkaban,36,Disgust,7.947781385281386e-4
+Harry Potter and the Prisoner of Azkaban,36,Fear,0.0013359036796536797
+Harry Potter and the Prisoner of Azkaban,36,Joy,0.001048430735930736
+Harry Potter and the Prisoner of Azkaban,36,Sadness,0.002198322510822511
+Harry Potter and the Prisoner of Azkaban,36,Surprise,0.001065340909090909
+Harry Potter and the Prisoner of Azkaban,36,Trust,0.001471185064935065
+Harry Potter and the Prisoner of Azkaban,37,Anger,0.0023172154524241637
+Harry Potter and the Prisoner of Azkaban,37,Anticipation,0.001166709878143635
+Harry Potter and the Prisoner of Azkaban,37,Disgust,0.0010046668395125747
+Harry Potter and the Prisoner of Azkaban,37,Fear,0.001134301270417423
+Harry Potter and the Prisoner of Azkaban,37,Joy,9.398496240601503e-4
+Harry Potter and the Prisoner of Azkaban,37,Sadness,0.002398236971739694
+Harry Potter and the Prisoner of Azkaban,37,Surprise,7.7780658542909e-4
+Harry Potter and the Prisoner of Azkaban,37,Trust,0.0022361939331086334
+Harry Potter and the Prisoner of Azkaban,38,Anger,0.0023835350536652203
+Harry Potter and the Prisoner of Azkaban,38,Anticipation,0.0010133592144325188
+Harry Potter and the Prisoner of Azkaban,38,Disgust,7.707239095683946e-4
+Harry Potter and the Prisoner of Azkaban,38,Fear,0.0011989038593286138
+Harry Potter and the Prisoner of Azkaban,38,Joy,8.420872345284312e-4
+Harry Potter and the Prisoner of Azkaban,38,Sadness,0.0028973509933774835
+Harry Potter and the Prisoner of Azkaban,38,Surprise,8.420872345284311e-4
+Harry Potter and the Prisoner of Azkaban,38,Trust,0.0011846311943366065
+Harry Potter and the Prisoner of Azkaban,39,Anger,0.0018731635651322233
+Harry Potter and the Prisoner of Azkaban,39,Anticipation,0.0013099902056807051
+Harry Potter and the Prisoner of Azkaban,39,Disgust,7.835455435847208e-4
+Harry Potter and the Prisoner of Azkaban,39,Fear,0.0011018609206660138
+Harry Potter and the Prisoner of Azkaban,39,Joy,0.0010896180215475024
+Harry Potter and the Prisoner of Azkaban,39,Sadness,0.0020568070519098925
+Harry Potter and the Prisoner of Azkaban,39,Surprise,8.570029382957884e-4
+Harry Potter and the Prisoner of Azkaban,39,Trust,0.0012732615083251714
+Harry Potter and the Prisoner of Azkaban,40,Anger,0.001899984800121599
+Harry Potter and the Prisoner of Azkaban,40,Anticipation,0.0010829913360693114
+Harry Potter and the Prisoner of Azkaban,40,Disgust,6.744946040431677e-4
+Harry Potter and the Prisoner of Azkaban,40,Fear,0.0011494908040735675
+Harry Potter and the Prisoner of Azkaban,40,Joy,7.789937680498556e-4
+Harry Potter and the Prisoner of Azkaban,40,Sadness,0.002308481532147743
+Harry Potter and the Prisoner of Azkaban,40,Surprise,7.219942240462076e-4
+Harry Potter and the Prisoner of Azkaban,40,Trust,0.0015959872321021432
+Harry Potter and the Prisoner of Azkaban,41,Anger,0.0017387077475321568
+Harry Potter and the Prisoner of Azkaban,41,Anticipation,0.0013460963206700569
+Harry Potter and the Prisoner of Azkaban,41,Disgust,7.665270714926712e-4
+Harry Potter and the Prisoner of Azkaban,41,Fear,0.0012339216272808855
+Harry Potter and the Prisoner of Azkaban,41,Joy,7.384833981453784e-4
+Harry Potter and the Prisoner of Azkaban,41,Sadness,0.0020004486987735565
+Harry Potter and the Prisoner of Azkaban,41,Surprise,7.945707448399641e-4
+Harry Potter and the Prisoner of Azkaban,41,Trust,0.0013928357762488781
+Harry Potter and the Prisoner of Azkaban,42,Anger,0.0014442348502711625
+Harry Potter and the Prisoner of Azkaban,42,Anticipation,0.0011937043150200425
+Harry Potter and the Prisoner of Azkaban,42,Disgust,8.105399669889176e-4
+Harry Potter and the Prisoner of Azkaban,42,Fear,0.0014147606696533837
+Harry Potter and the Prisoner of Azkaban,42,Joy,7.073803348266918e-4
+Harry Potter and the Prisoner of Azkaban,42,Sadness,0.0016210799339778353
+Harry Potter and the Prisoner of Azkaban,42,Surprise,0.00095791087007781185
+Harry Potter and the Prisoner of Azkaban,42,Trust,0.0019158217401556237
+Harry Potter and the Prisoner of Azkaban,43,Anger,0.001988862370723946
+Harry Potter and the Prisoner of Azkaban,43,Anticipation,0.0011063046937151949
+Harry Potter and the Prisoner of Azkaban,43,Disgust,8.204057279236276e-4
+Harry Potter and the Prisoner of Azkaban,43,Fear,0.0011560262529832935
+Harry Potter and the Prisoner of Azkaban,43,Joy,8.328361177406523e-4
+Harry Potter and the Prisoner of Azkaban,43,Sadness,0.002386634844868735
+Harry Potter and the Prisoner of Azkaban,43,Surprise,7.582537788385044e-4
+Harry Potter and the Prisoner of Azkaban,43,Trust,0.0015537987271280827
+Harry Potter and the Prisoner of Azkaban,44,Anger,0.00184208024339228
+Harry Potter and the Prisoner of Azkaban,44,Anticipation,0.00105771059136718
+Harry Potter and the Prisoner of Azkaban,44,Disgust,6.417569880205363e-4
+Harry Potter and the Prisoner of Azkaban,44,Fear,0.001045826202700133
+Harry Potter and the Prisoner of Azkaban,44,Joy,6.061038220193953e-4
+Harry Potter and the Prisoner of Azkaban,44,Sadness,0.0020322304620650315
+Harry Potter and the Prisoner of Azkaban,44,Surprise,7.48716486023959e-4
+Harry Potter and the Prisoner of Azkaban,44,Trust,0.0015806236927172466
+Harry Potter and the Prisoner of Azkaban,45,Anger,0.0017937932984589283
+Harry Potter and the Prisoner of Azkaban,45,Anticipation,0.0010780432631132477
+Harry Potter and the Prisoner of Azkaban,45,Disgust,7.334228757245864e-4
+Harry Potter and the Prisoner of Azkaban,45,Fear,0.0010957161034921533
+Harry Potter and the Prisoner of Azkaban,45,Joy,8.21787077619115e-4
+Harry Potter and the Prisoner of Azkaban,45,Sadness,0.0023063056694471937
+Harry Potter and the Prisoner of Azkaban,45,Surprise,6.980771949667751e-4
+Harry Potter and the Prisoner of Azkaban,45,Trust,0.0013342994486073801
+Harry Potter and the Prisoner of Azkaban,46,Anger,0.0018813832646479125
+Harry Potter and the Prisoner of Azkaban,46,Anticipation,0.0010078838917756674
+Harry Potter and the Prisoner of Azkaban,46,Disgust,7.167174341515857e-4
+Harry Potter and the Prisoner of Azkaban,46,Fear,0.0012990503493997493
+Harry Potter and the Prisoner of Azkaban,46,Joy,7.951084035119155e-4
+Harry Potter and the Prisoner of Azkaban,46,Sadness,0.002150152302454757
+Harry Potter and the Prisoner of Azkaban,46,Surprise,6.943200143343487e-4
+Harry Potter and the Prisoner of Azkaban,46,Trust,0.0014558322881204086
+Harry Potter and the Prisoner of Azkaban,47,Anger,0.0020889910173386254
+Harry Potter and the Prisoner of Azkaban,47,Anticipation,0.0016450804261541677
+Harry Potter and the Prisoner of Azkaban,47,Disgust,6.136411113432213e-4
+Harry Potter and the Prisoner of Azkaban,47,Fear,0.0010444955086693127
+Harry Potter and the Prisoner of Azkaban,47,Joy,0.0010706078963860456
+Harry Potter and the Prisoner of Azkaban,47,Sadness,0.0025067892208063504
+Harry Potter and the Prisoner of Azkaban,47,Surprise,8.094840192187173e-4
+Harry Potter and the Prisoner of Azkaban,47,Trust,0.0018278671401712973
+Harry Potter and the Prisoner of Azkaban,48,Anger,0.001869846878680801
+Harry Potter and the Prisoner of Azkaban,48,Anticipation,9.717314487632508e-4
+Harry Potter and the Prisoner of Azkaban,48,Disgust,4.711425206124853e-4
+Harry Potter and the Prisoner of Azkaban,48,Fear,0.0010306242638398115
+Harry Potter and the Prisoner of Azkaban,48,Joy,7.656065959952886e-4
+Harry Potter and the Prisoner of Azkaban,48,Sadness,0.0020759717314487633
+Harry Potter and the Prisoner of Azkaban,48,Surprise,6.919905771495877e-4
+Harry Potter and the Prisoner of Azkaban,48,Trust,0.0014428739693757363
+Harry Potter and the Prisoner of Azkaban,49,Anger,0.0021458258041199855
+Harry Potter and the Prisoner of Azkaban,49,Anticipation,0.0011180881821467293
+Harry Potter and the Prisoner of Azkaban,49,Disgust,7.905674015178894e-4
+Harry Potter and the Prisoner of Azkaban,49,Fear,0.001005149981929888
+Harry Potter and the Prisoner of Azkaban,49,Joy,6.211601011926274e-4
+Harry Potter and the Prisoner of Azkaban,49,Sadness,0.002191001084206722
+Harry Potter and the Prisoner of Azkaban,49,Surprise,5.87278641127575e-4
+Harry Potter and the Prisoner of Azkaban,49,Trust,0.0011406758221900975
+Harry Potter and the Prisoner of Azkaban,50,Anger,0.0021242275536168666
+Harry Potter and the Prisoner of Azkaban,50,Anticipation,0.0011813885859687386
+Harry Potter and the Prisoner of Azkaban,50,Disgust,7.497273718647765e-4
+Harry Potter and the Prisoner of Azkaban,50,Fear,0.0013290621592148308
+Harry Potter and the Prisoner of Azkaban,50,Joy,6.588513267902582e-4
+Harry Potter and the Prisoner of Azkaban,50,Sadness,0.002090149036713922
+Harry Potter and the Prisoner of Azkaban,50,Surprise,8.065249000363504e-4
+Harry Potter and the Prisoner of Azkaban,50,Trust,0.001329062159214831
+Harry Potter and the Prisoner of Azkaban,51,Anger,0.0018310826276035706
+Harry Potter and the Prisoner of Azkaban,51,Anticipation,0.001230258640421149
+Harry Potter and the Prisoner of Azkaban,51,Disgust,6.86655985351339e-4
+Harry Potter and the Prisoner of Azkaban,51,Fear,0.001244563973449302
+Harry Potter and the Prisoner of Azkaban,51,Joy,7.152666514076448e-4
+Harry Potter and the Prisoner of Azkaban,51,Sadness,0.002160105287251087
+Harry Potter and the Prisoner of Azkaban,51,Surprise,5.865186541542687e-4
+Harry Potter and the Prisoner of Azkaban,51,Trust,0.0013017853055619134
+Harry Potter and the Prisoner of Azkaban,52,Anger,0.0021814487210136263
+Harry Potter and the Prisoner of Azkaban,52,Anticipation,6.125986134353335e-4
+Harry Potter and the Prisoner of Azkaban,52,Disgust,7.470714797991871e-4
+Harry Potter and the Prisoner of Azkaban,52,Fear,0.0015389672483863256
+Harry Potter and the Prisoner of Azkaban,52,Joy,3.436528807076261e-4
+Harry Potter and the Prisoner of Azkaban,52,Sadness,0.0031078173559646186
+Harry Potter and the Prisoner of Azkaban,52,Surprise,6.125986134353335e-4
+Harry Potter and the Prisoner of Azkaban,52,Trust,7.918957685871384e-4
+Harry Potter and the Prisoner of Azkaban,53,Anger,0.0012831729367162438
+Harry Potter and the Prisoner of Azkaban,53,Anticipation,0.0011665208515602215
+Harry Potter and the Prisoner of Azkaban,53,Disgust,7.874015748031496e-4
+Harry Potter and the Prisoner of Azkaban,53,Fear,0.001254009915427238
+Harry Potter and the Prisoner of Azkaban,53,Joy,6.415864683581219e-4
+Harry Potter and the Prisoner of Azkaban,53,Sadness,0.002041411490230388
+Harry Potter and the Prisoner of Azkaban,53,Surprise,6.707494896471274e-4
+Harry Potter and the Prisoner of Azkaban,53,Trust,0.0014873140857392826
+Harry Potter and the Prisoner of Azkaban,54,Anger,0.0016885325558794947
+Harry Potter and the Prisoner of Azkaban,54,Anticipation,0.0010325558794946552
+Harry Potter and the Prisoner of Azkaban,54,Disgust,9.839650145772596e-4
+Harry Potter and the Prisoner of Azkaban,54,Fear,0.0014577259475218659
+Harry Potter and the Prisoner of Azkaban,54,Joy,6.924198250728863e-4
+Harry Potter and the Prisoner of Azkaban,54,Sadness,0.0024781341107871723
+Harry Potter and the Prisoner of Azkaban,54,Surprise,7.045675413022352e-4
+Harry Potter and the Prisoner of Azkaban,54,Trust,0.0012633624878522838
+Harry Potter and the Prisoner of Azkaban,55,Anger,0.0024573202276254526
+Harry Potter and the Prisoner of Azkaban,55,Anticipation,6.466632177961717e-4
+Harry Potter and the Prisoner of Azkaban,55,Disgust,8.406621831350233e-4
+Harry Potter and the Prisoner of Azkaban,55,Fear,0.0013256595964821522
+Harry Potter and the Prisoner of Azkaban,55,Joy,3.8799793067770304e-4
+Harry Potter and the Prisoner of Azkaban,55,Sadness,0.0031686497672012417
+Harry Potter and the Prisoner of Azkaban,55,Surprise,7.113295395757889e-4
+Harry Potter and the Prisoner of Azkaban,55,Trust,9.37661665804449e-4
+Harry Potter and the Prisoner of Azkaban,56,Anger,0.002245095330201713
+Harry Potter and the Prisoner of Azkaban,56,Anticipation,0.0011657225752970434
+Harry Potter and the Prisoner of Azkaban,56,Disgust,5.699088145896656e-4
+Harry Potter and the Prisoner of Azkaban,56,Fear,0.0012348024316109424
+Harry Potter and the Prisoner of Azkaban,56,Joy,6.735285990605139e-4
+Harry Potter and the Prisoner of Azkaban,56,Sadness,0.002504144791378834
+Harry Potter and the Prisoner of Azkaban,56,Surprise,6.99433545178226e-4
+Harry Potter and the Prisoner of Azkaban,56,Trust,0.0013038822879248412
+Harry Potter and the Prisoner of Azkaban,57,Anger,0.002073647506339814
+Harry Potter and the Prisoner of Azkaban,57,Anticipation,0.0014132502113271344
+Harry Potter and the Prisoner of Azkaban,57,Disgust,5.547337278106509e-4
+Harry Potter and the Prisoner of Azkaban,57,Fear,0.0010830515638207948
+Harry Potter and the Prisoner of Azkaban,57,Joy,0.0010566356720202875
+Harry Potter and the Prisoner of Azkaban,57,Sadness,0.002469885883347422
+Harry Potter and the Prisoner of Azkaban,57,Surprise,7.660608622147084e-4
+Harry Potter and the Prisoner of Azkaban,57,Trust,0.0016906170752324597
+Harry Potter and the Goblet of Fire,58,Anger,0.0010451505016722408
+Harry Potter and the Goblet of Fire,58,Anticipation,0.001075011944577162
+Harry Potter and the Goblet of Fire,58,Disgust,0.0012093884376493072
+Harry Potter and the Goblet of Fire,58,Fear,0.0018812709030100335
+Harry Potter and the Goblet of Fire,58,Joy,6.569517439082656e-4
+Harry Potter and the Goblet of Fire,58,Sadness,0.0013437649307214525
+Harry Potter and the Goblet of Fire,58,Surprise,9.704968944099379e-4
+Harry Potter and the Goblet of Fire,58,Trust,0.002179885332059245
+Harry Potter and the Goblet of Fire,59,Anger,0.002683914114748328
+Harry Potter and the Goblet of Fire,59,Anticipation,0.0010559662090813093
+Harry Potter and the Goblet of Fire,59,Disgust,0.0010559662090813095
+Harry Potter and the Goblet of Fire,59,Fear,0.0018039422738472368
+Harry Potter and the Goblet of Fire,59,Joy,6.819781766983457e-4
+Harry Potter and the Goblet of Fire,59,Sadness,0.003057902147131292
+Harry Potter and the Goblet of Fire,59,Surprise,6.159802886307638e-4
+Harry Potter and the Goblet of Fire,59,Trust,0.0013639563533966912
+Harry Potter and the Goblet of Fire,60,Anger,0.0023233908948194666
+Harry Potter and the Goblet of Fire,60,Anticipation,0.0015489272632129775
+Harry Potter and the Goblet of Fire,60,Disgust,7.116692830978545e-4
+Harry Potter and the Goblet of Fire,60,Fear,6.698063840920984e-4
+Harry Potter and the Goblet of Fire,60,Joy,9.000523286237571e-4
+Harry Potter and the Goblet of Fire,60,Sadness,0.002093144950287807
+Harry Potter and the Goblet of Fire,60,Surprise,5.442176870748299e-4
+Harry Potter and the Goblet of Fire,60,Trust,0.001444270015698587
+Harry Potter and the Goblet of Fire,61,Anger,0.002069397993311037
+Harry Potter and the Goblet of Fire,61,Anticipation,0.001003344481605351
+Harry Potter and the Goblet of Fire,61,Disgust,6.270903010033445e-4
+Harry Potter and the Goblet of Fire,61,Fear,0.0013795986622073579
+Harry Potter and the Goblet of Fire,61,Joy,6.061872909698997e-4
+Harry Potter and the Goblet of Fire,61,Sadness,0.002132107023411371
+Harry Potter and the Goblet of Fire,61,Surprise,6.479933110367892e-4
+Harry Potter and the Goblet of Fire,61,Trust,0.0012750836120401338
+Harry Potter and the Goblet of Fire,62,Anger,0.0015793629902605948
+Harry Potter and the Goblet of Fire,62,Anticipation,0.001386329735895411
+Harry Potter and the Goblet of Fire,62,Disgust,6.31745196104238e-4
+Harry Potter and the Goblet of Fire,62,Fear,0.0012108449591997895
+Harry Potter and the Goblet of Fire,62,Joy,9.47617794156357e-4
+Harry Potter and the Goblet of Fire,62,Sadness,0.001772396244625779
+Harry Potter and the Goblet of Fire,62,Surprise,5.790997630955515e-4
+Harry Potter and the Goblet of Fire,62,Trust,0.0010880056155128542
+Harry Potter and the Goblet of Fire,63,Anger,0.0013626834381551363
+Harry Potter and the Goblet of Fire,63,Anticipation,0.0010744234800838573
+Harry Potter and the Goblet of Fire,63,Disgust,3.668763102725367e-4
+Harry Potter and the Goblet of Fire,63,Fear,8.123689727463311e-4
+Harry Potter and the Goblet of Fire,63,Joy,5.50314465408805e-4
+Harry Potter and the Goblet of Fire,63,Sadness,0.0015723270440251573
+Harry Potter and the Goblet of Fire,63,Surprise,6.027253668763103e-4
+Harry Potter and the Goblet of Fire,63,Trust,8.385744234800839e-4
+Harry Potter and the Goblet of Fire,64,Anger,9.756329716352561e-4
+Harry Potter and the Goblet of Fire,64,Anticipation,0.0012492861222158768
+Harry Potter and the Goblet of Fire,64,Disgust,4.640205596801827e-4
+Harry Potter and the Goblet of Fire,64,Fear,8.804492670854749e-4
+Harry Potter and the Goblet of Fire,64,Joy,0.001035122786978869
+Harry Potter and the Goblet of Fire,64,Sadness,0.0011541024176660957
+Harry Potter and the Goblet of Fire,64,Surprise,7.49571673329526e-4
+Harry Potter and the Goblet of Fire,64,Trust,0.001403959642109271
+Harry Potter and the Goblet of Fire,65,Anger,0.0018274853801169592
+Harry Potter and the Goblet of Fire,65,Anticipation,8.707430340557275e-4
+Harry Potter and the Goblet of Fire,65,Disgust,8.707430340557275e-4
+Harry Potter and the Goblet of Fire,65,Fear,0.0010642414860681116
+Harry Potter and the Goblet of Fire,65,Joy,0.00077399380804953565
+Harry Potter and the Goblet of Fire,65,Sadness,0.0017199862401100791
+Harry Potter and the Goblet of Fire,65,Surprise,6.664946680426557e-4
+Harry Potter and the Goblet of Fire,65,Trust,0.0013114895080839355
+Harry Potter and the Goblet of Fire,66,Anger,0.001755569392555694
+Harry Potter and the Goblet of Fire,66,Anticipation,0.0011069600110696
+Harry Potter and the Goblet of Fire,66,Disgust,7.783312577833127e-4
+Harry Potter and the Goblet of Fire,66,Fear,0.0014269406392694065
+Harry Potter and the Goblet of Fire,66,Joy,7.437387574373876e-4
+Harry Potter and the Goblet of Fire,66,Sadness,0.0016085512660855127
+Harry Potter and the Goblet of Fire,66,Surprise,8.821087588210876e-4
+Harry Potter and the Goblet of Fire,66,Trust,0.0010204787602047876
+Harry Potter and the Goblet of Fire,67,Anger,0.0015081479160137887
+Harry Potter and the Goblet of Fire,67,Anticipation,0.00133187088686932
+Harry Potter and the Goblet of Fire,67,Disgust,6.6593544343466e-4
+Harry Potter and the Goblet of Fire,67,Fear,0.0012339392040112817
+Harry Potter and the Goblet of Fire,67,Joy,8.226261360075211e-4
+Harry Potter and the Goblet of Fire,67,Sadness,0.0018998746474459417
+Harry Potter and the Goblet of Fire,67,Surprise,6.267627702914447e-4
+Harry Potter and the Goblet of Fire,67,Trust,0.001488561579442181
+Harry Potter and the Goblet of Fire,68,Anger,0.0010772545398584179
+Harry Potter and the Goblet of Fire,68,Anticipation,0.001077254539858418
+Harry Potter and the Goblet of Fire,68,Disgust,2.6931363496460447e-4
+Harry Potter and the Goblet of Fire,68,Fear,9.810710987996306e-4
+Harry Potter and the Goblet of Fire,68,Joy,8.079409048938136e-4
+Harry Potter and the Goblet of Fire,68,Sadness,0.0014427516158818097
+Harry Potter and the Goblet of Fire,68,Surprise,6.348107109879963e-4
+Harry Potter and the Goblet of Fire,68,Trust,0.0010003077870113881
+Harry Potter and the Goblet of Fire,69,Anger,0.0013455573800401385
+Harry Potter and the Goblet of Fire,69,Anticipation,0.0013569604086845466
+Harry Potter and the Goblet of Fire,69,Disgust,5.359423462871738e-4
+Harry Potter and the Goblet of Fire,69,Fear,9.122422915526364e-4
+Harry Potter and the Goblet of Fire,69,Joy,0.0010946907498631637
+Harry Potter and the Goblet of Fire,69,Sadness,0.0016306330961503375
+Harry Potter and the Goblet of Fire,69,Surprise,9.464513774858603e-4
+Harry Potter and the Goblet of Fire,69,Trust,0.001778872468527641
+Harry Potter and the Goblet of Fire,70,Anger,0.0019511258955987717
+Harry Potter and the Goblet of Fire,70,Anticipation,0.0012634339815762537
+Harry Potter and the Goblet of Fire,70,Disgust,9.115916069600818e-4
+Harry Potter and the Goblet of Fire,70,Fear,0.00111949846468782
+Harry Potter and the Goblet of Fire,70,Joy,9.915557830092118e-4
+Harry Potter and the Goblet of Fire,70,Sadness,0.0019991044012282497
+Harry Potter and the Goblet of Fire,70,Surprise,6.397134083930399e-4
+Harry Potter and the Goblet of Fire,70,Trust,0.0018391760491299897
+Harry Potter and the Goblet of Fire,71,Anger,0.002420185375901133
+Harry Potter and the Goblet of Fire,71,Anticipation,0.0013388259526261586
+Harry Potter and the Goblet of Fire,71,Disgust,0.0010427394438722965
+Harry Potter and the Goblet of Fire,71,Fear,0.0015705458290422246
+Harry Potter and the Goblet of Fire,71,Joy,8.753861997940268e-4
+Harry Potter and the Goblet of Fire,71,Sadness,0.0025746652935118436
+Harry Potter and the Goblet of Fire,71,Surprise,7.466529351184346e-4
+Harry Potter and the Goblet of Fire,71,Trust,0.001248712667353244
+Harry Potter and the Goblet of Fire,72,Anger,0.0016016514806378133
+Harry Potter and the Goblet of Fire,72,Anticipation,0.0013406416097190585
+Harry Potter and the Goblet of Fire,72,Disgust,7.711655277145026e-4
+Harry Potter and the Goblet of Fire,72,Fear,0.0011626803340926348
+Harry Potter and the Goblet of Fire,72,Joy,8.898063781321184e-4
+Harry Potter and the Goblet of Fire,72,Sadness,0.0017440205011389522
+Harry Potter and the Goblet of Fire,72,Surprise,6.881169324221716e-4
+Harry Potter and the Goblet of Fire,72,Trust,0.0013762338648443432
+Harry Potter and the Goblet of Fire,73,Anger,0.001981224091684955
+Harry Potter and the Goblet of Fire,73,Anticipation,9.75371860521824e-4
+Harry Potter and the Goblet of Fire,73,Disgust,6.705681541087539e-4
+Harry Potter and the Goblet of Fire,73,Fear,0.0011734942696903193
+Harry Potter and the Goblet of Fire,73,Joy,7.772494513533284e-4
+Harry Potter and the Goblet of Fire,73,Sadness,0.0020269446476469154
+Harry Potter and the Goblet of Fire,73,Surprise,7.31528895391368e-4
+Harry Potter and the Goblet of Fire,73,Trust,0.0014782979761033895
+Harry Potter and the Goblet of Fire,74,Anger,0.0021118035741102266
+Harry Potter and the Goblet of Fire,74,Anticipation,0.0013703258747559694
+Harry Potter and the Goblet of Fire,74,Disgust,6.382339690644241e-4
+Harry Potter and the Goblet of Fire,74,Fear,0.0010699804775491817
+Harry Potter and the Goblet of Fire,74,Joy,9.47965159933924e-4
+Harry Potter and the Goblet of Fire,74,Sadness,0.00203671722480853
+Harry Potter and the Goblet of Fire,74,Surprise,7.790208740051059e-4
+Harry Potter and the Goblet of Fire,74,Trust,0.0013327827001051208
+Harry Potter and the Goblet of Fire,75,Anger,0.002136001872659176
+Harry Potter and the Goblet of Fire,75,Anticipation,0.0015410424469413232
+Harry Potter and the Goblet of Fire,75,Disgust,5.169319600499375e-4
+Harry Potter and the Goblet of Fire,75,Fear,0.0013167134831460674
+Harry Potter and the Goblet of Fire,75,Joy,9.070692883895132e-4
+Harry Potter and the Goblet of Fire,75,Sadness,0.002379837702871411
+Harry Potter and the Goblet of Fire,75,Surprise,6.53480024968789e-4
+Harry Potter and the Goblet of Fire,75,Trust,0.0012679463171036205
+Harry Potter and the Goblet of Fire,76,Anger,0.0021211801154766936
+Harry Potter and the Goblet of Fire,76,Anticipation,0.0012146176594845797
+Harry Potter and the Goblet of Fire,76,Disgust,3.9607097591888465e-4
+Harry Potter and the Goblet of Fire,76,Fear,0.0010825940008449514
+Harry Potter and the Goblet of Fire,76,Joy,7.657372201098437e-4
+Harry Potter and the Goblet of Fire,76,Sadness,0.002077172229263484
+Harry Potter and the Goblet of Fire,76,Surprise,6.60118293198141e-4
+Harry Potter and the Goblet of Fire,76,Trust,0.0012058160822419376
+Harry Potter and the Goblet of Fire,77,Anger,0.002116556172728902
+Harry Potter and the Goblet of Fire,77,Anticipation,0.001254255509765275
+Harry Potter and the Goblet of Fire,77,Disgust,8.51101953055008e-4
+Harry Potter and the Goblet of Fire,77,Fear,0.0013662426088514603
+Harry Potter and the Goblet of Fire,77,Joy,0.0010190826016842859
+Harry Potter and the Goblet of Fire,77,Sadness,0.002228543271815087
+Harry Potter and the Goblet of Fire,77,Surprise,7.167174341515857e-4
+Harry Potter and the Goblet of Fire,77,Trust,0.00144463357821179
+Harry Potter and the Goblet of Fire,78,Anger,0.0019011406844106464
+Harry Potter and the Goblet of Fire,78,Anticipation,0.001104339074032655
+Harry Potter and the Goblet of Fire,78,Disgust,7.269067322746589e-4
+Harry Potter and the Goblet of Fire,78,Fear,8.107805859986581e-4
+Harry Potter and the Goblet of Fire,78,Joy,7.968016103779914e-4
+Harry Potter and the Goblet of Fire,78,Sadness,0.0017613509282039812
+Harry Potter and the Goblet of Fire,78,Surprise,7.269067322746589e-4
+Harry Potter and the Goblet of Fire,78,Trust,0.0014398344889286513
+Harry Potter and the Goblet of Fire,79,Anger,0.001694553004396678
+Harry Potter and the Goblet of Fire,79,Anticipation,9.159745969711773e-4
+Harry Potter and the Goblet of Fire,79,Disgust,4.350879335613092e-4
+Harry Potter and the Goblet of Fire,79,Fear,6.793478260869565e-4
+Harry Potter and the Goblet of Fire,79,Joy,9.770395701025891e-4
+Harry Potter and the Goblet of Fire,79,Sadness,0.001839582315583781
+Harry Potter and the Goblet of Fire,79,Surprise,5.343185148998534e-4
+Harry Potter and the Goblet of Fire,79,Trust,0.0012594650708353688
+Harry Potter and the Goblet of Fire,80,Anger,0.001979050055973133
+Harry Potter and the Goblet of Fire,80,Anticipation,0.0012693906924676156
+Harry Potter and the Goblet of Fire,80,Disgust,7.796257796257796e-4
+Harry Potter and the Goblet of Fire,80,Fear,0.001179433871741564
+Harry Potter and the Goblet of Fire,80,Joy,8.995682072605149e-4
+Harry Potter and the Goblet of Fire,80,Sadness,0.002029026067487606
+Harry Potter and the Goblet of Fire,80,Surprise,8.096113865344635e-4
+Harry Potter and the Goblet of Fire,80,Trust,0.0013493523108907724
+Harry Potter and the Goblet of Fire,81,Anger,0.0024527452745274525
+Harry Potter and the Goblet of Fire,81,Anticipation,0.0012713771377137713
+Harry Potter and the Goblet of Fire,81,Disgust,6.525652565256525e-4
+Harry Potter and the Goblet of Fire,81,Fear,0.001215121512151215
+Harry Potter and the Goblet of Fire,81,Joy,5.738073807380738e-4
+Harry Potter and the Goblet of Fire,81,Sadness,0.002779027902790279
+Harry Potter and the Goblet of Fire,81,Surprise,8.1008100810081e-4
+Harry Potter and the Goblet of Fire,81,Trust,9.900990099009901e-4
+Harry Potter and the Goblet of Fire,82,Anger,0.0019606622681439066
+Harry Potter and the Goblet of Fire,82,Anticipation,0.0011904020913730859
+Harry Potter and the Goblet of Fire,82,Disgust,5.212871903398481e-4
+Harry Potter and the Goblet of Fire,82,Fear,9.881115398979211e-4
+Harry Potter and the Goblet of Fire,82,Joy,8.091622059006598e-4
+Harry Potter and the Goblet of Fire,82,Sadness,0.002038466326403585
+Harry Potter and the Goblet of Fire,82,Surprise,7.469189592929168e-4
+Harry Potter and the Goblet of Fire,82,Trust,0.0011748412797211501
+Harry Potter and the Goblet of Fire,83,Anger,0.0018624946785866325
+Harry Potter and the Goblet of Fire,83,Anticipation,0.0011352348517099475
+Harry Potter and the Goblet of Fire,83,Disgust,8.691641833404286e-4
+Harry Potter and the Goblet of Fire,83,Fear,0.0016141620547750815
+Harry Potter and the Goblet of Fire,83,Joy,7.62735915992621e-4
+Harry Potter and the Goblet of Fire,83,Sadness,0.002039875124166312
+Harry Potter and the Goblet of Fire,83,Surprise,6.563076486448134e-4
+Harry Potter and the Goblet of Fire,83,Trust,0.0011352348517099475
+Harry Potter and the Goblet of Fire,84,Anger,0.002305990469707284
+Harry Potter and the Goblet of Fire,84,Anticipation,0.0013104152484683458
+Harry Potter and the Goblet of Fire,84,Disgust,8.59428182437032e-4
+Harry Potter and the Goblet of Fire,84,Fear,0.0014040163376446563
+Harry Potter and the Goblet of Fire,84,Joy,7.317903335602451e-4
+Harry Potter and the Goblet of Fire,84,Sadness,0.002365554799183118
+Harry Potter and the Goblet of Fire,84,Surprise,6.041524846834581e-4
+Harry Potter and the Goblet of Fire,84,Trust,0.0012083049693669163
+Harry Potter and the Goblet of Fire,85,Anger,0.0018843498273878022
+Harry Potter and the Goblet of Fire,85,Anticipation,0.0010644418872266972
+Harry Potter and the Goblet of Fire,85,Disgust,7.1921749136939e-4
+Harry Potter and the Goblet of Fire,85,Fear,0.001524741081703107
+Harry Potter and the Goblet of Fire,85,Joy,5.178365937859609e-4
+Harry Potter and the Goblet of Fire,85,Sadness,0.0022008055235903335
+Harry Potter and the Goblet of Fire,85,Surprise,6.329113924050633e-4
+Harry Potter and the Goblet of Fire,85,Trust,0.0010644418872266974
+Harry Potter and the Goblet of Fire,86,Anger,0.0021358267716535435
+Harry Potter and the Goblet of Fire,86,Anticipation,0.001190944881889764
+Harry Potter and the Goblet of Fire,86,Disgust,7.578740157480314e-4
+Harry Potter and the Goblet of Fire,86,Fear,0.0015551181102362204
+Harry Potter and the Goblet of Fire,86,Joy,7.283464566929134e-4
+Harry Potter and the Goblet of Fire,86,Sadness,0.0022145669291338582
+Harry Potter and the Goblet of Fire,86,Surprise,6.299212598425197e-4
+Harry Potter and the Goblet of Fire,86,Trust,0.0013484251968503937
+Harry Potter and the Goblet of Fire,87,Anger,0.002316857899382171
+Harry Potter and the Goblet of Fire,87,Anticipation,0.001300277392510402
+Harry Potter and the Goblet of Fire,87,Disgust,8.038078426427941e-4
+Harry Potter and the Goblet of Fire,87,Fear,0.0013869625520110957
+Harry Potter and the Goblet of Fire,87,Joy,7.407640902786535e-4
+Harry Potter and the Goblet of Fire,87,Sadness,0.0023562602446097593
+Harry Potter and the Goblet of Fire,87,Surprise,7.09242214096583e-4
+Harry Potter and the Goblet of Fire,87,Trust,0.0010796242592359096
+Harry Potter and the Goblet of Fire,88,Anger,0.003110718537578248
+Harry Potter and the Goblet of Fire,88,Anticipation,0.0011521179768808325
+Harry Potter and the Goblet of Fire,88,Disgust,0.0012289258420062213
+Harry Potter and the Goblet of Fire,88,Fear,0.002803487077076693
+Harry Potter and the Goblet of Fire,88,Joy,7.29674718691194e-4
+Harry Potter and the Goblet of Fire,88,Sadness,0.0036867775260186644
+Harry Potter and the Goblet of Fire,88,Surprise,8.448865163792773e-4
+Harry Potter and the Goblet of Fire,88,Trust,8.832904489419717e-4
+Harry Potter and the Goblet of Fire,89,Anger,0.0016870975730559684
+Harry Potter and the Goblet of Fire,89,Anticipation,0.001841877166914314
+Harry Potter and the Goblet of Fire,89,Disgust,0.0015787518573551263
+Harry Potter and the Goblet of Fire,89,Fear,0.0020276126795443286
+Harry Potter and the Goblet of Fire,89,Joy,0.0010989351163942546
+Harry Potter and the Goblet of Fire,89,Sadness,0.00216691431401684
+Harry Potter and the Goblet of Fire,89,Surprise,0.0010525012382367508
+Harry Potter and the Goblet of Fire,89,Trust,0.002043090638930163
+Harry Potter and the Goblet of Fire,90,Anger,0.002794977640178879
+Harry Potter and the Goblet of Fire,90,Anticipation,0.0014189886480908153
+Harry Potter and the Goblet of Fire,90,Disgust,7.524939800481596e-4
+Harry Potter and the Goblet of Fire,90,Fear,0.002106983144134847
+Harry Potter and the Goblet of Fire,90,Joy,7.524939800481596e-4
+Harry Potter and the Goblet of Fire,90,Sadness,0.002902476780185758
+Harry Potter and the Goblet of Fire,90,Surprise,0.0012039903680770554
+Harry Potter and the Goblet of Fire,90,Trust,9.244926040591674e-4
+Harry Potter and the Goblet of Fire,91,Anger,0.0022899159663865546
+Harry Potter and the Goblet of Fire,91,Anticipation,0.0013130252100840335
+Harry Potter and the Goblet of Fire,91,Disgust,0.00101890756302521
+Harry Potter and the Goblet of Fire,91,Fear,0.0017647058823529412
+Harry Potter and the Goblet of Fire,91,Joy,7.247899159663865e-4
+Harry Potter and the Goblet of Fire,91,Sadness,0.0025210084033613447
+Harry Potter and the Goblet of Fire,91,Surprise,7.668067226890757e-4
+Harry Potter and the Goblet of Fire,91,Trust,0.001838235294117647
+Harry Potter and the Goblet of Fire,92,Anger,0.0019635089415176413
+Harry Potter and the Goblet of Fire,92,Anticipation,0.0010975511519252458
+Harry Potter and the Goblet of Fire,92,Disgust,7.652650233607217e-4
+Harry Potter and the Goblet of Fire,92,Fear,0.001339213790881263
+Harry Potter and the Goblet of Fire,92,Joy,8.357499597228935e-4
+Harry Potter and the Goblet of Fire,92,Sadness,0.0021548251973578215
+Harry Potter and the Goblet of Fire,92,Surprise,6.746415337522152e-4
+Harry Potter and the Goblet of Fire,92,Trust,0.0015909457064604477
+Harry Potter and the Goblet of Fire,93,Anger,0.0017925671581498685
+Harry Potter and the Goblet of Fire,93,Anticipation,0.001110886689557665
+Harry Potter and the Goblet of Fire,93,Disgust,6.816804685922036e-4
+Harry Potter and the Goblet of Fire,93,Fear,0.0010098969905069683
+Harry Potter and the Goblet of Fire,93,Joy,8.205413047869117e-4
+Harry Potter and the Goblet of Fire,93,Sadness,0.0017546960210058572
+Harry Potter and the Goblet of Fire,93,Surprise,5.933144819228438e-4
+Harry Potter and the Goblet of Fire,93,Trust,0.0011740052514643505
+Harry Potter and the Order of the Phoenix,94,Anger,0.0022506925207756235
+Harry Potter and the Order of the Phoenix,94,Anticipation,0.0012119113573407204
+Harry Potter and the Order of the Phoenix,94,Disgust,0.0010604224376731303
+Harry Potter and the Order of the Phoenix,94,Fear,0.0014499653739612189
+Harry Potter and the Order of the Phoenix,94,Joy,7.033414127423823e-4
+Harry Potter and the Order of the Phoenix,94,Sadness,0.002077562326869806
+Harry Potter and the Order of the Phoenix,94,Surprise,8.007271468144045e-4
+Harry Potter and the Order of the Phoenix,94,Trust,0.0011361668975069252
+Harry Potter and the Order of the Phoenix,95,Anger,0.002120737934442431
+Harry Potter and the Order of the Phoenix,95,Anticipation,0.0012662658540602866
+Harry Potter and the Order of the Phoenix,95,Disgust,8.750617690660517e-4
+Harry Potter and the Order of the Phoenix,95,Fear,0.0015442266512930324
+Harry Potter and the Order of the Phoenix,95,Joy,7.721133256465162e-4
+Harry Potter and the Order of the Phoenix,95,Sadness,0.0022030966891780595
+Harry Potter and the Order of the Phoenix,95,Surprise,8.853566134080053e-4
+Harry Potter and the Order of the Phoenix,95,Trust,0.0016265854060286608
+Harry Potter and the Order of the Phoenix,96,Anger,0.0021097046413502112
+Harry Potter and the Order of the Phoenix,96,Anticipation,0.0011387610280015343
+Harry Potter and the Order of the Phoenix,96,Disgust,6.832566168009206e-4
+Harry Potter and the Order of the Phoenix,96,Fear,9.949175297276564e-4
+Harry Potter and the Order of the Phoenix,96,Joy,6.832566168009206e-4
+Harry Potter and the Order of the Phoenix,96,Sadness,0.0023734177215189874
+Harry Potter and the Order of the Phoenix,96,Surprise,5.993479094744918e-4
+Harry Potter and the Order of the Phoenix,96,Trust,7.551783659378596e-4
+Harry Potter and the Order of the Phoenix,97,Anger,0.002067569945451346
+Harry Potter and the Order of the Phoenix,97,Anticipation,0.0012867323596691888
+Harry Potter and the Order of the Phoenix,97,Disgust,7.14851310927327e-4
+Harry Potter and the Order of the Phoenix,97,Fear,0.0011657575224353336
+Harry Potter and the Order of the Phoenix,97,Joy,6.598627485483019e-4
+Harry Potter and the Order of the Phoenix,97,Sadness,0.002067569945451346
+Harry Potter and the Order of the Phoenix,97,Surprise,4.8389934893542145e-4
+Harry Potter and the Order of the Phoenix,97,Trust,0.0011657575224353336
+Harry Potter and the Order of the Phoenix,98,Anger,0.0015133171912832932
+Harry Potter and the Order of the Phoenix,98,Anticipation,0.0011873719500838146
+Harry Potter and the Order of the Phoenix,98,Disgust,5.704041720990873e-4
+Harry Potter and the Order of the Phoenix,98,Fear,0.0010476811324268951
+Harry Potter and the Order of the Phoenix,98,Joy,8.032222015272862e-4
+Harry Potter and the Order of the Phoenix,98,Sadness,0.0016413671074688024
+Harry Potter and the Order of the Phoenix,98,Surprise,6.286086794561371e-4
+Harry Potter and the Order of the Phoenix,98,Trust,0.0011757310486124046
+Harry Potter and the Order of the Phoenix,99,Anger,0.0018057193396226415
+Harry Potter and the Order of the Phoenix,99,Anticipation,0.0013082252358490567
+Harry Potter and the Order of the Phoenix,99,Disgust,0.0010502653301886792
+Harry Potter and the Order of the Phoenix,99,Fear,0.0013082252358490565
+Harry Potter and the Order of the Phoenix,99,Joy,7.370283018867924e-4
+Harry Potter and the Order of the Phoenix,99,Sadness,0.0018517836084905662
+Harry Potter and the Order of the Phoenix,99,Surprise,7.001768867924528e-4
+Harry Potter and the Order of the Phoenix,99,Trust,0.0013174380896226415
+Harry Potter and the Order of the Phoenix,100,Anger,0.0018084173608066637
+Harry Potter and the Order of the Phoenix,100,Anticipation,0.0015207145988601492
+Harry Potter and the Order of the Phoenix,100,Disgust,6.302060499780799e-4
+Harry Potter and the Order of the Phoenix,100,Fear,9.179088119245946e-4
+Harry Potter and the Order of the Phoenix,100,Joy,8.357080227970188e-4
+Harry Potter and the Order of the Phoenix,100,Sadness,0.0017810170977641386
+Harry Potter and the Order of the Phoenix,100,Surprise,9.453090749671197e-4
+Harry Potter and the Order of the Phoenix,100,Trust,0.0011508110477860588
+Harry Potter and the Order of the Phoenix,101,Anger,0.0015532544378698227
+Harry Potter and the Order of the Phoenix,101,Anticipation,0.0011982248520710059
+Harry Potter and the Order of the Phoenix,101,Disgust,7.840236686390533e-4
+Harry Potter and the Order of the Phoenix,101,Fear,0.0012130177514792899
+Harry Potter and the Order of the Phoenix,101,Joy,7.988165680473373e-4
+Harry Potter and the Order of the Phoenix,101,Sadness,0.001301775147928994
+Harry Potter and the Order of the Phoenix,101,Surprise,7.248520710059172e-4
+Harry Potter and the Order of the Phoenix,101,Trust,0.0015828402366863904
+Harry Potter and the Order of the Phoenix,102,Anger,0.0019880715705765406
+Harry Potter and the Order of the Phoenix,102,Anticipation,0.001343501491053678
+Harry Potter and the Order of the Phoenix,102,Disgust,8.231858846918489e-4
+Harry Potter and the Order of the Phoenix,102,Fear,0.0011571197813121273
+Harry Potter and the Order of the Phoenix,102,Joy,9.62972166998012e-4
+Harry Potter and the Order of the Phoenix,102,Sadness,0.0022365805168986083
+Harry Potter and the Order of the Phoenix,102,Surprise,7.299950298210736e-4
+Harry Potter and the Order of the Phoenix,102,Trust,0.0012347788270377735
+Harry Potter and the Order of the Phoenix,103,Anger,0.001890359168241966
+Harry Potter and the Order of the Phoenix,103,Anticipation,0.0010955490634129575
+Harry Potter and the Order of the Phoenix,103,Disgust,7.733287506444406e-4
+Harry Potter and the Order of the Phoenix,103,Fear,9.988829695824024e-4
+Harry Potter and the Order of the Phoenix,103,Joy,7.840694277367246e-4
+Harry Potter and the Order of the Phoenix,103,Sadness,0.0023736896373947416
+Harry Potter and the Order of the Phoenix,103,Surprise,4.833304691527754e-4
+Harry Potter and the Order of the Phoenix,103,Trust,0.0012351778656126482
+Harry Potter and the Order of the Phoenix,104,Anger,0.001432095668171935
+Harry Potter and the Order of the Phoenix,104,Anticipation,0.0013275631376484362
+Harry Potter and the Order of the Phoenix,104,Disgust,5.958354239839438e-4
+Harry Potter and the Order of the Phoenix,104,Fear,9.094330155544405e-4
+Harry Potter and the Order of the Phoenix,104,Joy,9.407927747114902e-4
+Harry Potter and the Order of the Phoenix,104,Sadness,0.0016620672353236327
+Harry Potter and the Order of the Phoenix,104,Surprise,6.376484361933434e-4
+Harry Potter and the Order of the Phoenix,104,Trust,0.0017561465127947816
+Harry Potter and the Order of the Phoenix,105,Anger,0.0016920095408467502
+Harry Potter and the Order of the Phoenix,105,Anticipation,0.0014013118664281455
+Harry Potter and the Order of the Phoenix,105,Disgust,6.633870005963029e-4
+Harry Potter and the Order of the Phoenix,105,Fear,9.838998211091233e-4
+Harry Potter and the Order of the Phoenix,105,Joy,7.081097197376267e-4
+Harry Potter and the Order of the Phoenix,105,Sadness,0.0018261776982707216
+Harry Potter and the Order of the Phoenix,105,Surprise,7.230172927847347e-4
+Harry Potter and the Order of the Phoenix,105,Trust,0.0018187239117471675
+Harry Potter and the Order of the Phoenix,106,Anger,0.0016548430342978439
+Harry Potter and the Order of the Phoenix,106,Anticipation,0.001228912970617808
+Harry Potter and the Order of the Phoenix,106,Disgust,6.284214054295609e-4
+Harry Potter and the Order of the Phoenix,106,Fear,0.0011171936096525529
+Harry Potter and the Order of the Phoenix,106,Joy,8.169478270584293e-4
+Harry Potter and the Order of the Phoenix,106,Sadness,0.0018992291364093397
+Harry Potter and the Order of the Phoenix,106,Surprise,6.004915651882472e-4
+Harry Potter and the Order of the Phoenix,106,Trust,0.0011241760697128813
+Harry Potter and the Order of the Phoenix,107,Anger,0.0016011824116270476
+Harry Potter and the Order of the Phoenix,107,Anticipation,0.001339450671264934
+Harry Potter and the Order of the Phoenix,107,Disgust,6.235373814509176e-4
+Harry Potter and the Order of the Phoenix,107,Fear,0.001162396846902328
+Harry Potter and the Order of the Phoenix,107,Joy,7.774972287227491e-4
+Harry Potter and the Order of the Phoenix,107,Sadness,0.001886008129079936
+Harry Potter and the Order of the Phoenix,107,Surprise,5.927454119965512e-4
+Harry Potter and the Order of the Phoenix,107,Trust,0.0012855647247197932
+Harry Potter and the Order of the Phoenix,108,Anger,0.001448826359527628
+Harry Potter and the Order of the Phoenix,108,Anticipation,0.0014670505904650826
+Harry Potter and the Order of the Phoenix,108,Disgust,5.011663507799971e-4
+Harry Potter and the Order of the Phoenix,108,Fear,0.0010296690479661757
+Harry Potter and the Order of the Phoenix,108,Joy,8.656509695290858e-4
+Harry Potter and the Order of the Phoenix,108,Sadness,0.0016401807843708996
+Harry Potter and the Order of the Phoenix,108,Surprise,6.742965446858143e-4
+Harry Potter and the Order of the Phoenix,108,Trust,0.0021686834815570783
+Harry Potter and the Order of the Phoenix,109,Anger,0.001686056314280897
+Harry Potter and the Order of the Phoenix,109,Anticipation,0.001043247344461305
+Harry Potter and the Order of the Phoenix,109,Disgust,6.9549822964087e-4
+Harry Potter and the Order of the Phoenix,109,Fear,8.957174169617265e-4
+Harry Potter and the Order of the Phoenix,109,Joy,7.798010453549149e-4
+Harry Potter and the Order of the Phoenix,109,Sadness,0.0017071320182094083
+Harry Potter and the Order of the Phoenix,109,Surprise,6.111954139268251e-4
+Harry Potter and the Order of the Phoenix,109,Trust,0.001148625864103861
+Harry Potter and the Order of the Phoenix,110,Anger,0.00174110522331567
+Harry Potter and the Order of the Phoenix,110,Anticipation,0.0013815291445874339
+Harry Potter and the Order of the Phoenix,110,Disgust,5.677517032551098e-4
+Harry Potter and the Order of the Phoenix,110,Fear,0.0011449659348978047
+Harry Potter and the Order of the Phoenix,110,Joy,7.380772142316428e-4
+Harry Potter and the Order of the Phoenix,110,Sadness,0.0017789553368660106
+Harry Potter and the Order of the Phoenix,110,Surprise,5.866767600302801e-4
+Harry Potter and the Order of the Phoenix,110,Trust,0.0017127176381529145
+Harry Potter and the Order of the Phoenix,111,Anger,0.002040705267740531
+Harry Potter and the Order of the Phoenix,111,Anticipation,0.0012425627630242345
+Harry Potter and the Order of the Phoenix,111,Disgust,6.620954868669279e-4
+Harry Potter and the Order of the Phoenix,111,Fear,8.888405166158757e-4
+Harry Potter and the Order of the Phoenix,111,Joy,8.797707154259178e-4
+Harry Potter and the Order of the Phoenix,111,Sadness,0.0019227978522710781
+Harry Potter and the Order of the Phoenix,111,Surprise,5.986068785372225e-4
+Harry Potter and the Order of the Phoenix,111,Trust,0.0015690756058627194
+Harry Potter and the Order of the Phoenix,112,Anger,0.0016025641025641025
+Harry Potter and the Order of the Phoenix,112,Anticipation,9.317233154442457e-4
+Harry Potter and the Order of the Phoenix,112,Disgust,5.963029218843172e-4
+Harry Potter and the Order of the Phoenix,112,Fear,0.0010248956469886702
+Harry Potter and the Order of the Phoenix,112,Joy,8.012820512820514e-4
+Harry Potter and the Order of the Phoenix,112,Sadness,0.0017516398330351818
+Harry Potter and the Order of the Phoenix,112,Surprise,6.987924865831843e-4
+Harry Potter and the Order of the Phoenix,112,Trust,0.0012578264758497317
+Harry Potter and the Order of the Phoenix,113,Anger,9.884678747940692e-4
+Harry Potter and the Order of the Phoenix,113,Anticipation,9.060955518945635e-4
+Harry Potter and the Order of the Phoenix,113,Disgust,3.8097199341021414e-4
+Harry Potter and the Order of the Phoenix,113,Fear,0.0012355848434925866
+Harry Potter and the Order of the Phoenix,113,Joy,7.92833607907743e-4
+Harry Potter and the Order of the Phoenix,113,Sadness,0.0013488467874794069
+Harry Potter and the Order of the Phoenix,113,Surprise,6.280889621087315e-4
+Harry Potter and the Order of the Phoenix,113,Trust,0.0011326194398682042
+Harry Potter and the Order of the Phoenix,114,Anger,0.0017528931245745405
+Harry Potter and the Order of the Phoenix,114,Anticipation,0.0013444520081688223
+Harry Potter and the Order of the Phoenix,114,Disgust,8.083730428863173e-4
+Harry Potter and the Order of the Phoenix,114,Fear,0.0011742682096664396
+Harry Potter and the Order of the Phoenix,114,Joy,9.785568413886998e-4
+Harry Potter and the Order of the Phoenix,114,Sadness,0.0021017699115044247
+Harry Potter and the Order of the Phoenix,114,Surprise,7.232811436351259e-4
+Harry Potter and the Order of the Phoenix,114,Trust,0.0012083049693669163
+Harry Potter and the Order of the Phoenix,115,Anger,0.0015835621567648528
+Harry Potter and the Order of the Phoenix,115,Anticipation,0.0011077134298552171
+Harry Potter and the Order of the Phoenix,115,Disgust,8.112830753869196e-4
+Harry Potter and the Order of the Phoenix,115,Fear,0.0013495381927109335
+Harry Potter and the Order of the Phoenix,115,Joy,6.318647029455817e-4
+Harry Potter and the Order of the Phoenix,115,Sadness,0.0017785821268097852
+Harry Potter and the Order of the Phoenix,115,Surprise,6.084623065401897e-4
+Harry Potter and the Order of the Phoenix,115,Trust,0.0011155142286570145
+Harry Potter and the Order of the Phoenix,116,Anger,0.0015662894098625708
+Harry Potter and the Order of the Phoenix,116,Anticipation,0.0012631366208569119
+Harry Potter and the Order of the Phoenix,116,Disgust,8.505119913769873e-4
+Harry Potter and the Order of the Phoenix,116,Fear,0.0010778765831312314
+Harry Potter and the Order of the Phoenix,116,Joy,0.001061034761519806
+Harry Potter and the Order of the Phoenix,116,Sadness,0.0018778631096739425
+Harry Potter and the Order of the Phoenix,116,Surprise,7.578819725141472e-4
+Harry Potter and the Order of the Phoenix,116,Trust,0.0011789275127997844
+Harry Potter and the Order of the Phoenix,117,Anger,0.0021242738845630945
+Harry Potter and the Order of the Phoenix,117,Anticipation,0.0011741441107403288
+Harry Potter and the Order of the Phoenix,117,Disgust,8.574341861327401e-4
+Harry Potter and the Order of the Phoenix,117,Fear,0.0011046224199728093
+Harry Potter and the Order of the Phoenix,117,Joy,7.415647015202076e-4
+Harry Potter and the Order of the Phoenix,117,Sadness,0.0022092448399456182
+Harry Potter and the Order of the Phoenix,117,Surprise,7.029415399826968e-4
+Harry Potter and the Order of the Phoenix,117,Trust,0.0013904338153503894
+Harry Potter and the Order of the Phoenix,118,Anger,0.0017352541954590325
+Harry Potter and the Order of the Phoenix,118,Anticipation,0.0012802319842053307
+Harry Potter and the Order of the Phoenix,118,Disgust,7.866485686080948e-4
+Harry Potter and the Order of the Phoenix,118,Fear,0.0013573543928923988
+Harry Potter and the Order of the Phoenix,118,Joy,6.863894373149062e-4
+Harry Potter and the Order of the Phoenix,118,Sadness,0.0020745927936821323
+Harry Potter and the Order of the Phoenix,118,Surprise,7.018139190523198e-4
+Harry Potter and the Order of the Phoenix,118,Trust,0.0012339585389930898
+Harry Potter and the Order of the Phoenix,119,Anger,0.0018661068346162817
+Harry Potter and the Order of the Phoenix,119,Anticipation,0.0011371588523442968
+Harry Potter and the Order of the Phoenix,119,Disgust,8.528691392582225e-4
+Harry Potter and the Order of the Phoenix,119,Fear,0.0010059482155353394
+Harry Potter and the Order of the Phoenix,119,Joy,7.508164217401446e-4
+Harry Potter and the Order of the Phoenix,119,Sadness,0.0021066596687660368
+Harry Potter and the Order of the Phoenix,119,Surprise,6.268952647539072e-4
+Harry Potter and the Order of the Phoenix,119,Trust,0.0014724749241894098
+Harry Potter and the Order of the Phoenix,120,Anger,0.0018568478550492937
+Harry Potter and the Order of the Phoenix,120,Anticipation,0.001165734079403144
+Harry Potter and the Order of the Phoenix,120,Disgust,6.328270716759925e-4
+Harry Potter and the Order of the Phoenix,120,Fear,0.0012490007993605115
+Harry Potter and the Order of the Phoenix,120,Joy,9.40913935518252e-4
+Harry Potter and the Order of the Phoenix,120,Sadness,0.0017152944311217692
+Harry Potter and the Order of the Phoenix,120,Surprise,7.660538236077804e-4
+Harry Potter and the Order of the Phoenix,120,Trust,0.0015321076472155609
+Harry Potter and the Order of the Phoenix,121,Anger,0.001581588132635253
+Harry Potter and the Order of the Phoenix,121,Anticipation,0.0010284218399401646
+Harry Potter and the Order of the Phoenix,121,Disgust,7.089877835951134e-4
+Harry Potter and the Order of the Phoenix,121,Fear,0.0010362129144851659
+Harry Potter and the Order of the Phoenix,121,Joy,8.102717526801296e-4
+Harry Potter and the Order of the Phoenix,121,Sadness,0.0015737970580902516
+Harry Potter and the Order of the Phoenix,121,Surprise,7.713163799551234e-4
+Harry Potter and the Order of the Phoenix,121,Trust,0.0012231987035651957
+Harry Potter and the Order of the Phoenix,122,Anger,0.0016456161454156642
+Harry Potter and the Order of the Phoenix,122,Anticipation,0.0013699545576049185
+Harry Potter and the Order of the Phoenix,122,Disgust,5.429697941726811e-4
+Harry Potter and the Order of the Phoenix,122,Fear,9.272253408179631e-4
+Harry Potter and the Order of the Phoenix,122,Joy,8.436915263298583e-4
+Harry Potter and the Order of the Phoenix,122,Sadness,0.0017207965784549585
+Harry Potter and the Order of the Phoenix,122,Surprise,7.183908045977011e-4
+Harry Potter and the Order of the Phoenix,122,Trust,0.0016539695268644747
+Harry Potter and the Order of the Phoenix,123,Anger,0.001781185847119913
+Harry Potter and the Order of the Phoenix,123,Anticipation,9.962564907619854e-4
+Harry Potter and the Order of the Phoenix,123,Disgust,8.000241516725033e-4
+Harry Potter and the Order of the Phoenix,123,Fear,0.0010868252626494385
+Harry Potter and the Order of the Phoenix,123,Joy,6.943605844704746e-4
+Harry Potter and the Order of the Phoenix,123,Sadness,0.0020227025721531217
+Harry Potter and the Order of the Phoenix,123,Surprise,6.868131868131868e-4
+Harry Potter and the Order of the Phoenix,123,Trust,0.0011472044439077406
+Harry Potter and the Order of the Phoenix,124,Anger,0.0015336945690084703
+Harry Potter and the Order of the Phoenix,124,Anticipation,0.0011366467364225211
+Harry Potter and the Order of the Phoenix,124,Disgust,5.761086198305929e-4
+Harry Potter and the Order of the Phoenix,124,Fear,0.0011833582461385152
+Harry Potter and the Order of the Phoenix,124,Joy,7.629546586945691e-4
+Harry Potter and the Order of the Phoenix,124,Sadness,0.0016738290981564523
+Harry Potter and the Order of the Phoenix,124,Surprise,6.851021425012455e-4
+Harry Potter and the Order of the Phoenix,124,Trust,0.0014169157947184854
+Harry Potter and the Order of the Phoenix,125,Anger,0.001926646223369916
+Harry Potter and the Order of the Phoenix,125,Anticipation,0.0010087153001936734
+Harry Potter and the Order of the Phoenix,125,Disgust,7.262750161394448e-4
+Harry Potter and the Order of the Phoenix,125,Fear,0.0013617656552614588
+Harry Potter and the Order of the Phoenix,125,Joy,5.547934151065204e-4
+Harry Potter and the Order of the Phoenix,125,Sadness,0.0018459489993544222
+Harry Potter and the Order of the Phoenix,125,Surprise,6.657520981278244e-4
+Harry Potter and the Order of the Phoenix,125,Trust,0.0011801969012265978
+Harry Potter and the Order of the Phoenix,126,Anger,0.0020627598752598754
+Harry Potter and the Order of the Phoenix,126,Anticipation,9.258056133056134e-4
+Harry Potter and the Order of the Phoenix,126,Disgust,8.121101871101872e-4
+Harry Potter and the Order of the Phoenix,126,Fear,0.0014130717255717257
+Harry Potter and the Order of the Phoenix,126,Joy,6.659303534303535e-4
+Harry Potter and the Order of the Phoenix,126,Sadness,0.0019328222453222454
+Harry Potter and the Order of the Phoenix,126,Surprise,7.146569646569647e-4
+Harry Potter and the Order of the Phoenix,126,Trust,8.608367983367984e-4
+Harry Potter and the Order of the Phoenix,127,Anger,0.001815055406954528
+Harry Potter and the Order of the Phoenix,127,Anticipation,9.552923194497516e-4
+Harry Potter and the Order of the Phoenix,127,Disgust,3.1047000382116927e-4
+Harry Potter and the Order of the Phoenix,127,Fear,9.194688574703859e-4
+Harry Potter and the Order of the Phoenix,127,Joy,5.970576996560948e-4
+Harry Potter and the Order of the Phoenix,127,Sadness,0.0021016431027894534
+Harry Potter and the Order of the Phoenix,127,Surprise,4.776461597248758e-4
+Harry Potter and the Order of the Phoenix,127,Trust,8.239396255254108e-4
+Harry Potter and the Order of the Phoenix,128,Anger,0.0027121581717807165
+Harry Potter and the Order of the Phoenix,128,Anticipation,0.0016609962768006162
+Harry Potter and the Order of the Phoenix,128,Disgust,0.001123379124406214
+Harry Potter and the Order of the Phoenix,128,Fear,0.0016048273205803054
+Harry Potter and the Order of the Phoenix,128,Joy,5.61689562203107e-4
+Harry Potter and the Order of the Phoenix,128,Sadness,0.0028485684940300427
+Harry Potter and the Order of the Phoenix,128,Surprise,0.0011554756708178201
+Harry Potter and the Order of the Phoenix,128,Trust,7.783412504814482e-4
+Harry Potter and the Order of the Phoenix,129,Anger,0.002371761319026433
+Harry Potter and the Order of the Phoenix,129,Anticipation,0.0010795603245223762
+Harry Potter and the Order of the Phoenix,129,Disgust,0.0010632033499084008
+Harry Potter and the Order of the Phoenix,129,Fear,0.0020773357759748755
+Harry Potter and the Order of the Phoenix,129,Joy,5.397801622611881e-4
+Harry Potter and the Order of the Phoenix,129,Sadness,0.002633472912850039
+Harry Potter and the Order of the Phoenix,129,Surprise,6.869929337869667e-4
+Harry Potter and the Order of the Phoenix,129,Trust,8.669196545406962e-4
+Harry Potter and the Order of the Phoenix,130,Anger,0.0018532246108228319
+Harry Potter and the Order of the Phoenix,130,Anticipation,0.0014053619965406472
+Harry Potter and the Order of the Phoenix,130,Disgust,7.721769211761799e-4
+Harry Potter and the Order of the Phoenix,130,Fear,0.0013744749196936
+Harry Potter and the Order of the Phoenix,130,Joy,8.880034593526069e-4
+Harry Potter and the Order of the Phoenix,130,Sadness,0.0022856436866814924
+Harry Potter and the Order of the Phoenix,130,Surprise,6.254633061527057e-4
+Harry Potter and the Order of the Phoenix,130,Trust,0.0013204225352112676
+Harry Potter and the Order of the Phoenix,131,Anger,0.0018428326971172831
+Harry Potter and the Order of the Phoenix,131,Anticipation,0.001242266684217454
+Harry Potter and the Order of the Phoenix,131,Disgust,6.334737396340661e-4
+Harry Potter and the Order of the Phoenix,131,Fear,9.04962485191523e-4
+Harry Potter and the Order of the Phoenix,131,Joy,8.638278267737265e-4
+Harry Potter and the Order of the Phoenix,131,Sadness,0.0019909174674213504
+Harry Potter and the Order of the Phoenix,131,Surprise,7.157430564696592e-4
+Harry Potter and the Order of the Phoenix,131,Trust,0.0013574437277872845
+Harry Potter and the Half-Blood Prince,132,Anger,9.967513290017722e-4
+Harry Potter and the Half-Blood Prince,132,Anticipation,0.001624335499113999
+Harry Potter and the Half-Blood Prince,132,Disgust,7.998621775940145e-4
+Harry Potter and the Half-Blood Prince,132,Fear,0.0015628076392990747
+Harry Potter and the Half-Blood Prince,132,Joy,7.998621775940146e-4
+Harry Potter and the Half-Blood Prince,132,Sadness,0.0012551683402244537
+Harry Potter and the Half-Blood Prince,132,Surprise,8.367788934829691e-4
+Harry Potter and the Half-Blood Prince,132,Trust,0.0013043906280763929
+Harry Potter and the Half-Blood Prince,133,Anger,0.0011289831540491173
+Harry Potter and the Half-Blood Prince,133,Anticipation,0.0013319464176983966
+Harry Potter and the Half-Blood Prince,133,Disgust,0.0012177795818956768
+Harry Potter and the Half-Blood Prince,133,Fear,0.0012050943779175968
+Harry Potter and the Half-Blood Prince,133,Joy,7.86482646640958e-4
+Harry Potter and the Half-Blood Prince,133,Sadness,0.0018139841688654353
+Harry Potter and the Half-Blood Prince,133,Surprise,7.48427034706718e-4
+Harry Potter and the Half-Blood Prince,133,Trust,0.0017505581489750356
+Harry Potter and the Half-Blood Prince,134,Anger,0.0017450601374570445
+Harry Potter and the Half-Blood Prince,134,Anticipation,0.0016645189003436428
+Harry Potter and the Half-Blood Prince,134,Disgust,7.382946735395189e-4
+Harry Potter and the Half-Blood Prince,134,Fear,0.0013020833333333335
+Harry Potter and the Half-Blood Prince,134,Joy,7.517182130584192e-4
+Harry Potter and the Half-Blood Prince,134,Sadness,0.0020135309278350513
+Harry Potter and the Half-Blood Prince,134,Surprise,8.725300687285224e-4
+Harry Potter and the Half-Blood Prince,134,Trust,0.001288659793814433
+Harry Potter and the Half-Blood Prince,135,Anger,0.0019775187343880098
+Harry Potter and the Half-Blood Prince,135,Anticipation,0.0014571190674437969
+Harry Potter and the Half-Blood Prince,135,Disgust,7.91007493755204e-4
+Harry Potter and the Half-Blood Prince,135,Fear,0.0012073272273105745
+Harry Potter and the Half-Blood Prince,135,Joy,0.0010407993338884263
+Harry Potter and the Half-Blood Prince,135,Sadness,0.002133638634471274
+Harry Potter and the Half-Blood Prince,135,Surprise,7.597835137385513e-4
+Harry Potter and the Half-Blood Prince,135,Trust,0.0015716069941715237
+Harry Potter and the Half-Blood Prince,136,Anger,0.001592089827383945
+Harry Potter and the Half-Blood Prince,136,Anticipation,0.00157114127702363
+Harry Potter and the Half-Blood Prince,136,Disgust,5.132394838277192e-4
+Harry Potter and the Half-Blood Prince,136,Fear,9.217362158538629e-4
+Harry Potter and the Half-Blood Prince,136,Joy,8.274677392324451e-4
+Harry Potter and the Half-Blood Prince,136,Sadness,0.0017177811295458355
+Harry Potter and the Half-Blood Prince,136,Surprise,7.750963633316575e-4
+Harry Potter and the Half-Blood Prince,136,Trust,0.0010369532428355958
+Harry Potter and the Half-Blood Prince,137,Anger,0.0015500254798709021
+Harry Potter and the Half-Blood Prince,137,Anticipation,0.0014013928996093085
+Harry Potter and the Half-Blood Prince,137,Disgust,6.476133854255139e-4
+Harry Potter and the Half-Blood Prince,137,Fear,8.493290300662477e-4
+Harry Potter and the Half-Blood Prince,137,Joy,0.0011253609648377782
+Harry Potter and the Half-Blood Prince,137,Sadness,0.0018366740275182606
+Harry Potter and the Half-Blood Prince,137,Surprise,7.537795141837948e-4
+Harry Potter and the Half-Blood Prince,137,Trust,0.001316459996602684
+Harry Potter and the Half-Blood Prince,138,Anger,0.0018298261665141812
+Harry Potter and the Half-Blood Prince,138,Anticipation,0.0012008234217749313
+Harry Potter and the Half-Blood Prince,138,Disgust,5.622903324184202e-4
+Harry Potter and the Half-Blood Prince,138,Fear,7.528972247636475e-4
+Harry Potter and the Half-Blood Prince,138,Joy,8.958523940225679e-4
+Harry Potter and the Half-Blood Prince,138,Sadness,0.002087145471180238
+Harry Potter and the Half-Blood Prince,138,Surprise,7.147758462946021e-4
+Harry Potter and the Half-Blood Prince,138,Trust,0.0012389448002439768
+Harry Potter and the Half-Blood Prince,139,Anger,0.0020315765033666125
+Harry Potter and the Half-Blood Prince,139,Anticipation,0.0012044346412816347
+Harry Potter and the Half-Blood Prince,139,Disgust,7.255630369166474e-4
+Harry Potter and the Half-Blood Prince,139,Fear,9.432319479916415e-4
+Harry Potter and the Half-Blood Prince,139,Joy,8.996981657766426e-4
+Harry Potter and the Half-Blood Prince,139,Sadness,0.0020460877641049454
+Harry Potter and the Half-Blood Prince,139,Surprise,6.820292547016485e-4
+Harry Potter and the Half-Blood Prince,139,Trust,0.0013350359879266312
+Harry Potter and the Half-Blood Prince,140,Anger,0.0015872014799865456
+Harry Potter and the Half-Blood Prince,140,Anticipation,0.001408509922637067
+Harry Potter and the Half-Blood Prince,140,Disgust,5.781197443659602e-4
+Harry Potter and the Half-Blood Prince,140,Fear,8.198789101917255e-4
+Harry Potter and the Half-Blood Prince,140,Joy,0.0010511268079381097
+Harry Potter and the Half-Blood Prince,140,Sadness,0.0015766902119071645
+Harry Potter and the Half-Blood Prince,140,Surprise,7.042549613185335e-4
+Harry Potter and the Half-Blood Prince,140,Trust,0.0014610662630339724
+Harry Potter and the Half-Blood Prince,141,Anger,0.0016773628938156358
+Harry Potter and the Half-Blood Prince,141,Anticipation,0.0011564427404567427
+Harry Potter and the Half-Blood Prince,141,Disgust,8.855642607101184e-4
+Harry Potter and the Half-Blood Prince,141,Fear,0.0011147691281880314
+Harry Potter and the Half-Blood Prince,141,Joy,0.0010210035005834305
+Harry Potter and the Half-Blood Prince,141,Sadness,0.001896149358226371
+Harry Potter and the Half-Blood Prince,141,Surprise,7.084514085680946e-4
+Harry Potter and the Half-Blood Prince,141,Trust,0.0013856476079346558
+Harry Potter and the Half-Blood Prince,142,Anger,0.0019443357464292701
+Harry Potter and the Half-Blood Prince,142,Anticipation,0.001271766777538642
+Harry Potter and the Half-Blood Prince,142,Disgust,7.948542359616514e-4
+Harry Potter and the Half-Blood Prince,142,Fear,0.001271766777538642
+Harry Potter and the Half-Blood Prince,142,Joy,7.09254549011935e-4
+Harry Potter and the Half-Blood Prince,142,Sadness,0.0021766777538642142
+Harry Potter and the Half-Blood Prince,142,Surprise,7.948542359616513e-4
+Harry Potter and the Half-Blood Prince,142,Trust,0.001308452357659949
+Harry Potter and the Half-Blood Prince,143,Anger,0.002101132986627043
+Harry Potter and the Half-Blood Prince,143,Anticipation,9.054606240713224e-4
+Harry Potter and the Half-Blood Prince,143,Disgust,6.152488855869242e-4
+Harry Potter and the Half-Blood Prince,143,Fear,0.0010679791976225853
+Harry Potter and the Half-Blood Prince,143,Joy,6.616827637444279e-4
+Harry Potter and the Half-Blood Prince,143,Sadness,0.002112741456166419
+Harry Potter and the Half-Blood Prince,143,Surprise,8.00984398216939e-4
+Harry Potter and the Half-Blood Prince,143,Trust,0.0013117570579494798
+Harry Potter and the Half-Blood Prince,144,Anger,0.0013619300494414942
+Harry Potter and the Half-Blood Prince,144,Anticipation,0.0013733748397729353
+Harry Potter and the Half-Blood Prince,144,Disgust,7.668009522065556e-4
+Harry Potter and the Half-Blood Prince,144,Fear,0.0010414759201611426
+Harry Potter and the Half-Blood Prince,144,Joy,9.613623878410547e-4
+Harry Potter and the Half-Blood Prince,144,Sadness,0.001442043581761582
+Harry Potter and the Half-Blood Prince,144,Surprise,0.0013275956784471708
+Harry Potter and the Half-Blood Prince,144,Trust,0.001705273759384728
+Harry Potter and the Half-Blood Prince,145,Anger,0.0020583256386580485
+Harry Potter and the Half-Blood Prince,145,Anticipation,0.001038781163434903
+Harry Potter and the Half-Blood Prince,145,Disgust,7.598491843644198e-4
+Harry Potter and the Half-Blood Prince,145,Fear,9.425977223761157e-4
+Harry Potter and the Half-Blood Prince,145,Joy,9.041243459526008e-4
+Harry Potter and the Half-Blood Prince,145,Sadness,0.002212219144352108
+Harry Potter and the Half-Blood Prince,145,Surprise,8.27177593105571e-4
+Harry Potter and the Half-Blood Prince,145,Trust,0.0013273314866112651
+Harry Potter and the Half-Blood Prince,146,Anger,0.0018202843926674662
+Harry Potter and the Half-Blood Prince,146,Anticipation,0.0013812746273770772
+Harry Potter and the Half-Blood Prince,146,Disgust,7.066986465650163e-4
+Harry Potter and the Half-Blood Prince,146,Fear,8.458968648278226e-4
+Harry Potter and the Half-Blood Prince,146,Joy,0.001027925304094569
+Harry Potter and the Half-Blood Prince,146,Sadness,0.001927359945177317
+Harry Potter and the Half-Blood Prince,146,Surprise,6.852835360630461e-4
+Harry Potter and the Half-Blood Prince,146,Trust,0.0014026897378790475
+Harry Potter and the Half-Blood Prince,147,Anger,0.0019334093129273853
+Harry Potter and the Half-Blood Prince,147,Anticipation,0.0014246173884728101
+Harry Potter and the Half-Blood Prince,147,Disgust,6.207261478345816e-4
+Harry Potter and the Half-Blood Prince,147,Fear,8.344187561055032e-4
+Harry Potter and the Half-Blood Prince,147,Joy,0.0010888147183327906
+Harry Potter and the Half-Blood Prince,147,Sadness,0.0018011234125691958
+Harry Potter and the Half-Blood Prince,147,Surprise,8.344187561055032e-4
+Harry Potter and the Half-Blood Prince,147,Trust,0.0013940898730055355
+Harry Potter and the Half-Blood Prince,148,Anger,0.0017737408389209418
+Harry Potter and the Half-Blood Prince,148,Anticipation,0.0011792452830188679
+Harry Potter and the Half-Blood Prince,148,Disgust,6.822080149695931e-4
+Harry Potter and the Half-Blood Prince,148,Fear,9.550912209574302e-4
+Harry Potter and the Half-Blood Prince,148,Joy,9.355995633868704e-4
+Harry Potter and the Half-Blood Prince,148,Sadness,0.00194916575705598
+Harry Potter and the Half-Blood Prince,148,Surprise,0.0011500077966630283
+Harry Potter and the Half-Blood Prince,148,Trust,0.0016957742086387026
+Harry Potter and the Half-Blood Prince,149,Anger,0.001966849984723495
+Harry Potter and the Half-Blood Prince,149,Anticipation,0.0012507638252367858
+Harry Potter and the Half-Blood Prince,149,Disgust,4.391995111518485e-4
+Harry Potter and the Half-Blood Prince,149,Fear,9.261380996028109e-4
+Harry Potter and the Half-Blood Prince,149,Joy,8.688512068438741e-4
+Harry Potter and the Half-Blood Prince,149,Sadness,0.002167354109379774
+Harry Potter and the Half-Blood Prince,149,Surprise,8.020164986251146e-4
+Harry Potter and the Half-Blood Prince,149,Trust,0.0013175985334555455
+Harry Potter and the Half-Blood Prince,150,Anger,0.0023081245985870262
+Harry Potter and the Half-Blood Prince,150,Anticipation,0.0011440269749518304
+Harry Potter and the Half-Blood Prince,150,Disgust,7.927906229929352e-4
+Harry Potter and the Half-Blood Prince,150,Fear,0.0012544155427103405
+Harry Potter and the Half-Blood Prince,150,Joy,5.82048811817598e-4
+Harry Potter and the Half-Blood Prince,150,Sadness,0.0024486191393705845
+Harry Potter and the Half-Blood Prince,150,Surprise,6.924373795761079e-4
+Harry Potter and the Half-Blood Prince,150,Trust,0.0010637443802183687
+Harry Potter and the Half-Blood Prince,151,Anger,0.001571202769832907
+Harry Potter and the Half-Blood Prince,151,Anticipation,0.0013359927743489387
+Harry Potter and the Half-Blood Prince,151,Disgust,7.432635857293391e-4
+Harry Potter and the Half-Blood Prince,151,Fear,9.50248381755231e-4
+Harry Potter and the Half-Blood Prince,151,Joy,9.126147824777962e-4
+Harry Potter and the Half-Blood Prince,151,Sadness,0.0016935119674845703
+Harry Potter and the Half-Blood Prince,151,Surprise,7.620803853680566e-4
+Harry Potter and the Half-Blood Prince,151,Trust,0.00169351196748457
+Harry Potter and the Half-Blood Prince,152,Anger,0.0017906754644903629
+Harry Potter and the Half-Blood Prince,152,Anticipation,0.001139520750130231
+Harry Potter and the Half-Blood Prince,152,Disgust,5.860392429241188e-4
+Harry Potter and the Half-Blood Prince,152,Fear,0.0010092898072582045
+Harry Potter and the Half-Blood Prince,152,Joy,5.860392429241188e-4
+Harry Potter and the Half-Blood Prince,152,Sadness,0.001953464143080396
+Harry Potter and the Half-Blood Prince,152,Surprise,6.728598715054697e-4
+Harry Potter and the Half-Blood Prince,152,Trust,8.790588643861781e-4
+Harry Potter and the Half-Blood Prince,153,Anger,0.002067895915905566
+Harry Potter and the Half-Blood Prince,153,Anticipation,0.001281664656212304
+Harry Potter and the Half-Blood Prince,153,Disgust,8.831638807513355e-4
+Harry Potter and the Half-Blood Prince,153,Fear,0.001335516112355678
+Harry Potter and the Half-Blood Prince,153,Joy,0.001098569705324832
+Harry Potter and the Half-Blood Prince,153,Sadness,0.0025848698948819577
+Harry Potter and the Half-Blood Prince,153,Surprise,7.862312596932621e-4
+Harry Potter and the Half-Blood Prince,153,Trust,0.0012062726176115804
+Harry Potter and the Half-Blood Prince,154,Anger,0.001980368520750818
+Harry Potter and the Half-Blood Prince,154,Anticipation,0.0016790080936800412
+Harry Potter and the Half-Blood Prince,154,Disgust,8.287411744446357e-4
+Harry Potter and the Half-Blood Prince,154,Fear,0.0015068021353538833
+Harry Potter and the Half-Blood Prince,154,Joy,0.0010547614947477183
+Harry Potter and the Half-Blood Prince,154,Sadness,0.0021310487342862065
+Harry Potter and the Half-Blood Prince,154,Surprise,0.0010224728775615637
+Harry Potter and the Half-Blood Prince,154,Trust,0.0017220595832615807
+Harry Potter and the Half-Blood Prince,155,Anger,0.0018187552565180824
+Harry Potter and the Half-Blood Prince,155,Anticipation,0.0011459209419680404
+Harry Potter and the Half-Blood Prince,155,Disgust,6.412952060555088e-4
+Harry Potter and the Half-Blood Prince,155,Fear,0.0010302775441547519
+Harry Potter and the Half-Blood Prince,155,Joy,8.200168208578637e-4
+Harry Potter and the Half-Blood Prince,155,Sadness,0.002071068124474348
+Harry Potter and the Half-Blood Prince,155,Surprise,6.307821698906644e-4
+Harry Potter and the Half-Blood Prince,155,Trust,0.0011669470142977292
+Harry Potter and the Half-Blood Prince,156,Anger,0.0021759441384736427
+Harry Potter and the Half-Blood Prince,156,Anticipation,0.0013276947285601889
+Harry Potter and the Half-Blood Prince,156,Disgust,4.6715184893784424e-4
+Harry Potter and the Half-Blood Prince,156,Fear,0.0011309992132179387
+Harry Potter and the Half-Blood Prince,156,Joy,7.253147128245476e-4
+Harry Potter and the Half-Blood Prince,156,Sadness,0.002286585365853659
+Harry Potter and the Half-Blood Prince,156,Surprise,7.13021243115657e-4
+Harry Potter and the Half-Blood Prince,156,Trust,0.001585857592446892
+Harry Potter and the Half-Blood Prince,157,Anger,0.0020925457991156035
+Harry Potter and the Half-Blood Prince,157,Anticipation,9.376974099810486e-4
+Harry Potter and the Half-Blood Prince,157,Disgust,5.330069488313329e-4
+Harry Potter and the Half-Blood Prince,157,Fear,0.001401610865445357
+Harry Potter and the Half-Blood Prince,157,Joy,6.218414403032218e-4
+Harry Potter and the Half-Blood Prince,157,Sadness,0.0026058117498420717
+Harry Potter and the Half-Blood Prince,157,Surprise,6.415824384080859e-4
+Harry Potter and the Half-Blood Prince,157,Trust,0.0012338123815540114
+Harry Potter and the Half-Blood Prince,158,Anger,0.0018125968563205666
+Harry Potter and the Half-Blood Prince,158,Anticipation,0.0011207659951295106
+Harry Potter and the Half-Blood Prince,158,Disgust,9.408899712198361e-4
+Harry Potter and the Half-Blood Prince,158,Fear,0.00172957715297764
+Harry Potter and the Half-Blood Prince,158,Joy,0.00070566747841487715
+Harry Potter and the Half-Blood Prince,158,Sadness,0.002144675669692274
+Harry Potter and the Half-Blood Prince,158,Surprise,9.547265884436573e-4
+Harry Potter and the Half-Blood Prince,158,Trust,0.0013421518707106487
+Harry Potter and the Half-Blood Prince,159,Anger,0.003278517901748543
+Harry Potter and the Half-Blood Prince,159,Anticipation,0.0010581459894532335
+Harry Potter and the Half-Blood Prince,159,Disgust,0.0013530391340549543
+Harry Potter and the Half-Blood Prince,159,Fear,0.0024111851235081878
+Harry Potter and the Half-Blood Prince,159,Joy,2.4285317790729948e-4
+Harry Potter and the Half-Blood Prince,159,Sadness,0.0032091312794893146
+Harry Potter and the Half-Blood Prince,159,Surprise,0.0010234526783236193
+Harry Potter and the Half-Blood Prince,159,Trust,0.001023452678323619
+Harry Potter and the Half-Blood Prince,160,Anger,0.0018002717391304348
+Harry Potter and the Half-Blood Prince,160,Anticipation,0.0010416666666666667
+Harry Potter and the Half-Blood Prince,160,Disgust,8.265398550724638e-4
+Harry Potter and the Half-Blood Prince,160,Fear,0.0013247282608695652
+Harry Potter and the Half-Blood Prince,160,Joy,5.548007246376812e-4
+Harry Potter and the Half-Blood Prince,160,Sadness,0.0023097826086956523
+Harry Potter and the Half-Blood Prince,160,Surprise,6.453804347826087e-4
+Harry Potter and the Half-Blood Prince,160,Trust,0.0015738224637681158
+Harry Potter and the Half-Blood Prince,161,Anger,0.0020013723696248853
+Harry Potter and the Half-Blood Prince,161,Anticipation,0.0012236962488563587
+Harry Potter and the Half-Blood Prince,161,Disgust,6.976212259835315e-4
+Harry Potter and the Half-Blood Prince,161,Fear,0.0011550777676120768
+Harry Potter and the Half-Blood Prince,161,Joy,9.835315645013722e-4
+Harry Potter and the Half-Blood Prince,161,Sadness,0.0024817017383348583
+Harry Potter and the Half-Blood Prince,161,Surprise,5.718206770356817e-4
+Harry Potter and the Half-Blood Prince,161,Trust,0.0014524245196706313
+Harry Potter and the Deathly Hallows,162,Anger,7.8351012536162e-4
+Harry Potter and the Deathly Hallows,162,Anticipation,0.00116522018643523
+Harry Potter and the Deathly Hallows,162,Disgust,0.0010446801671488268
+Harry Potter and the Deathly Hallows,162,Fear,0.0011853101896496304
+Harry Potter and the Deathly Hallows,162,Joy,0.0011451301832208294
+Harry Potter and the Deathly Hallows,162,Sadness,0.0012054001928640309
+Harry Potter and the Deathly Hallows,162,Surprise,8.23690131790421e-4
+Harry Potter and the Deathly Hallows,162,Trust,0.001607200257152041
+Harry Potter and the Deathly Hallows,163,Anger,0.0013069454817027633
+Harry Potter and the Deathly Hallows,163,Anticipation,0.0015403286034353996
+Harry Potter and the Deathly Hallows,163,Disgust,7.779437391087876e-4
+Harry Potter and the Deathly Hallows,163,Fear,0.001198033358227533
+Harry Potter and the Deathly Hallows,163,Joy,0.0011046801095344783
+Harry Potter and the Deathly Hallows,163,Sadness,0.0017114762260393326
+Harry Potter and the Deathly Hallows,163,Surprise,6.845904904157331e-4
+Harry Potter and the Deathly Hallows,163,Trust,0.0017425939756036842
+Harry Potter and the Deathly Hallows,164,Anger,0.0021577831617201697
+Harry Potter and the Deathly Hallows,164,Anticipation,0.001324954572986069
+Harry Potter and the Deathly Hallows,164,Disgust,4.1641429436705025e-4
+Harry Potter and the Deathly Hallows,164,Fear,0.0010031798909751666
+Harry Potter and the Deathly Hallows,164,Joy,7.760448213204119e-4
+Harry Potter and the Deathly Hallows,164,Sadness,0.0023470623864324655
+Harry Potter and the Deathly Hallows,164,Surprise,7.003331314354937e-4
+Harry Potter and the Deathly Hallows,164,Trust,0.0014385221078134463
+Harry Potter and the Deathly Hallows,165,Anger,0.0027367140718562877
+Harry Potter and the Deathly Hallows,165,Anticipation,0.0013917477544910179
+Harry Potter and the Deathly Hallows,165,Disgust,8.186751497005988e-4
+Harry Potter and the Deathly Hallows,165,Fear,0.0018712574850299401
+Harry Potter and the Deathly Hallows,165,Joy,7.835890718562874e-4
+Harry Potter and the Deathly Hallows,165,Sadness,0.0030758794910179642
+Harry Potter and the Deathly Hallows,165,Surprise,0.0012864895209580838
+Harry Potter and the Deathly Hallows,165,Trust,0.0010525823353293414
+Harry Potter and the Deathly Hallows,166,Anger,0.0022899625085207906
+Harry Potter and the Deathly Hallows,166,Anticipation,0.0010118438991138378
+Harry Potter and the Deathly Hallows,166,Disgust,8.41428084526244e-4
+Harry Potter and the Deathly Hallows,166,Fear,0.0014804873892297205
+Harry Potter and the Deathly Hallows,166,Joy,6.816632583503749e-4
+Harry Potter and the Deathly Hallows,166,Sadness,0.0027799079754601227
+Harry Potter and the Deathly Hallows,166,Surprise,6.923142467620995e-4
+Harry Potter and the Deathly Hallows,166,Trust,0.0010331458759372872
+Harry Potter and the Deathly Hallows,167,Anger,0.0018301471703838568
+Harry Potter and the Deathly Hallows,167,Anticipation,0.0011853284782278866
+Harry Potter and the Deathly Hallows,167,Disgust,6.827492034592626e-4
+Harry Potter and the Deathly Hallows,167,Fear,0.001213776361705356
+Harry Potter and the Deathly Hallows,167,Joy,7.870581095433166e-4
+Harry Potter and the Deathly Hallows,167,Sadness,0.001953421332119557
+Harry Potter and the Deathly Hallows,167,Surprise,7.20679714762555e-4
+Harry Potter and the Deathly Hallows,167,Trust,9.956759217114248e-4
+Harry Potter and the Deathly Hallows,168,Anger,0.0015582243843113408
+Harry Potter and the Deathly Hallows,168,Anticipation,0.0013491942839768925
+Harry Potter and the Deathly Hallows,168,Disgust,4.4656430525995744e-4
+Harry Potter and the Deathly Hallows,168,Fear,7.791121921556705e-4
+Harry Potter and the Deathly Hallows,168,Joy,9.786409242930982e-4
+Harry Potter and the Deathly Hallows,168,Sadness,0.0017482517482517483
+Harry Potter and the Deathly Hallows,168,Surprise,6.840985101854667e-4
+Harry Potter and the Deathly Hallows,168,Trust,0.0012731833384007297
+Harry Potter and the Deathly Hallows,169,Anger,0.0016221989359987104
+Harry Potter and the Deathly Hallows,169,Anticipation,0.0014408350798000968
+Harry Potter and the Deathly Hallows,169,Disgust,5.138642592294051e-4
+Harry Potter and the Deathly Hallows,169,Fear,8.463646622601967e-4
+Harry Potter and the Deathly Hallows,169,Joy,0.001209092374657424
+Harry Potter and the Deathly Hallows,169,Sadness,0.0018337901015637594
+Harry Potter and the Deathly Hallows,169,Surprise,7.758342737385136e-4
+Harry Potter and the Deathly Hallows,169,Trust,0.0014912139287441561
+Harry Potter and the Deathly Hallows,170,Anger,0.002412014563106796
+Harry Potter and the Deathly Hallows,170,Anticipation,8.343446601941747e-4
+Harry Potter and the Deathly Hallows,170,Disgust,0.0010163834951456311
+Harry Potter and the Deathly Hallows,170,Fear,0.0016231796116504855
+Harry Potter and the Deathly Hallows,170,Joy,4.854368932038835e-4
+Harry Potter and the Deathly Hallows,170,Sadness,0.0025940533980582524
+Harry Potter and the Deathly Hallows,170,Surprise,8.191747572815534e-4
+Harry Potter and the Deathly Hallows,170,Trust,7.129854368932039e-4
+Harry Potter and the Deathly Hallows,171,Anger,0.001984873570138471
+Harry Potter and the Deathly Hallows,171,Anticipation,0.0011288380493678508
+Harry Potter and the Deathly Hallows,171,Disgust,0.001053582179409994
+Harry Potter and the Deathly Hallows,171,Fear,0.0010629891631547261
+Harry Potter and the Deathly Hallows,171,Joy,7.525586995785671e-4
+Harry Potter and the Deathly Hallows,171,Sadness,0.0020695364238410593
+Harry Potter and the Deathly Hallows,171,Surprise,6.490818783865142e-4
+Harry Potter and the Deathly Hallows,171,Trust,0.0011006170981336545
+Harry Potter and the Deathly Hallows,172,Anger,0.0022827455919395465
+Harry Potter and the Deathly Hallows,172,Anticipation,0.001428121626484347
+Harry Potter and the Deathly Hallows,172,Disgust,9.108492263404102e-4
+Harry Potter and the Deathly Hallows,172,Fear,0.0015293270960777259
+Harry Potter and the Deathly Hallows,172,Joy,0.0010345448002878734
+Harry Potter and the Deathly Hallows,172,Sadness,0.002327725800647715
+Harry Potter and the Deathly Hallows,172,Surprise,8.771140698092839e-4
+Harry Potter and the Deathly Hallows,172,Trust,0.0013044260525368837
+Harry Potter and the Deathly Hallows,173,Anger,0.0016814304461942257
+Harry Potter and the Deathly Hallows,173,Anticipation,0.0017121883202099737
+Harry Potter and the Deathly Hallows,173,Disgust,7.894520997375329e-4
+Harry Potter and the Deathly Hallows,173,Fear,0.0012200623359580052
+Harry Potter and the Deathly Hallows,173,Joy,9.227362204724409e-4
+Harry Potter and the Deathly Hallows,173,Sadness,0.001896735564304462
+Harry Potter and the Deathly Hallows,173,Surprise,9.329888451443569e-4
+Harry Potter and the Deathly Hallows,173,Trust,0.0013841043307086613
+Harry Potter and the Deathly Hallows,174,Anger,0.001906598114824336
+Harry Potter and the Deathly Hallows,174,Anticipation,0.0010068551842330761
+Harry Potter and the Deathly Hallows,174,Disgust,6.855184233076263e-4
+Harry Potter and the Deathly Hallows,174,Fear,0.0012960582690659812
+Harry Potter and the Deathly Hallows,174,Joy,5.676949443016281e-4
+Harry Potter and the Deathly Hallows,174,Sadness,0.0018958868894601542
+Harry Potter and the Deathly Hallows,174,Surprise,8.140531276778063e-4
+Harry Potter and the Deathly Hallows,174,Trust,9.532990574121679e-4
+Harry Potter and the Deathly Hallows,175,Anger,0.0022015366430260044
+Harry Potter and the Deathly Hallows,175,Anticipation,0.00116725768321513
+Harry Potter and the Deathly Hallows,175,Disgust,9.160756501182032e-4
+Harry Potter and the Deathly Hallows,175,Fear,0.0014923167848699763
+Harry Potter and the Deathly Hallows,175,Joy,8.126477541371158e-4
+Harry Potter and the Deathly Hallows,175,Sadness,0.002275413711583924
+Harry Potter and the Deathly Hallows,175,Surprise,6.353427895981088e-4
+Harry Potter and the Deathly Hallows,175,Trust,8.569739952718675e-4
+Harry Potter and the Deathly Hallows,176,Anger,0.001802026834142164
+Harry Potter and the Deathly Hallows,176,Anticipation,0.001222166714244933
+Harry Potter and the Deathly Hallows,176,Disgust,7.761204681701399e-4
+Harry Potter and the Deathly Hallows,176,Fear,0.0013113759634598916
+Harry Potter and the Deathly Hallows,176,Joy,7.939623180131316e-4
+Harry Potter and the Deathly Hallows,176,Sadness,0.0021856266057664856
+Harry Potter and the Deathly Hallows,176,Surprise,7.939623180131316e-4
+Harry Potter and the Deathly Hallows,176,Trust,0.0012043248644019412
+Harry Potter and the Deathly Hallows,177,Anger,0.001692758355743373
+Harry Potter and the Deathly Hallows,177,Anticipation,0.0014766615443718787
+Harry Potter and the Deathly Hallows,177,Disgust,5.282366500192086e-4
+Harry Potter and the Deathly Hallows,177,Fear,9.364195159431426e-4
+Harry Potter and the Deathly Hallows,177,Joy,8.643872454859777e-4
+Harry Potter and the Deathly Hallows,177,Sadness,0.0021369573568958892
+Harry Potter and the Deathly Hallows,177,Surprise,7.323280829811756e-4
+Harry Potter and the Deathly Hallows,177,Trust,0.0013806185170956587
+Harry Potter and the Deathly Hallows,178,Anger,0.002295588778146918
+Harry Potter and the Deathly Hallows,178,Anticipation,9.343853820598007e-4
+Harry Potter and the Deathly Hallows,178,Disgust,0.0011650978220745663
+Harry Potter and the Deathly Hallows,178,Fear,0.0020418050941306757
+Harry Potter and the Deathly Hallows,178,Joy,6.459948320413437e-4
+Harry Potter and the Deathly Hallows,178,Sadness,0.002722406792174234
+Harry Potter and the Deathly Hallows,178,Surprise,6.229235880398671e-4
+Harry Potter and the Deathly Hallows,178,Trust,6.459948320413436e-4
+Harry Potter and the Deathly Hallows,179,Anger,0.0018355888281025052
+Harry Potter and the Deathly Hallows,179,Anticipation,0.0017995968902965735
+Harry Potter and the Deathly Hallows,179,Disgust,8.458105384393895e-4
+Harry Potter and the Deathly Hallows,179,Fear,0.0017276130146847107
+Harry Potter and the Deathly Hallows,179,Joy,0.0011697379786927728
+Harry Potter and the Deathly Hallows,179,Sadness,0.0021415202994529226
+Harry Potter and the Deathly Hallows,179,Surprise,0.0010437661963720126
+Harry Potter and the Deathly Hallows,179,Trust,0.0016556291390728477
+Harry Potter and the Deathly Hallows,180,Anger,0.0017281105990783411
+Harry Potter and the Deathly Hallows,180,Anticipation,7.990188791437491e-4
+Harry Potter and the Deathly Hallows,180,Disgust,5.574550319607552e-4
+Harry Potter and the Deathly Hallows,180,Fear,0.001179946484316932
+Harry Potter and the Deathly Hallows,180,Joy,4.924186115653337e-4
+Harry Potter and the Deathly Hallows,180,Sadness,0.0018767652742678758
+Harry Potter and the Deathly Hallows,180,Surprise,4.738367771666419e-4
+Harry Potter and the Deathly Hallows,180,Trust,8.08309796343095e-4
+Harry Potter and the Deathly Hallows,181,Anger,0.0016804839793860631
+Harry Potter and the Deathly Hallows,181,Anticipation,0.0011343266860855926
+Harry Potter and the Deathly Hallows,181,Disgust,7.002016580775263e-4
+Harry Potter and the Deathly Hallows,181,Fear,0.0010222944207931885
+Harry Potter and the Deathly Hallows,181,Joy,8.26237956531481e-4
+Harry Potter and the Deathly Hallows,181,Sadness,0.001750504145193816
+Harry Potter and the Deathly Hallows,181,Surprise,7.002016580775263e-4
+Harry Potter and the Deathly Hallows,181,Trust,0.0010503024871162895
+Harry Potter and the Deathly Hallows,182,Anger,0.002233534178267193
+Harry Potter and the Deathly Hallows,182,Anticipation,0.0012725950550592146
+Harry Potter and the Deathly Hallows,182,Disgust,0.0011167670891335964
+Harry Potter and the Deathly Hallows,182,Fear,0.001324537710367754
+Harry Potter and the Deathly Hallows,182,Joy,7.142115104924163e-4
+Harry Potter and the Deathly Hallows,182,Sadness,0.002051734884687305
+Harry Potter and the Deathly Hallows,182,Surprise,0.001064824433825057
+Harry Potter and the Deathly Hallows,182,Trust,0.0013764803656762933
+Harry Potter and the Deathly Hallows,183,Anger,0.002070460006865774
+Harry Potter and the Deathly Hallows,183,Anticipation,0.0012873326467559218
+Harry Potter and the Deathly Hallows,183,Disgust,8.796773086165465e-4
+Harry Potter and the Deathly Hallows,183,Fear,0.0013409715070374184
+Harry Potter and the Deathly Hallows,183,Joy,7.187607277720563e-4
+Harry Potter and the Deathly Hallows,183,Sadness,0.0020382766906968763
+Harry Potter and the Deathly Hallows,183,Surprise,7.402162718846549e-4
+Harry Potter and the Deathly Hallows,183,Trust,0.0015018880878819088
+Harry Potter and the Deathly Hallows,184,Anger,0.0020742567913890316
+Harry Potter and the Deathly Hallows,184,Anticipation,8.248974884674526e-4
+Harry Potter and the Deathly Hallows,184,Disgust,0.001057150179395182
+Harry Potter and the Deathly Hallows,184,Fear,0.0017619169656586365
+Harry Potter and the Deathly Hallows,184,Joy,5.365838031778575e-4
+Harry Potter and the Deathly Hallows,184,Sadness,0.002522744746283957
+Harry Potter and the Deathly Hallows,184,Surprise,7.127754997437213e-4
+Harry Potter and the Deathly Hallows,184,Trust,9.6905433111225e-4
+Harry Potter and the Deathly Hallows,185,Anger,0.0022042410714285714
+Harry Potter and the Deathly Hallows,185,Anticipation,0.001255580357142857
+Harry Potter and the Deathly Hallows,185,Disgust,0.0010230654761904762
+Harry Potter and the Deathly Hallows,185,Fear,0.0016648065476190478
+Harry Potter and the Deathly Hallows,185,Joy,6.417410714285714e-4
+Harry Potter and the Deathly Hallows,185,Sadness,0.002585565476190476
+Harry Potter and the Deathly Hallows,185,Surprise,6.789434523809524e-4
+Harry Potter and the Deathly Hallows,185,Trust,9.300595238095239e-4
+Harry Potter and the Deathly Hallows,186,Anger,0.0018386577798207308
+Harry Potter and the Deathly Hallows,186,Anticipation,0.001091703056768559
+Harry Potter and the Deathly Hallows,186,Disgust,0.0010198804872443117
+Harry Potter and the Deathly Hallows,186,Fear,0.0014508159043897955
+Harry Potter and the Deathly Hallows,186,Joy,8.618708342909675e-4
+Harry Potter and the Deathly Hallows,186,Sadness,0.0019104803493449783
+Harry Potter and the Deathly Hallows,186,Surprise,5.889450700988278e-4
+Harry Potter and the Deathly Hallows,186,Trust,0.0011204320845782578
+Harry Potter and the Deathly Hallows,187,Anger,0.001991667884812162
+Harry Potter and the Deathly Hallows,187,Anticipation,0.0010871948545534277
+Harry Potter and the Deathly Hallows,187,Disgust,9.501534863324075e-4
+Harry Potter and the Deathly Hallows,187,Fear,0.0017175851483701213
+Harry Potter and the Deathly Hallows,187,Joy,6.303902938166935e-4
+Harry Potter and the Deathly Hallows,187,Sadness,0.002019076158456366
+Harry Potter and the Deathly Hallows,187,Surprise,7.30887297178775e-4
+Harry Potter and the Deathly Hallows,187,Trust,9.227452126882035e-4
+Harry Potter and the Deathly Hallows,188,Anger,0.0015946306169078446
+Harry Potter and the Deathly Hallows,188,Anticipation,0.0011662223914699163
+Harry Potter and the Deathly Hallows,188,Disgust,0.0011662223914699161
+Harry Potter and the Deathly Hallows,188,Fear,0.001785034272658035
+Harry Potter and the Deathly Hallows,188,Joy,8.568164508758568e-4
+Harry Potter and the Deathly Hallows,188,Sadness,0.0018802361005331302
+Harry Potter and the Deathly Hallows,188,Surprise,5.236100533130237e-4
+Harry Potter and the Deathly Hallows,188,Trust,0.0013566260472201066
+Harry Potter and the Deathly Hallows,189,Anger,0.0017572503874252823
+Harry Potter and the Deathly Hallows,189,Anticipation,0.0013144786362630065
+Harry Potter and the Deathly Hallows,189,Disgust,0.0010100730573389418
+Harry Potter and the Deathly Hallows,189,Fear,0.001397498339605933
+Harry Potter and the Deathly Hallows,189,Joy,6.364843922957715e-4
+Harry Potter and the Deathly Hallows,189,Sadness,0.0020201461146778835
+Harry Potter and the Deathly Hallows,189,Surprise,8.163604162054461e-4
+Harry Potter and the Deathly Hallows,189,Trust,0.001259132167367722
+Harry Potter and the Deathly Hallows,190,Anger,0.0017983621071270472
+Harry Potter and the Deathly Hallows,190,Anticipation,0.0011066843736166445
+Harry Potter and the Deathly Hallows,190,Disgust,4.84174413457282e-4
+Harry Potter and the Deathly Hallows,190,Fear,0.0011066843736166447
+Harry Potter and the Deathly Hallows,190,Joy,8.023461708720674e-4
+Harry Potter and the Deathly Hallows,190,Sadness,0.0018398627711376716
+Harry Potter and the Deathly Hallows,190,Surprise,6.501770694997787e-4
+Harry Potter and the Deathly Hallows,190,Trust,0.001009849490925188
+Harry Potter and the Deathly Hallows,191,Anger,0.001957523029682702
+Harry Potter and the Deathly Hallows,191,Anticipation,8.700102354145343e-4
+Harry Potter and the Deathly Hallows,191,Disgust,8.828045035823951e-4
+Harry Potter and the Deathly Hallows,191,Fear,0.0015609007164790174
+Harry Potter and the Deathly Hallows,191,Joy,4.3500511770726714e-4
+Harry Potter and the Deathly Hallows,191,Sadness,0.001970317297850563
+Harry Potter and the Deathly Hallows,191,Surprise,7.804503582395086e-4
+Harry Potter and the Deathly Hallows,191,Trust,0.0015864892528147392
+Harry Potter and the Deathly Hallows,192,Anger,0.0021394984326018806
+Harry Potter and the Deathly Hallows,192,Anticipation,0.0010423197492163009
+Harry Potter and the Deathly Hallows,192,Disgust,7.523510971786833e-4
+Harry Potter and the Deathly Hallows,192,Fear,0.0017476489028213167
+Harry Potter and the Deathly Hallows,192,Joy,6.191222570532916e-4
+Harry Potter and the Deathly Hallows,192,Sadness,0.002335423197492163
+Harry Potter and the Deathly Hallows,192,Surprise,7.445141065830721e-4
+Harry Potter and the Deathly Hallows,192,Trust,0.0010423197492163009
+Harry Potter and the Deathly Hallows,193,Anger,0.0022640825937330195
+Harry Potter and the Deathly Hallows,193,Anticipation,9.848759282738634e-4
+Harry Potter and the Deathly Hallows,193,Disgust,0.0012565658395218256
+Harry Potter and the Deathly Hallows,193,Fear,0.001981072269516392
+Harry Potter and the Deathly Hallows,193,Joy,5.433798224959246e-4
+Harry Potter and the Deathly Hallows,193,Sadness,0.002467850027168991
+Harry Potter and the Deathly Hallows,193,Surprise,7.018656040572361e-4
+Harry Potter and the Deathly Hallows,193,Trust,0.0012226046006158305
+Harry Potter and the Deathly Hallows,194,Anger,0.0015071245889660212
+Harry Potter and the Deathly Hallows,194,Anticipation,0.0011722080136402388
+Harry Potter and the Deathly Hallows,194,Disgust,0.0010960906101571063
+Harry Potter and the Deathly Hallows,194,Fear,0.0012026549750334917
+Harry Potter and the Deathly Hallows,194,Joy,6.926683716965048e-4
+Harry Potter and the Deathly Hallows,194,Sadness,0.0017811472415052978
+Harry Potter and the Deathly Hallows,194,Surprise,6.622214103032517e-4
+Harry Potter and the Deathly Hallows,194,Trust,0.0014005602240896359
+Harry Potter and the Deathly Hallows,195,Anger,0.0015963622291021672
+Harry Potter and the Deathly Hallows,195,Anticipation,0.0014834881320949433
+Harry Potter and the Deathly Hallows,195,Disgust,8.223684210526316e-4
+Harry Potter and the Deathly Hallows,195,Fear,0.0015318627450980392
+Harry Potter and the Deathly Hallows,195,Joy,7.417440660474717e-4
+Harry Potter and the Deathly Hallows,195,Sadness,0.0019511093911248711
+Harry Potter and the Deathly Hallows,195,Surprise,5.966202270381837e-4
+Harry Potter and the Deathly Hallows,195,Trust,0.0011448658410732713
+Harry Potter and the Deathly Hallows,196,Anger,0.0021008403361344537
+Harry Potter and the Deathly Hallows,196,Anticipation,0.0014630852340936375
+Harry Potter and the Deathly Hallows,196,Disgust,0.001062925170068027
+Harry Potter and the Deathly Hallows,196,Fear,0.0015131052420968387
+Harry Potter and the Deathly Hallows,196,Joy,0.001062925170068027
+Harry Potter and the Deathly Hallows,196,Sadness,0.0022509003601440575
+Harry Potter and the Deathly Hallows,196,Surprise,6.877751100440176e-4
+Harry Potter and the Deathly Hallows,196,Trust,0.001525610244097639
+Harry Potter and the Deathly Hallows,197,Anger,0.002663104219055602
+Harry Potter and the Deathly Hallows,197,Anticipation,0.0014494272143056718
+Harry Potter and the Deathly Hallows,197,Disgust,9.691953059513831e-4
+Harry Potter and the Deathly Hallows,197,Fear,0.0018423442302319083
+Harry Potter and the Deathly Hallows,197,Joy,9.255378597373569e-4
+Harry Potter and the Deathly Hallows,197,Sadness,0.0026805671975412126
+Harry Potter and the Deathly Hallows,197,Surprise,0.0010477787091366304
+Harry Potter and the Deathly Hallows,197,Trust,0.0013970382788488405
+Harry Potter and the Deathly Hallows,198,Anger,0.0014195825659914056
+Harry Potter and the Deathly Hallows,198,Anticipation,0.0013044812768569676
+Harry Potter and the Deathly Hallows,198,Disgust,3.453038674033149e-4
+Harry Potter and the Deathly Hallows,198,Fear,8.05709023941068e-4
+Harry Potter and the Deathly Hallows,198,Joy,9.591774094536525e-4
+Harry Potter and the Deathly Hallows,198,Sadness,0.0016881522406384285
+Harry Potter and the Deathly Hallows,198,Surprise,4.6040515653775324e-4
+Harry Potter and the Deathly Hallows,198,Trust,0.0012661141804788214
