@@ -58,69 +58,37 @@ Now, let's see how the emotion sentiment analyser interprets the Harry Potter se
 
 The sentimentr package by Tyler Rinker in R is designed to accurately calculate text polarity sentiment at both the sentence and token levels. It offers enhanced precision in sentiment scoring by considering valence shifters like negators, amplifiers, de-amplifiers, and adversative conjunctions.
 
-
 ```{=html}
 <br>  
 <p style="text-align: center;"> 🏰🔮✨ </p>
 <h2>Two Sentiments: Positive and Negative </h2>
 
 <br>
-<figure style="display: block; margin: 0 auto">
-  <img src="sentiment_chart.png" alt="Positive and negative sentiments throughout the series." style="width: 585px; height: 390px; display: block; margin: 0 auto;">
-  <figcaption style="text-align: center;">Positive and negative sentiments throughout the series.</figcaption>
+<div style="text-align: center;">
+    <iframe src="interactive_sentiment.html" width="90%" height="300"></iframe>
+</div>
 <br>
-```
 
-By plotting at the sentiment score for each chapter of each book, we can clearly mark events in the books. The three greatest spikes in that chart above are Cedric Diggory’s death at about chapter 88, Sirius Black's death at about chapter 129, and Dumbledore’s death at about chapter 160.
+<p>By plotting at the sentiment score for each chapter of each book, we can clearly mark events in the books. 
+The three greatest spikes in that chart above are 
+<span style="color: #933289; font-weight: bold;">Cedric Diggory’s death at about chapter 88</span>, 
+<span style="color: #FB924B; font-weight: bold;">Sirius Black's death at about chapter 129</span>, and 
+<span style="color: #6A8E4B; font-weight: bold;">Dumbledore’s death at about chapter 159</span>.</p>
+```
 
 ```{=html}
 <br>  
 <p style="text-align: center;"> 🦁🐍🦅🦡</p>
 <h2>Eight Basic Emotions: Anger, Disgust, Fear, Joy, Sadness, Surprise, Trust, and Anticipation </h2>
 
-<br>
-<figure style="display: block; margin: 0 auto">
-  <img src="anger_chart.png" alt="Anger sentiments throughout the series." style="width: 585px; height: 390px; display: block; margin: 0 auto;">
-  <figcaption style="text-align: center;">Anger sentiments throughout the series.</figcaption>
-<br>
-
-<figure style="display: block; margin: 0 auto">
-  <img src="anticipation_chart.png" alt="Anticipation sentiments throughout the series." style="width: 585px; height: 390px; display: block; margin: 0 auto;">
-  <figcaption style="text-align: center;">Anticipation sentiments throughout the series.</figcaption>
+<div style="text-align: center;">
+    <iframe height="600" width="90%" frameborder="no" src="https://jenevievetn.shinyapps.io/sample_app/"> </iframe>
+</div>
 <br>
 
-<figure style="display: block; margin: 0 auto">
-  <img src="disgust_chart.png" alt="Disgust sentiments throughout the series." style="width: 585px; height: 390px; display: block; margin: 0 auto;">
-  <figcaption style="text-align: center;">Disgust sentiments throughout the series.</figcaption>
-<br>
-
-<figure style="display: block; margin: 0 auto">
-  <img src="fear_chart.png" alt="Fear sentiments throughout the series." style="width: 585px; height: 390px; display: block; margin: 0 auto;">
-  <figcaption style="text-align: center;">Fear sentiments throughout the series.</figcaption>
-<br>
-
-<figure style="display: block; margin: 0 auto">
-  <img src="joy_chart.png" alt="Joy sentiments throughout the series." style="width: 585px; height: 390px; display: block; margin: 0 auto;">
-  <figcaption style="text-align: center;">Joy sentiments throughout the series.</figcaption>
-<br>
-
-<figure style="display: block; margin: 0 auto">
-  <img src="sadness_chart.png" alt="Sadness sentiments throughout the series." style="width: 585px; height: 390px; display: block; margin: 0 auto;">
-  <figcaption style="text-align: center;">Sadness sentiments throughout the series.</figcaption>
-<br>
-
-<figure style="display: block; margin: 0 auto">
-  <img src="surprise_chart.png" alt="Surprise sentiments throughout the series." style="width: 585px; height: 390px; display: block; margin: 0 auto;">
-  <figcaption style="text-align: center;">Surprise sentiments throughout the series.</figcaption>
-<br>
-
-<figure style="display: block; margin: 0 auto">
-  <img src="trust_chart.png" alt="Trust sentiments throughout the series." style="width: 585px; height: 390px; display: block; margin: 0 auto;">
-  <figcaption style="text-align: center;">Trust sentiments throughout the series.</figcaption>
+<div style="text-align: center;">
+    <iframe height="600" width="90%" frameborder="no" src="https://jenevievetn.shinyapps.io/app2/"> </iframe>
+</div>
 <br>
 ```
 
-
-```{=html}
-<iframe height="400" width="100%" frameborder="no" src="https://jenevievetn.shinyapps.io/sample_app/"> </iframe>
-```
