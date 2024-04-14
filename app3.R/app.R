@@ -5,7 +5,7 @@ library(tidyverse)
 top10_emotion_avg_long <- read.csv("top10_emotion_avg_long.csv")
 
 # Create a named vector mapping character names to custom colors
-character_colors <- list("Harry Potter" = "#00C1A3",
+character_colors <- c("Harry Potter" = "#00C1A3",
                       "Ron Weasley" = "#F8766D",
                       "Hermione Granger" = "#C77CFF",
                       "Albus Dumbledore" = "#00B0F6",
@@ -44,7 +44,7 @@ server <- function(input, output) {
            y = "Average Sentiment") +
       theme_minimal() +
       coord_flip() +
-      scale_color_manual(values = unlist(character_colors)) +  # Assign specific colors to character names
+      scale_color_manual(values = character_colors) +  # Assign specific colors to character names
       theme(
         axis.text = element_text(size = 8.5),
         axis.title = element_text(size = 10),
@@ -57,7 +57,7 @@ server <- function(input, output) {
         legend.spacing.y = unit(0.1, "cm"))
     
     # Print the plot
-    p
+    print(p)
   })
 }
 
