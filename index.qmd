@@ -179,6 +179,8 @@ We begin by creating a correlation heat map. This visual provides insights into 
 ```
 Quantifying dialogue distribution across characters offers a straightforward method to discerning their importance within the story.
 
+I chose to focus exclusively on the **top 10** characters with the most extensive dialogue distributions.
+
 ```{=html}
 <h2> Key Findings from Character Dialogue Distribution Analysis</h2>
 <div style="display: flex; justify-content: center;">
@@ -189,6 +191,7 @@ Quantifying dialogue distribution across characters offers a straightforward met
         <img src="dialogue bar graph.gif" style="width: 500px; height: 300px; display: block; margin: 0 auto;">
     </div>
 </div>
+<figcaption style="text-align: center;">Top 10 important characters in the series based on their dialogue distributions.</figcaption>
 <br>
 <p>As expected, <span style="color: #00C1A3; font-weight: bold;">Harry</span> naturally assumes <span style="color: #00C1A3; font-weight: bold;">1st</span> place as the protagonist. The animated bar chart showcasing character dialogue by movie clearly highlights Harry's prominence, with his dialogues <b>dominating each installment</b> of the series.<p>
 
@@ -198,5 +201,14 @@ Quantifying dialogue distribution across characters offers a straightforward met
 
 <p> As the main antagonist, Voldemort embodies fear, respect, and evil, instilling terror in both characters and readers alike. His character’s presence is so potent that it <span style="font-weight: bold;">transcends the need for extensive dialogue</span>. Instead, his mere existence evokes a sense of foreboding and menace, demonstrating the power of a well-conceived and executed character.</p>
 ```
+
+# Unconvering Nuanced Emotional Arcs
+```{=html}
+<div style="text-align: center;">
+    <iframe height="600" width="96%" frameborder="no" src="https://jenevievetn.shinyapps.io/app3/"> </iframe>
+</div>
+```
+
+
 
 
