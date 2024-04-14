@@ -1,0 +1,81 @@
+Character Name,Emotion,Average Sentiment
+Albus Dumbledore,Anger,0.115834642
+Albus Dumbledore,Anticipation,0.096737545
+Albus Dumbledore,Disgust,0.056697156
+Albus Dumbledore,Fear,0.072894694
+Albus Dumbledore,Joy,0.119472361
+Albus Dumbledore,Sadness,0.123201647
+Albus Dumbledore,Surprise,0.116634212
+Albus Dumbledore,Trust,0.113619689
+Harry Potter,Anger,0.145359678
+Harry Potter,Anticipation,0.182657895
+Harry Potter,Disgust,0.127073852
+Harry Potter,Fear,0.139146781
+Harry Potter,Joy,0.194748431
+Harry Potter,Sadness,0.14768963
+Harry Potter,Surprise,0.160545192
+Harry Potter,Trust,0.225099295
+Hermione Granger,Anger,0.240979103
+Hermione Granger,Anticipation,0.169270088
+Hermione Granger,Disgust,0.138229095
+Hermione Granger,Fear,0.123453456
+Hermione Granger,Joy,0.167220534
+Hermione Granger,Sadness,0.237128971
+Hermione Granger,Surprise,0.153161267
+Hermione Granger,Trust,0.151006771
+Horace Slughorn,Anger,0.138272094
+Horace Slughorn,Anticipation,0.069286856
+Horace Slughorn,Disgust,0.087833111
+Horace Slughorn,Fear,0.073392318
+Horace Slughorn,Joy,0.067090373
+Horace Slughorn,Sadness,0.112547871
+Horace Slughorn,Surprise,0.064537109
+Horace Slughorn,Trust,0.07014164
+Minerva McGonagall,Anger,0.10372511
+Minerva McGonagall,Anticipation,0.10249071
+Minerva McGonagall,Disgust,0.079504366
+Minerva McGonagall,Fear,0.068667354
+Minerva McGonagall,Joy,0.107999633
+Minerva McGonagall,Sadness,0.106501796
+Minerva McGonagall,Surprise,0.107635747
+Minerva McGonagall,Trust,0.105345705
+Neville Longbottom,Anger,0.160615213
+Neville Longbottom,Anticipation,0.151052434
+Neville Longbottom,Disgust,0.090666632
+Neville Longbottom,Fear,0.145548612
+Neville Longbottom,Joy,0.173447584
+Neville Longbottom,Sadness,0.168043485
+Neville Longbottom,Surprise,0.114572288
+Neville Longbottom,Trust,0.150258659
+Ron Weasley,Anger,0.262269051
+Ron Weasley,Anticipation,0.179875108
+Ron Weasley,Disgust,0.240866603
+Ron Weasley,Fear,0.242356375
+Ron Weasley,Joy,0.183031797
+Ron Weasley,Sadness,0.253639769
+Ron Weasley,Surprise,0.134408078
+Ron Weasley,Trust,0.159741642
+Rubeus Hagrid,Anger,0.120805661
+Rubeus Hagrid,Anticipation,0.080158804
+Rubeus Hagrid,Disgust,0.094025763
+Rubeus Hagrid,Fear,0.104695469
+Rubeus Hagrid,Joy,0.083785256
+Rubeus Hagrid,Sadness,0.121112794
+Rubeus Hagrid,Surprise,0.092741364
+Rubeus Hagrid,Trust,0.113809273
+Severus Snape,Anger,0.055965964
+Severus Snape,Anticipation,0.086408038
+Severus Snape,Disgust,0.112229127
+Severus Snape,Fear,0.068452977
+Severus Snape,Joy,0.104093433
+Severus Snape,Sadness,0.101343552
+Severus Snape,Surprise,0.060336332
+Severus Snape,Trust,0.106087246
+Voldemort,Anger,0.099169725
+Voldemort,Anticipation,0.066910598
+Voldemort,Disgust,0.119932324
+Voldemort,Fear,0.178034928
+Voldemort,Joy,0.063167173
+Voldemort,Sadness,0.203816871
+Voldemort,Surprise,0.104086432
+Voldemort,Trust,0.088205208
