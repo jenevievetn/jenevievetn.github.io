@@ -5,9 +5,6 @@ account: jenevievetn
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 11751582
-bundleId: 8491431
+bundleId: 8492705
 url: https://jenevievetn.shinyapps.io/app3/
 version: 1
-asMultiple: FALSE
-asStatic: FALSE
-ignoredFiles: desktop.ini
