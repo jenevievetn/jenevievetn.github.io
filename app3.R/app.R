@@ -18,7 +18,11 @@ character_colors <- c("Harry Potter" = "#00C1A3",
 
 # Define UI
 ui <- fluidPage(
-  titlePanel("Distribution of Emotion Sentiments by Character"),
+  titlePanel(
+    div(
+      style = "font-size: 23px;",  # Adjust font size here
+      "Distribution of Emotion Sentiments by Character")
+    ),
   sidebarLayout(
     sidebarPanel(
       selectInput("emotion", "Select Emotion:", choices = unique(top10_emotion_avg_long$Emotion))
