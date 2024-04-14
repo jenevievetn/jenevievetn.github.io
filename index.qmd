@@ -22,7 +22,7 @@ for NM2207.
 **Picture this**: It's a rainy afternoon and you're diving back into the magical world of Harry Potter, when suddenly, a curious question strikes you like a bolt of lightning⚡ - *what if we could quantify the emotional impact of each chapter*, dissecting the highs and lows with the precision of a potion master?
 
 ```{=html}
-<h2 style="text-align: center;">To do this, I retrieved a proprocessed dataset which contained all Harry Potter books in txt file format, and ran them through an <span style="background-color: #FFCCDC;">emotion sentiment analyser</span> , a powerful tool promising to unveil the hidden emotional nuances nestled within the text. </h2>
+<h2 style="text-align: center;">To do this, I retrieved a preprocessed dataset which contained all Harry Potter books in txt file format, and ran them through an <span style="background-color: #FFCCDC;">emotion sentiment analyser</span> , a powerful tool promising to unveil the hidden emotional nuances nestled within the text. </h2>
 
 <p>The difference between how readers interpret a passage's emotion sentiment and how an emotion sentiment analyser interprets the passage lies in the <u>subjective nature</u> of human emotions and the <u>objective algorithms</u> used by sentiment analysis tools.</p>
 ```
