@@ -8,7 +8,7 @@ I am a Year 1 Communications and New Media major with a minor in Interactive Med
 
 Thank you for visiting!💟
 
-# What emotions are evoked in the Harry Potter series, and how do they evolve over time?
+# How do emotions evolve throughout the Harry Potter series, including the development of individual characters' emotional arcs?
 
 for NM2207.
 
@@ -21,8 +21,6 @@ for NM2207.
 ```
 **Picture this**: It's a rainy afternoon and you're diving back into the magical world of Harry Potter, when suddenly, a curious question strikes you like a bolt of lightning⚡ - *what if we could quantify the emotional impact of each chapter*, dissecting the highs and lows with the precision of a potion master?
 
-As I embarked on my journey through the pages of J.K. Rowling's beloved series once more, this question lingered in the back of my mind like a persistent spell. Could the joy, the sorrow, the excitement, and the fear evoked by these timeless tales be quantified and analysed?
-
 ```{=html}
 <h2 style="text-align: center;">To do this, I retrieved a proprocessed dataset which contained all Harry Potter books in txt file format, and ran them through an <span style="background-color: #FFCCDC;">emotion sentiment analyser</span> , a powerful tool promising to unveil the hidden emotional nuances nestled within the text. </h2>
 
@@ -31,16 +29,6 @@ As I embarked on my journey through the pages of J.K. Rowling's beloved series o
 -   **Readers' Interpretation**: Readers' interpretation of emotion sentiment is subjective and influenced by individual experiences, perspectives, and cultural backgrounds. They may perceive emotions differently based on personal context, preferences, and emotional sensitivity.
 
 -   **Emotion Sentiment Analyzer's Interpretation**: Emotion sentiment analysis relies on objective algorithms to analyse text and quantify emotional content. These algorithms are trained on large datasets and use predefined rules or machine learning models to identify and categorise emotional cues in text.
-
-Before we get into the results of the data analysis, let’s play a game to see how you would identify and categorise emotional cues in text.
-
-Here are several excerpts from the actual Harry Potter books. For each one, select which emotion you think is the most prevalent. Don’t think too hard about it—just react!
-
-*due to problems encountered with the game, it has not been included in the website yet.*
-
-As you read the Harry Potter excerpts, you likely gravitated towards specific emotions, reflecting your individual perspective and emotional awareness. This subjective interpretation is a hallmark of human cognition, shaped by our individual experiences, biases, and cultural backgrounds.
-
-In contrast, emotion sentiment analysers rely on objective algorithms to analyze text and measure emotional content. While these algorithms provide insights and efficiency in processing large volumes of data, they lack the nuanced understanding and context of human emotion interpretation.
 
 Now, let's see how the emotion sentiment analyser interprets the Harry Potter series using the data gathered.
 
@@ -60,7 +48,11 @@ The sentimentr package by Tyler Rinker in R is designed to accurately calculate 
 
 ```{=html}
 <br>  
-<p style="text-align: center;"> 🏰🔮✨ </p>
+<p style="text-align: center;">  📜🏰⌛ </p>
+```
+
+# Exploring Emotional Sentiment Trends
+```{=html}
 <h2>Two Sentiments: Positive and Negative </h2>
 
 <br>
@@ -82,13 +74,129 @@ The three greatest spikes in that chart above are
 <h2>Eight Basic Emotions: Anger, Disgust, Fear, Joy, Sadness, Surprise, Trust, and Anticipation </h2>
 
 <div style="text-align: center;">
-    <iframe height="600" width="90%" frameborder="no" src="https://jenevievetn.shinyapps.io/sample_app/"> </iframe>
+    <iframe height="600" width="95.99%" frameborder="no" src="https://jenevievetn.shinyapps.io/sample_app/"> </iframe>
 </div>
-<br>
 
 <div style="text-align: center;">
     <iframe height="600" width="90%" frameborder="no" src="https://jenevievetn.shinyapps.io/app2/"> </iframe>
 </div>
+<p style="text-align: center;"> 👻🧙📖 </p>
+```
+
+```{=html}
+<h2>Emotional Spectrum: Insights in Pie</h2>
+
+<h4 style="text-align: center;;">Distribution of Emotions in the Harry Potter Series</h4>
+<figure style="display: block; margin: 0 auto">
+  <img src="piechart.png" style="width: 450px; height: 329.25px; display: block; margin: 0 auto;">
+<br>
+<p>The piechart helps to identify which emotions are most prevalent across the series. This could indicate the overall mood or tone of the narrative.<p>
+
+<p><span style="color: #024B8F; font-weight: bold;">Sadness</span> emerges as the dominant emotion, comprising <span style="color: #024B8F; font-weight: bold;">21%</span> of the emotional spectrum. Several factors can contribute to the prevalence of sadness in the series:</p>
+<ul>
+  <li>Deeply rooted themes of loss and sacrifice.</li>
+  <li>Significant personal tragedies experienced by characters.</li>
+  <li>Profound sadness and grief evoked by the deaths of beloved characters like Harry's parents, Sirius Black, and Dumbledore.</li>
+</ul>
+<br>
+<p style="text-align: center;"> 🧊️🦌🌲</p>
+```
+
+```{=html}
+<h2 style="text-align: center;">Having identified sadness to be the most prominent emotion in the series, I sought to explore its <span style="background-color: #FFCCDC;">potential correlations</span> with other emotions in the narrative.</h2>
+```
+After obtaining an overall understanding of the emotional sentiment trends, I shifted my focus to explore deeper connections among the different emotions portrayed throughout the series.
+
+# Investigating Emotional Correlations
+```{=html}
+<br>
+<figure style="display: block; margin: 0 auto">
+  <img src="8.jpg" alt=""After all this time?" "Always," said Snape. style="width: 480px; height: 198.5px; display: block; margin: 0 auto;">
+  <figcaption style="text-align: center;">"After all this time?" "Always," said Snape.</figcaption>
 <br>
 ```
+We begin by creating a correlation heat map. This visual provides insights into the correlation between different emotional states.
+
+```{=html}
+<h2>Insights from Correlation Heat map </h2>
+
+<div style="display: flex; justify-content: center;">
+    <div style="flex: 1;">
+        <h3>Emotion Correlation Heat map</h3>
+        <img src="corrplot1.png" alt="corrplot1." style="width:375px; height: 275px; display: block; margin: 0 auto;">
+        <br>
+        <p>Here's an overview of the correlations between emotions as revealed by the heat map.</p>
+        <p>Emotions with the strongest <span style="background-color: #FFD5D5;">positive correlations</span> are:</p>
+        <ol>
+        <li>Anger and sadness at <span style="font-weight: bold;">0.87</span>.</li>
+        <li>Disgust and fear at <span style="font-weight: bold;">0.7</span>.</li>
+        <li>Sadness and fear at <span style="font-weight: bold;">0.61</span>.</li>
+        </ol>
+    </div>
+    <div style="flex: 2;">
+        <h3>Sadness-centric Line Chart Analysis</h3>
+        <img src="sadness vs anger.gif" alt="sadness vs anger" style="width: 400px; height: 250px; display: block; margin: 0 auto;">
+        <ul>
+        <li><span style="color: #024B8F; font-weight: bold;">Sadness</span> exhibits the strongest <span style="background-color: #FFD5D5;">positive correlation</span> with <span style="color: #EB022E; font-weight: bold;">anger</span> (<b>0.87</b>).</li>
+        </ul>
+        <img src="sadness vs joy.gif" alt="sadness vs joy" style="width: 400px; height: 250px; display: block; margin: 0 auto;">
+        <ul>
+        <li><span style="color: #024B8F; font-weight: bold;">Sadness</span> demonstrates its most notable (albeit weak) <span style="background-color: #D5E5FF;">negative correlation</span> with <span style="color: #FB924B; font-weight: bold;">joy</span> at <b>-0.14</b>.</li>
+        </ul>
+    </div>
+</div>
+<p>The animated line charts juxtapose the emotional trajectories of <span style="color: #024B8F; font-weight: bold;">sadness</span> with <span style="color: #EB022E; font-weight: bold;">anger</span> and <span style="color: #FB924B; font-weight: bold;">joy</span>, highlighting their respective positive and negative correlations as depicted in the correlation heatmap.</p>
+
+<p>The strong positive correlation between sadness and anger (<b>0.87</b>) can be attributed to the <u>complex emotional journeys</u> of characters like <b>Harry Potter</b> and <b>Severus Snape</b>. These characters often experience intersecting emotions in response to various events:</p>
+  <ul>
+  <li>Harry grapples with the <span style="background-color: #FFD5D5;">loss of loved ones, personal struggles, and betrayals</span>, which elicit a blend of sorrow and indignation.</li> 
+  <li>Similarly, Severus Snape's <span style="background-color: #FFD5D5;">tragic past, conflicted loyalties and redemption arc</span> contribute to his multifaceted emotional landscape, characterised by a mixture of sadness and bitterness.</li>
+  </ul>
+<p> The weak negative correlation between sadness and joy (<b>-0.14</b>) in Harry Potter may <u>seem counterintuitive</u> at first glance, but it can be elucidated through the complexities of character experiences:</p>
+  <ul>
+  <li>While sadness pervades many instances in the series, there are also moments of <span style="background-color: #D5E5FF;">joy and camaraderie amidst the turmoil</span>.</li> 
+  <li>For example, Harry and his friends find solace and moments of levity in their friendships, achievements, and triumphs against adversity.</li>
+  </ul>
+
+<br>
+<p style="text-align: center;"> 🎩🗡🐍</p>
+```
+
+```{=html}
+<h2 style="text-align: center;">Due to the <u>preprocessing steps</u>* applied to the book data, there was difficulty in accurately discerning character emotions based on dialogue. To counter this, I acquired an alternative dataset containing <span style="background-color: #FFCCDC;">dialogue from the movie series</span>.</h2>
+
+<p><span style="color: #EB022E;">*</span>particularly the removal of symbols, including speech open and inverted commas</p>
+```
+
+
+# Determining Character Importance
+```{=html}
+<br>
+<figure style="display: block; margin: 0 auto">
+  <img src="9.jpg" style="width: 480px; height: 200px; display: block; margin: 0 auto;">
+  <figcaption style="text-align: center;">"Not me, not Hermione, YOU."</figcaption>
+<br>
+```
+Quantifying dialogue distribution across characters offers a straightforward method to discerning their importance within the story.
+
+```{=html}
+<h2> Key Findings from Character Dialogue Distribution Analysis</h2>
+<div style="display: flex; justify-content: center;">
+    <div style="flex: 1;">
+        <img src="dialogue_bar.png" style="width:450px; height: 300px; display: block; margin: 0 auto;">
+    </div>
+    <div style="flex: 1;">
+        <img src="dialogue bar graph.gif" style="width: 500px; height: 300px; display: block; margin: 0 auto;">
+    </div>
+</div>
+<br>
+<p>As expected, <span style="color: #00C1A3; font-weight: bold;">Harry</span> naturally assumes <span style="color: #00C1A3; font-weight: bold;">1st</span> place as the protagonist. The animated bar chart showcasing character dialogue by movie clearly highlights Harry's prominence, with his dialogues <b>dominating each installment</b> of the series.<p>
+
+<p>However, what's striking is the <span style="font-weight: bold;">significant disparity in dialogue lines</span> between Harry and his best friend, <span style="color: #F8766D; font-weight: bold;">Ron</span>. While it is typical for the main character to take center stage, the fact that Harry's dialogue surpasses Ron's by <span style="font-weight: bold;">more than double</span> highlights the narrative's clear focus on Harry, solidifying his pivotal role to the series.</p>
+
+<p> Another fascinating detail is <span style="color: #A3A500; font-weight: bold;">Voldemort's</span> placement as the <span style="color: #A3A500; font-weight: bold;">9th</span> character with the most dialgues in the series. Despite his relative lower dialogue count, his impact on the narrative is undeniable.</p>
+
+<p> As the main antagonist, Voldemort embodies fear, respect, and evil, instilling terror in both characters and readers alike. His character’s presence is so potent that it <span style="font-weight: bold;">transcends the need for extensive dialogue</span>. Instead, his mere existence evokes a sense of foreboding and menace, demonstrating the power of a well-conceived and executed character.</p>
+```
+
 
