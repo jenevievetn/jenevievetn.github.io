@@ -222,7 +222,7 @@ I chose to focus exclusively on the **top 10** characters with the most extensiv
 <li>This highlights the narrative's clear focus on Harry, solidifying his pivotal role to the series.</li>
 </ul>
 
-<p> Another fascinating detail is <span style="color: #A3A500; font-weight: bold;">Voldemort</span> being only <span style="color: #A3A500; font-weight: bold;">9th place</span>  despite his role as the <span style="background-color: #FFF4BC">main protagonist</span>. Despite his relatively lower dialogue count, his impact on the narrative is undeniable.</p>
+<p> Another fascinating detail is <span style="color: #A3A500; font-weight: bold;">Voldemort</span> being only <span style="color: #A3A500; font-weight: bold;">9th place</span>  despite his role as the <span style="background-color: #FFF4BC">main antagonist</span>. Despite his relatively lower dialogue count, his impact on the narrative is undeniable.</p>
 <ul>
 <li>Voldemort embodies fear, respect, and evil, instilling terror in both characters and readers alike. His character’s presence is so potent that it <span style="font-weight: bold;">transcends the need for extensive dialogue</span>.</li>
 <li>His mere existence evokes a sense of foreboding and menace, demonstrating the power of a well-conceived and executed character.</li>
