@@ -1,0 +1,12 @@
+name: app2
+title: app2
+username: jenevievetn
+account: jenevievetn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11732984
+bundleId: 8499096
+url: https://jenevievetn.shinyapps.io/app2/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
