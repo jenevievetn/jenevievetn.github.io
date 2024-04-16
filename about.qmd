@@ -4,10 +4,14 @@ title: "About"
 
 ## How I made this
 
-To conduct this analysis, I utilised a [data set](https://www.kaggle.com/datasets/moxxis/harry-potter-lstm?select=Harry_Potter_all_books_preprocessed.txt) comprising all seven Harry Potter books in TXT format, which had been preprocessed by Mateusz Kudla and made available on Kaggle.
+### Datasets
 
-Additional preprocessing was performed using the tidytext and textdata packages in R. Each book's text was segmented into chapters, allowing for a more granular analysis. The chapter-wise text was then compiled into a tibble, facilitating streamlined data handling and analysis.
+To conduct this analysis, I began by leveraging 2 key datasets. The first [data set](https://www.kaggle.com/datasets/moxxis/harry-potter-lstm?select=Harry_Potter_all_books_preprocessed.txt) contained all seven Harry Potter books in TXT format, sourced from Mateusz Kudla's repository on Kaggle.
 
-```{=html}
-<iframe height="400" width="100%" frameborder="no" src="https://jenevievetn.shinyapps.io/sample_app/"> </iframe>
-```
+Using R packages like `tidytext` and `textdata` packages in R, I performed additional preprocessing, segmenting the text into chapters for a more detailed analysis. The chapter-wise text was then compiled into a tibble format for streamlined data handling and analysis.
+
+To further substantiate my analysis, I acquired a second [data set](https://www.kaggle.com/datasets/maricinnamon/harry-potter-movies-dataset) comprising dialogues from the movie series, sourced by Maryna Antonevych on Kaggle. Similar preprocessing techniques were applied, but this datset was unique in its organisation by character, enabling a deeper exploration of individual character's emotional expressions throughout the series.
+
+### Data Visualisations
+
+For visualisations, I utilised a combination of `ggplot2`, `plotly`, and `gganimate` packages in R, alongside developing `shiny` applications to create dynamic graphs which enhanced the overall presentation of findings.
