@@ -1,9 +1,13 @@
 library(ggplot2)
 library(shiny)
 library(tidyverse)
+library(plotly)
 
 # Load the data
 combined_sentiment <- read.csv("combined_sentiment.csv")
+text_by_chapter <- read.csv("text_by_chapter.csv")
+
+filtered_data <- text_by_chapter[!is.na(text_by_chapter$chapter), ]
 
 # Define custom hex colors for emotion
 custom_colors <- c("#EB022E", "#008FD5", "#F9BC44", "#933289", "#FB924B", "#6A8E4B", "#8B8B8B", "#024B8F")
@@ -14,37 +18,66 @@ ui <- fluidPage(
   titlePanel(
     div(
       style = "font-size: 23px;",  # Adjust font size here
-      "Combined Emotional Sentiment of the Harry Potter Series"
+      "Select and Compare Emotional Sentiments"
     )
   ),
   
-  # Sidebar layout with input and output definitions
-  sidebarLayout(
-    # Sidebar panel for inputs
-    sidebarPanel(
-      # Checkbox group for selecting emotions
-      checkboxGroupInput("emotions", "Select Emotions:", 
+  # Add tabset panel for multiple tabs
+  tabsetPanel(
+    
+    # First tab for sentiment analysis
+    tabPanel("Sentiment Analysis",
+             sidebarLayout(
+      # Sidebar panel for inputs
+      sidebarPanel(
+        # Checkbox group for selecting emotions
+        checkboxGroupInput("emotions", "Select Emotions:", 
                          choices = unique(combined_sentiment$emotion), 
                          selected = unique(combined_sentiment$emotion),
                          inline = TRUE)  # Display checkboxes inline
     ),
-    # Main panel for displaying outputs
-    mainPanel(
-      # Plot output for sentiment chart
-      plotOutput("sentiment_plot")
-    )
-  )
-)
+    
+        # Main panel for displaying outputs
+        mainPanel(
+          # Plot output for sentiment chart
+          plotlyOutput("sentiment_plot")
+        )
+      ))),
+  # Second tab for text summaries by chapter
+  tabPanel("Chapter Summary",
+           sidebarLayout(
+             sidebarPanel(
+               # Text input for chapter number
+               textInput("chapter_number", "Enter chapter number seen on graph:")),
+             mainPanel(
+               # Output box for book title
+               tags$div(
+                 h4("Book Title"),
+                 verbatimTextOutput("book_title_output")
+               ),
+               # Output box for book chapter
+               tags$div(
+                 h4("Book Chapter"),
+                 verbatimTextOutput("chapter_output")
+               ),
+               # Output box for summary
+               tags$div(
+                 h4("Summary"),
+                 verbatimTextOutput("summary_output")
+               )
+             )
+           ))))
 
 # Define server logic
 server <- function(input, output, session) {
+  
   # Render the sentiment plot
-  output$sentiment_plot <- renderPlot({
+  output$sentiment_plot <- renderPlotly({
     # Filter data based on selected emotions
     filtered_sentiment <- combined_sentiment %>%
       filter(emotion %in% input$emotions)
     # Plot sentiment chart for the selected emotions
-    ggplot(filtered_sentiment, aes(x = chapter, y = sentiment, color = emotion)) +
+    plot <- ggplot(filtered_sentiment, aes(x = chapter, y = sentiment, color = emotion)) +
       geom_line(linewidth = 1) +
       labs(title = " Sentiment Analysis",
            x = "Chapter",
@@ -52,7 +85,7 @@ server <- function(input, output, session) {
            colour = NULL) +
       theme_minimal() +
       theme(
-        axis.text = element_text(size = 7),
+        axis.text = element_text(size = 8),
         axis.title = element_text(size = 8),
         plot.title = element_text(size = 12),
         panel.background = element_rect(fill = "grey95", colour = "grey95"),
@@ -63,20 +96,82 @@ server <- function(input, output, session) {
         legend.spacing.y = unit(0.1, "cm")
       ) +
       scale_color_manual(values = custom_colors)
+    
+    # Convert ggplot to plotly object
+    ggplotly(plot)
   })
 }
+
+# Render book title
+output$book_title_output <- renderText({
+  # Get the selected chapter number
+  chapter_number <- input$chapter_number
+  
+  if (!is.na(chapter_number) && chapter_number != "") {
+    # Convert chapter_number to numeric format
+    chapter_number <- as.integer(chapter_number)
+    # Filter the text_by_chapter dataset for the selected chapter
+    filtered_text <- filtered_data[filtered_data$chapter == chapter_number, c("book_title", "chapter_name", "summary")]
+    
+    # Return the corresponding book title
+    if (nrow(filtered_text) > 0) {
+      filtered_text$book_title
+    } else {
+      "Chapter not found."
+    }
+  } else {
+    # If no input is provided, display a default message
+    "Give an input."
+  }
+})
+
+# Render book chapter 
+output$chapter_output <- renderText({
+  input$chapter_number
+  
+  # Get the selected chapter number
+  chapter_number <- input$chapter_number
+  
+  if (!is.na(chapter_number) && chapter_number != "") {
+    # Convert chapter_number to numeric format
+    chapter_number <- as.integer(chapter_number)
+    # Filter the text_by_chapter dataset for the selected chapter
+    filtered_text <- filtered_data[filtered_data$chapter == chapter_number, c("book_title", "chapter_name", "summary")]
+    # Return the corresponding summary
+    if (nrow(filtered_text) > 0) {
+      filtered_text$chapter
+    } else {
+      "Chapter not found."
+    }
+  } else {
+    # If no input is provided, display a default message
+    "Give an input."
+  }
+})
+
+# Render text summary for the selected chapter
+output$summary_output <- renderText({
+  # Get the selected chapter number
+  chapter_number <- input$chapter_number
+  
+  if (!is.na(chapter_number) && chapter_number != "") {
+    # Convert chapter_number to numeric format
+    chapter_number <- as.integer(chapter_number)
+    # Filter the text_by_chapter dataset for the selected chapter
+    filtered_text <- filtered_data[filtered_data$chapter == chapter_number, c("book_title", "chapter_name", "summary")]
+    # Return the corresponding summary
+    if (nrow(filtered_text) > 0) {
+      filtered_text$summary
+    } else {
+      "Chapter not found."
+    }
+  } else {
+    # If no input is provided, display a default message
+    "Give an input."
+  }
+})
+
 
 # Run the application
 shinyApp(ui = ui, server = server)
 
-# STEP 1 – INSTALL RSCONNECT
-#install.packages('rsconnect')
-
-# STEP 2 – AUTHORIZE ACCOUNT
-#rsconnect::setAccountInfo(name='jenevievetn',
-#                          token='1F55D0BF747C0A8BFB032D840C3C72E8',
-#                          secret='ALSFWGD0EaoNnwMbhpqPzVqgfa+VBGBLhY/h6Dmr')
-
-# STEP 3 – DEPLOY
-# library(rsconnect)
-# rsconnect::deployApp('C:/Users/Jen.ACER-JN/Documents/SKOOO/Y1 S2 Modules 2024/NM2207/Project/jenevievetn.github.io/app2.R')
