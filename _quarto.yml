@@ -4,14 +4,15 @@ project:
 
 website:
   title: "jenevievetn.github.io"
+  google-analytics:  # Begin Google Analytics block
+        tracking-id: "G-JFBSZDSE1J"  # Replace "G-XXXX" with your actual Tracking ID
+        anonymize-ip: true
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-  google-analytics:  # Begin Google Analytics block
-          tracking-id: "G-JFBSZDSE1J"  # Replace "G-XXXX" with your actual Tracking ID
-          anonymize-ip: true
+
  
 
 format:
