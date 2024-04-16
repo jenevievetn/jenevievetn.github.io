@@ -5,7 +5,7 @@ account: jenevievetn
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 11614895
-bundleId: 8489989
+bundleId: 8498214
 url: https://jenevievetn.shinyapps.io/sample_app/
 version: 1
 asMultiple: FALSE
