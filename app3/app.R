@@ -21,7 +21,7 @@ ui <- fluidPage(
   titlePanel(
     div(
       style = "font-size: 23px;",  # Adjust font size here
-      "Distribution of Emotion Sentiments by Character")
+      "Distribution of Emotion Sentiments by Character Across the Series")
     ),
   sidebarLayout(
     sidebarPanel(
