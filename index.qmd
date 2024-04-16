@@ -212,7 +212,7 @@ I chose to focus exclusively on the **top 10** characters with the most extensiv
 <ul>
 <li><span style="color: #00C1A3; font-weight: bold;">Harry</span> naturally assumes <span style="color: #00C1A3; font-weight: bold;">1st place</span> as the <span style="background-color: #FFF4BC">protagonist</span>.</li>
 
-<li>Harry's dialogues <b>dominate each installment</b> in the series as shown by the animated line chart for character dialogue by movie, emphasising his prominence in the series.</li>
+<li>Harry's dialogues <b>dominate each installment</b> in the series as shown by the animated bar chart for character dialogue by movie, emphasising his prominence in the series.</li>
 </ul>
 
 <p>However, what's striking is the <span style="font-weight: bold;">significant disparity in dialogue lines</span> between Harry and his best friend, <span style="color: #F8766D; font-weight: bold;">Ron</span>.</p>
