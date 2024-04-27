@@ -83,7 +83,7 @@ The `sentimentr` package by Tyler Rinker in R is designed to accurately calculat
 
 <div style="text-align: center;">
     <iframe height="650" width="95.99%" frameborder="no" src="https://jenevievetn.shinyapps.io/sample_app/"> </iframe>
-    <figcaption style="text-align: center;"><b>How to read the graph:</b> Hover your cursor along any point on the graph to view more information on the intensity of emotion experienced in each book. Toggle between the Sentiment Analysis Tab and the Chapter Summary Tab to seamlessly switch between detailed emotional insights and concise storyline overviews.</figcaption>
+    <figcaption style="text-align: center;"><span style="background-color:#FFCCDC; font-weight: bold;">How to read the graph:</span> Hover your cursor along any point on the graph to view more information on the intensity of emotion experienced in each book. Toggle between the <span style="background-color:#FFCCDC">Sentiment Analysis Tab</span> and the <span style="background-color:#FFCCDC">Chapter Summary Tab</span> to seamlessly switch between detailed emotional insights and concise storyline overviews.</figcaption>
 <br>
 </div>
 
